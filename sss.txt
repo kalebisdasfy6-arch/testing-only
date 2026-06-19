@@ -1,71 +1,3047 @@
--- Protected by Mnx Obfuscator | Public Enemy
-local gN1qWKoSW=math.abs(-32)
-local wXdYhro5DJh=math.floor(6)
-local wyKS5D2lOK5Ole=string.len("pKLHV")
-local ofrPDCY5ce=math.abs(-32)
-local pd8jZMYoT6m=#"gZKLg"
-for _=1,0 do end
-local mAVS58Chj=string.len("zzguTL")
-local bNIlQ6Vltk47lzl=tostring(23)
-local q3T9HP3I4ZDpE7Q3=math.abs(-100)
-for _=1,0 do end
-do local _=nil end
-local oOubv23Qa={"efd387c8c281de4d8dfcf8949da0060c84960d44a872d2ac3f5eb3ad20139b709ad9046c6d46705611201bf00df4b22bdcae3b2592c4e7f591288c6d9130642430093a814ea28dd33096ad1a32033991f97795416355b155f8561f243a010fca33d9f5ff","5a2d0f6da3018dd10ff2bff796ddf016b27d98290667069b18ea21d52ddffb6e9676337febbef372f83da667e47ee726be099d0030c922a88302af85470c7f62957fb3daa933fd2d97e90ff42dda5db16e228613afce8317be8a04480214185beb70a73e","d3d9a863d69d232611e359a75b54e753ad8f45a3d1b402fc2639719c3679a7466fbfa229fb963376bf1a87fa5507bafcef89ef47aeb0d75b2e7e5d8458b69eb43486920028d1c5b2a08fbb36f3bd5a7786cdde473483ff79369cc93f9a1669ef6010a0da","9cc8dcc0de2baf50f51a19f12bff0d0db60b93ba4603efdd19deb67c99b2c14982707cc308dc7fda1dc183a686f04850bf91d45bbe4dcd71ac4aad131eafb0cda1316b54dd35c9fcf21ac88cb64b9266af92bac72e2d358f4d80d9e46c19eb24aa7c6839","e23093330bc09446e80f6ebaabc567c6b60c6cd4bc049c91eb692cd76a4a475573e3dd82302dae05c845804db52ceccd59f807221e6d93f835b9303ee69af360ea2531249939a554d0b6ad42d590540edaadbd140589e8b8c84280cba84981899f65b551","0dab1e9c15d16a5ae26cffd970ab8ee4f9a8e3bcd6d5dd4076109361adc89d7e5359e24cada10449c1f5d6235958f441d3cd8e6d44ed0afd5b18d2d0711adba2bab1f631fd85bf4a17f0eeeab3df7b928e8920a06c77bd14a5f76dec8a636eff3d84be3d","bf49598dd0f3a65b416772095d9b3109a943594e4c39b9fcaddcaa361eeecab8ea55b2c639c931eb07e57462db0139dcd98d8742bc75b96aee3cdaa42e8858e8a8a22eaaf915a9397374fdd8c7d5b61060182fbeb8677a67fef8d1d00f1f1107bda5f672","399ebb80cc37b9246148ea5cbed162a61c1610ff321ba6b9d841b4635049dc509a35020dd555ff6e7ca450b9c09401af02095b61a98e1ffd8b8386547cb8a4f7fad14c8e98d91e37c30be8aee5b7fa6519b8e9f7e747ed34fec20ffe4d4252f1f521945b","3ace09978626db68f18a5858de2fe1abc621a140d8c9d27e2867548c7fae503c309b9a799b7cea6ff289aa37aff6aff7c27302be50729c2574e09e34dc4ef3b2c5af9dec860b0a7baf0cd59d338d317a5c47ac6bc86dc4fb145aa463864baea08f1d9f49","af48655f6021f090e999f86cf51aa559d2d772b05b65121b2835f96bf7c68a13a05b7795a326eb142f468d762d0a7c752aaf0b76e93afc8745294b94e011ba4a125cf336b9dd3cffb0f70dbb34ff70040d7a54cf499add480b48e674ed54886937a18e5f","4b2c0b995679bea2c94ff4f66ad187bb96c08b58b61684b11a42fb9c1b09ac47714d747d5719fdad1fa944940f1ccf18a96bcb8bb1ee05dece089a19da01bfd269ae69dc7aeb1f1cb594e0a093fe37bac96a68aed24b82f304e937abb8031f7974dfd74e","547435a17da50d330218a4e4001140e3fe89ab18ea15fa08be771dbb2b0b104f6c767b4a2324cc4282dffbcaba45ccab27cd6f5737057176f9df2425123dcfd2a2be9bed22ebb106f54ca629a92df383119c1f68c73f816daa7676106eaeed413159bb8c","760e655b94d7f9bda2dba86097681a9d7c0d5a83d6192362a4f67ef0a4d7be26b7cc8f595c5e8e4b885bc78efad87a041e12831b4bfa31bac289b12edb56918f9ca66f17ae4e96c48863cc53d8c47960896dde3cc76fe696e1c5e810339e22aa1383378d","3fc54fdf28f70124c0e0e0bffe42eccfac899ee3a43a85119ead3b2275b635e2c91d7e79818a403087829c478320f95336e7e51373bfb0f17bcc0095f66cdbebf372b89a5ae4c500af5dcbab21010c9c26cf12aa317e9a37afab3a61fdaaad6bba2bfc13","7a4412cbd3e1c95ca077daff7a3a8c2ac8b58162b93239886d673bcc67ccc0aea806a3ac725a327aa42bda27ba69b66b61fde2dfa6641189d3642313610686b942ff31c8c1b0e52ec190af48db420de3c28546761f4b491cc8ecf30ee68bddfa9ee747d9","82d91d650f151a57e8d71307bbf922e4cb9f907e4b25956900ac9a95636d3339c56eb9f3181feb9c10f1f0569623518eed6b316373f86dbf093f0b79a9930e13fd96fce4583f0a55e456ad23e8d7786c56d57a1e81bbb2e9ac4d09aa6245b420b290c063","8affc12717bc2bcf64a45035cb59b3d422629548a586d265b12a565f6d0f5d1515f674620448ea3b3e21ff42f1a5c8eef577aaef692b14dcbab1d60bd38a6358a9ae9b97067ea0e293a9883ec96de9408722799487ce4d87740fde17f3c62f4ca295f6f5","86ba95e572af0dcda103b2018e0f2a6cdccc82bbfe3e0a3aac7c516acaf61cfc5bec13eec963cd2eb47b0b1df489e1794929bf1b944f6f5bcd59fe0da62d29efbb5b27910b064237d15ff0e7ec7aa8d89bf8808b4c528ef3048ee9e3f6e4d337098f6afd","c05e22b8242c1df34c9e2ee6d1373fb54014e4dfe6ee8ef4a7edbb441e1645a022da65083593d56f9cb90846a689d4bcd4d3d73bdc2b8b1361fd18b438d108e494dcc4467835e49bab4fc589c96cd7c0b71d46c40278eb810d2f5fd84eb60e424ba496e7","f7e76fe34f822ff5f92d8b28e3f5f2cc4da2b2bae428fcd5791a70753a9a88cc4ae3ca74ee02adda79729ffcb699ce5a35708f2fb81d7e6361ba927f385dfe33fed12c72442ce44598b19d01bb52a05145bdbae3c9ee025ff9ae21c61d5a89f6d9b2894d","9d62c46ad1134c9008f605a32468e33022fca797999a7adecb331ddbdd0dc1dbfbdd4a166dcb6b2dbb55bcf624874ed1e47b253c8b21d24e89755ea153c4062d4f1df652da4e5900c76bab6cbe3523a29f48ed6333a3708e6fa59255fd2b8fcf33ff6981","ef07e418c8d9984e0f1229aaf9b15cdc681c772c8a747e42ec6ed483d21b5f618ff8ef264c872203edc30f34a32691822569cb94cac8382bf46f985b7d2874e169e959d9042ed4249f96247ec024d1fac5c4f9519e208f1b42a81d8205c008cfa7c2a2eb","7c246504c4036b59e70cca9ab87dd2db907bca3b07fc1d746ec6abb3c23da03a688cc88c8584e337d80bc3116f434dea49e55ded4ba298a2828f700ab29c5c1b8600af24a0cdd606698354f1a4282ffd32fd9e803d2c6ddc5d37aa5f9d371fd9bd7a84c6","ab84fb868bc0d73bd843806b3cd750d74cc00e0d8509d5c46b65efc4878ba43a5590af13f2687fd55463788567748201f78c8816b1ffd662e805a0ec80426d5a53b910ab1fd9ec04841ad5855e3de3e3cf8dfe51a969e6b499d38b440fb963c33a6e602b","1a475d8191ccca17c0619061d820919bffd06d412306d945f4d30f37aaa6c0aebd5baa77d940d44739a270f36b9c071bfd5509eb2a41879b1304edbbd441842a77574bd78e8752e63ff2febef7c36943c02fadc5dc65c9e1fd0d169a04a15f0446f21911","c3ee7ad52154dd268eef2f5abe9ed5f1423bea56b87eca03e28b279d3462505cc0e2f161ee0ba4ad62e4b109ce1087bec17e609429e1d49e2474b0018492885f86ed98ff8209cb655303860725630603a808126dcee7cfbbc120b3998ccbb7bb2c65e450","dbcb1e3f42ae7a45491470d9db0c963435bb20b136ad358cd653fcbc7e48cfdf93d5e969e5415867e86ef3ef3abe3bb6026dd52b6c859a33e1c7ac24f800ee19449d0b3458c429986dd13419359446745f56826293c0946eea4bcca9ac7700f39eb73e8a","28637cfdf814fc3a0926b6ba92edbd06de41abc1d3415da887f472ff851ed014bbd34f51b933a4ee8112a025254e9c61118400c338f23d52a2408cd0cf0b4bc0c6ca078da44adce09c77524c147a1c985c2b8953c24365b49ee0ad89a3254532e47d2160","c0be3f26cea8c3b19434a12fd030a21eb06c0ecd438ae166bf54babe3df2924499b89241a014c081b76978ac01c00f5d4b3ff940fa8a7e0b9b2a3cc4a165db73cd218d25cfaf47c507b061489da76db1031500d9f7c8b1f7bd66e9f7bc35ffa77c6b449a","599fb4340fc088088f2310504653165622082ae1ffeea2b7c1b61f9a94e500a92b4a5aaf3ab0704d43a09d795cf84db6fdff48a89c1df54b89e62426d9a22be40722ab67c725d4b44db5c29c299a3e29776533b8f432d38de68a069cd126a17adb71039d","9d606881530317f273aa7adb2f8679d7f7be336988de9df616c8329b2ff3166dd7272cd503a407dbe41aa30d885cda9e9976f909a19a697793df6aad1e0049f643c05360f8c475337ca1ee8b813ac57daa20535569a1cbf07a856caedd2fc19e700fec96","eebba00ca880f2f68c41b96dc496fd5202df56679af55f68b86222084928ba9bc594e9631730c94947663bba33cf6ce37a25c818a3690f203dfac4f4b57fdc78e92ee2dd99b9a3a2921a02eda80e6b424449b318719445eafa71b2648d16088505caed35","3f2639dae70eceb9b61b7b2cf6396c8922a07fdf311bb06b24e9796739c5a34904339a152a73b7a925b1e57733da8c6ba746bc813c3f07bcef30c57c871ec331bc93e3db0393aa2e677b3b4cadc906db02acfb7062cdd53d3075670b1b7300fb0ddf0fdd","30516dd4f86b6dc07c4c4e9668bd400e99d26c1151521567b8f665fe39808b4488c16b79c723f886a303dbdd4e2dd52411b206c16281581ec5b7aa4fea35bf888c89bf29f124f66fbee1","1f27810f163a840607eb40db4111882de2363f28c99fb90428ca4a67643d844fa3cf3aca18a92a26f693db11423d8288848f0583b23251cd8823fbe7aa4e5bae4b0fb9c9bb80117ad667bb05e003e33bccfa595a74894f9ed5eb78d89f89a3997e04cc89","9362b7b70b99e35b60cde37c99093796bb07f3f59409fca52343d146a4952f0d8e4adba83641c98fb3b61200422553d69c34142efdd5a28768cce26ded16bde2853fe1408a202fd9c3d6d3591e54ef00a88e45b6e587c6be725ea6257d30cea64cdf32e3","d7b1b49443b9a8eb3a317990ecbffd7ee1ba3c88bad2d816d925fcdf5dda697d515e0d20bd689e8a54d7a06be68efccc0e50f134c4ab4359c9f577352055af190aa1692fdc90d3d081078b6652b4b01c0a17cbe14ba56e77c94d9eef86b5fdcbc03c9b89","f6b0eb2229c0c92ff2e773d18c1537ee1f670d0267430f43fac4e8ca9d0cec5b777dbeb11c6c2d709c97ef0ae2afa6d3110abad5fffd6d3b565ab1cd9a0372af34e375980d80b407c4f2e784c2c9cef69f42b427d6688d132e1bc9a04b8d80308d6b9676","749b4e0db8a56c5ff8054ebe6d2eae16f01ab456f82207ed049c567f8d1d42c91100da1ef5fa8f5e22542484981a34f30e037bb44b709a1a98b311facfc6ffcda30fb8979b30965a2a8c36956b98176cc2600e0e3c7ccb9586f8a47e9359cb68ca67558c","59e4cd3fab53d828b84ef3fc2b369e0972700f1c97f3417de38b3eca9e2a94c3f36b5f7db4c8f56de1f526c7fc143dd3790809d1abc5c43d162cb08e166e3cee86b031f51223e221b9dd7f19a9baa9c07814e2d0e929aa651cc095532accccc19fe2ceb7","dd65879681acafecf1befbc99584f336dfdbd2454a6f69f720f8185227aeb00a280e7906096fd0928641d4db16cb5b554afe39cb5cf492419a61dac02f27cf2ec8f3b7b15e78ec5c16ca5fda57eb59ee2a33fa6f63d4458bf42290fec7225c3b990d9947","81bdf8e938f3e1e6c502c4aa0a6b413d83fab2c4fe19c950396110b1fb985386248af090b8141eb9485bdffad0e4c66882784e01162206fe6d78785668487a161974451f426e89e06fafd67fe67983710dee4d860f9d474bdb7214b56957a74f9eeff62b","2213fc26b2fe533c39fceaa8e46ccb5aad37970852b045b366e37c50e0718980050f211c1b82dab530c8dc4e9fef56944e835565371bbc72aafbf3455fcac3da24139dfedb24907437e2c9bab1626f58c9a3dc0643d74cf511ffcaacf35e2747644076c1","6594249c4d9e3734fe9034ec0542eda3ca8c55e58b5e985eee15f4e54dd62bf61bd8639ca997ab0fb170ef5efbb68d4ff3da5e61d93b6a05adb613c0604cfa0e95f61e2aec1b902fa7445ad9a06a534432ee07346a28fcd395e849c9bec997d84dab039f","67bf116fee23d5fd668c1f712be3cd848391b746883f3c16b69f33cf19a7630df918b2ec2c68e19b1eccb21a2ae2985d5f19c3bc45c626ebd477ce1370c365f0a1a88b339ba6e06ceeb443d283923cf662cd264585796f8f3f96e3a85862950be297d94f","b705837c786186089b1c0ffe0edcf43158aed837a0f44c1609959e270f21a85128290f18bb9dbef9dceb5955780349b7037729999c970435ebc9cb03ed6b3098bced04b52fe70f24740a0e7fe9c6a545ac7dd707993ccd1e47d93a7959a7071986729770","4e0dd84d6bec5deee5b6e90cdb3dc15293230b8a153965ad01acf41f2876585ef9d0ac89eb7a981d24cb2369db9e3a4d0dad83df2f6afb48f37d3965cf90fa428abb6a159c6214a812ab12b2e19cc609a9e45b3f8e8557ed6d1e11b6ebc1bb581183e303","a2ecb690e0e3a4abe9616e59a429be66099c1cee0af28f784c0faeac7a4bc8db1b05bb715bf78b88285cb9bd7cc165b1855212d78e6d541f9b22b2ddef20d1c6db89f26508411c357407c9769e5163373d1cfa6f8ef39c2994da8612a1373ce354f19571","ad57ceef4055f4b5a48e3e1debf6b9638fe11ce34ddb6bcf2818dfc42069b839ca99c092812820fe9974d51e35ed15d7b7a45b22fa26e12a8a9bec85df858eaef853ff54b15c1efe8ee17c9e126fb7626c5ddc57aeaeb4fdf1615a01567e8a24195143d6","05209d3da756d0ca7f88fdebc2a10505e99daae4765a88a55073e92cbff1dbc8f0130083fda072f8013c8147e0336a038017acb84a05d65b2d8cb13d08994c8e6e9204147724d1f60512848181e572679768dbbe9842129efcd94dd932058916ee8947f1","bfd03988d40c4f76560ee1cd5d42c15b5d4723753bef320d85ef64aef95b58e8e224ab9b803c926b91c807faa8534bd97c6f96c3a769ac81ece88140ae9cd6f3f0cbb62ce0bf4aedc25ca0e02c82412ef1fec2d6ca0d294395f98d618b7f15ea66a41119","401e9722c501c76c685eadc851de4702d558dcaecd84a86c10159298a355a423d6548c96aa680f4e2434f919b0821ec5a969d5a8e899db88146c8575b6aa5bf24ced08653d53cdcf2fff60adb1a1833f9d3cebb49c5a83f4180e2361182c12a622f8b1f5","640a4276dff28e26b964f3cde64201ab2c4e04c8e3c58208c0e8697576afb4dbe213d32cb847895a54d15bfee1c96225e90ec9745b5cdc7316c0ef3dec596a7b8f5545c04dfa06e02f39b90ff7906c69dc5bcf08e1bba02a970151530cd936bc98c01bef","b534ffe366f3d39808308253f7e40d8482ee5fb6ffa18815ab4297681bc1feb66486090f8262c4d7dc04ecaa799f827ad9532577b03ff4a2b0e3830774194e0bb6e67bbecb98aea99970f56ca475a1445fc91afd7ea1271ebd949fbf794cfd65d8e9784d","c30de03212b30eba36aa1e58516759960b7ed9e3d72ff06bd458d023ac2dfd9e20cd2ba1501ea3802e84b01f0e18ad00ce24b770e1806d89001ec7a99768245d9a85e3ac0c53e2a8cbd7a82ae315cd3db1542ff8debf77a7722edd72ab333f78957291ca","2ab62f2b941f3da8a086ceeedebbcbb36e4fe713a4136d3d11f7f4e0779453fabe8752ff6ddbd97abd5a65d9a070b90f936ef947c0bf7bd777606d9832318e7729a88ba6c0668dc19703479f67f5664b06520b526c5a2f7f7505bdb6aa4422bbd2c4ee22","9d15a456ba220a8b08b669fa7c7b8b0920335808d0fe02d79e52f40e999ce4b84dbd31ec312f060a8445b6105d3f9e6bdcfdf72fd947a829c116617271b71c837b184c1e92ff0a34e1fa3ecfff81a17fa87f56c742e1bc3994ad0c2ad737ef856b1fdfa2","fd218f35ff5ed7d794cf3b2645a2f58ca9c042aa356531e038368033d94ebb42e6e2806270201ad948425ba47a180e172feb34b3281aa7e9f2fef0856ad7f842ad24cfc7f42900804de36b612b31791ef5a03289e58c5cf1eb0fd7d7fd3edd22b32754e7","2789936aea788a43e79454c608f76b13065877606bc5457f70c9dade8d3b195e25a5afc925e9e3e276cd0d708262340f8839f32bf9af4c03999b6e3e2327b88cf18a6af3f2a059fcd7b27902eee9034286385a766878eb13f6b033f63b96832071b3f24a"}
-local puylMFEhApG={24,7,55,36,40,47,49,50,53,45,37,34,57,8,21,14,9,35,22,15,16,4,26,11,5,1,12,20,25,52,29,38,44,59,42,32,41,30,13,43,46,28,39,54,27,17,58,51,6,10,31,23,18,2,48,33,3,19,56}
-local ePEEae5opgG3Q3={"aa5a4d17a446f594c4d9c1fadfcae51482a9aaecae9d9cce7b4360146b00dd6d2989bb57b5e7cacdf0ee67867fe6a7480e14500428f9a9410561f484ce0e0c85fed086954bc7724cff472e905545b74096885176bf5f0f98352902d64b10eefc5e4d0bee","f75a0d81cbb1cb8b2df2fad241c1ca0d9b0774407c854064a596fa42e67f63570a04004cbd93f80fffb39c534dd67d03ced8dcebf60f1eb8ac6def046a7b3c4d050a839a927b41bbb3bd371a00f9d75567c99d03a188de1b438f688c61eea0a674ef17e1","7b44c223637d6dad9c4b6136e98dba09928fce664394467cb9ee2be3479cac6a7d879967ca81e18f8c363587c81a6cf05c2bb4ad3ec018f26e2f5444a740348bb310cfd9f9d8b2d6a3b64c434608293671977841bdc6f56f03dcb0d2f67a8fc3ac9d08fb","0049d90188e54a9b2152803423d25711d90591a970f3170f297fcb445c48338d3f4c74a5d1d77bfe2e09bd5140f507201536a36264451dbbf3ae8f56d0cbc829d8a085968de6f9e458d629772d850bc42e49789a5f85e741899c3d2974b4012e1f765d38","3e1dba5a316d20c898aeb9210f00943dc32b5d5985adb44c65e0f96938d5ec6d01a3f03bfddeefcd0d25e17e8712d7990d8d8f04cd7b65158b8304cd70d5f82f4f7fc0e75c2b7652665bb5a19bf624d62cc14961a7c9b5a681224603b1cdcdae53389282","4c37180d5dc477a99ba5796523a68c2576bdaaf8126b415306075690f99e28669c0a13054259a5b8f66369c9c6151a3649df9e8899773d88535e3b118aebe9533d51e5a003e8f3b876357e72ecb897ce04e5821a33e83e616056f193dc626546e97e94d1","59ba684f1795a81ff42309ab70356a6f769cacad60160e488c3aeeff5ca685ad37d5813173f0b6bc5885409bd390902ab971ef1e1ef08723f350fbd379ea14cf1a4e1504d3d6fa100d3bfc258927dd37430ce59faa374c90f8b829aec86fdf94bf5158a7","6aef97594c3cc094f69e41a19fdb076b187765914e190d10cd0e139869b6d54b479dc6187bd746dc46cd2d7ff4de496b053eaa77269512ff9d6628b8fd1bfbc2674d0495beda6ecdac807fd4fa1559c74e01e37fe4dbb35d858f71aa94c72678c2826744","96a06884ebc853aacf1dbd06f5d379f306bca6ccd3012acb206209e48d2908ad35cb8926b783fd6833c2765133bb04fa6f9d181e3c7da56962ab97f7b973bea5ba5b7b985bbdc7a43fde9cef7080fcdd945643acdd1e7b528be3c24a76bb865f07fe3480","7941d8341884c09946afc10116971ddbb050a7a8927c550a8f4653ef2aa0fbdd451b84404183c40d85f68c6db147c281ff566908c0209d53847f02513f2650eb8e9f1dd12be784a719","757e2d809eb527a537a86d7cf8ca2582aac8767f6003a94e9d79f4c72cd48f03ffe90f5dfb994d2bfd0f8b8417c92260e5a76a1af6a76be4789673618d9bc3994eedaad3b7529f4c8ee661c4f512f8fb5f66f02145eab51f91843f747b06ba41395f6126","4203eb2ae40f60d2e546e34839bd36c01fa17748455b85b9092b4be275b63e03c86f926e943eb8b344935d0686ae87af13d5ced9829d079d7f684b1a7486df7865f1e587be109f5a02e19b65451c0092cf561f51493f3643564e6e320a5cb14baca81685","16a7996ffac725144056037bf153968878e407bcd0d3b1a05e8075ee3ddbfe16ce323f817843e0944c7f1fdf8e8f41d56da975bcb9a0bfe57996e7ddedaee4b30c5e3e32addbff1d1c730d216bbc5f2dd36879d3fdd01c478f804b6b4cc182aac5e1f357","e32e86b475419ae143074aafaab74f4a7f36c006d0403d4bc89f8ea81cc89f05553f0ca06388b5fcb1584ae4bedbd029790c17ef222b03f4bf4d79738905e348781af8fa699d72491f680bdcd74fb42cbf8fe01dd4cb67cdb7076a169a172b2546ad076a","5c8fff3b45220bf9e0ef940eb6ce8d193ba2b396fb2b82f17f9aa3a02dc4c94a23ed1cbc658a16576a1aa2cea2b0c430c41c414fab262d70ff516dfa34c8988ec7ecfa4456d56d12807a76e90a9871163403c7c4b155e50cacd0d40b08e57eb76d65fa92","c91d15c225aa7e925e1e3b66221f6d04a82dc3d4bbde5bcd85d7484556f7895e1245313d7f0377b4a1f0b9a8552ccfd29235d1ab9f5f18304c73b99b3fbe34974e2cd2030867fb0ec02f0370ccf4bd7d984e71e807b30b90b8ad4c316f829f2571b9bcd4","af9ef4b79986b2602bed6875f8f824fb563cde6b98cf93077b438053465042f110ab5d34eee89b0f53ce3fbe4034069a9b21a0c1f6b5c260fd94d6dfa36d001ab5f275225efd1a389ff9f404878ee0afc581d0f9d72e7b0d2292f5060e5bf79d74870780","ce620b02256c6a37dc582f44d6a9aa2df9662faf9d1dde964a7d3562b6eacd4f8a10fe66dea43f3af9dba0ea29aa6a212c6d1ed0fa0eaed7d6e42e74322262800433f2a9edbc0ca25f03755dd6d2fb248ebfc70fba9ec1a8aaaaaa7976c112ad3c26a66f","854f8d7c9ed39eba32c01992c0cfc21495201e95817d0c0817053f1ece7e318f5d8b29418939d529107099e7c94f838295559dd76e7f01be297334486c27f8c3a59c16ea129142a58fbea5f7dda9026d8d44c47c1ab43c520754f1f7b1931af801e61747","8da82e0e3aaf50964b71d5b54491e895c19e0d18831933be8ac263aa3510fe92d703f8f86426fb4b5a5e761b7ff5ef05dec8076a20154ebff61d290b23c15d871c53b9f4eb884ab3fcde41960521bdf9e20eb80d0b4379469c53f46fead7946d4a469d9a","4f30259fd02a2bf0f6f2c8277a0cde516add435e87b7714cb5016b1923bbd1200ab7b09fb17fdef7e4340448027b4a8a1069ba99fd7d232da26564aa60bb92037294d259b5fa226dd68bbd0d25847906acb8ec017ec9aa21acdebcfbac7b6ed79ca2b3fe","3843da9e44e240668bd09ef6c47061c670102ddb09795508b5e3581631910ba9cd9da30d90dfd4fa3db39c6babb56757b541195a38efdc36aa3e4b8f472060ff44ba9fad5d365485e07870b01324fe11f611cd2b37457d24744c1f7a5ac9b5897c89562b","2720e3ccb19399754e5dd5b1b39e498f0265299670b305052417d5d8a121b183a19c0ab7da16454190c9ef1e17f60078df902e03b5aa907fca46940b5faad42ec35ee3a10f1c9d64e48056be18142f968a8055cfbc5b0d5faf88e4b46767bca22ba1469e","c64cb993f75508e885935a0d93c19ee6fe80e4e7dbc4533ef8d89ac9308bb161371c3936ef6bb6e0144f7bf667f2d2ee081c019d56c929ee9cf7f73117f8d446f0f7d52a619570d1e80a6b1f243d219f3ac6b12954a0788cf5e7c779ef17a7c53aa7d0b8","4d2c322c57f83b4d9e171d51f325eb4cddc6778a761f69098cdd0b139838fa65605d369a858e2b213163d06b2126e14fde47b8a41156f4fbc690829a5358503dee5eaab7c1aa8fe16c259f8ad23cfd9e53847624d941349c1f2b894622aa9f85ed45d6ee","6594fb66312d62ee5eafd068fc082cbe8a44d264d31408885b0c650b077b34423f33ba360a595981df9d2ebcf4e4ecd2afcb6eda8e91615ce522190dc8d0405ccd84bc96892fc2c4da1acbf931ecb8a4454a60c3418903a4bca00c949e9000c4808f9ad0","4178c199797bf8835dbd1ef0cf9e549ce3e1ae057a86f241d03d590cafda766d13de071a3ea2116a1a91d2b7756be3dadf0917fc00589ca022701a6f5ba60a98642a71d6defcf03399db9b0a83f0d61aa98e741920e13c2b6bf35224bafe3de08ee3d686","53b80753488378dbe4dd79a983e33f5f4cafed5a38b9e95ded435a0ad91358ab7c0530fb123f1de05b1b0beddd685ea2d31c8f2848cffe63d6ddfc6d5589683255a27d0af1b39c0740efdc8ad2260337e223919440efe5485e3b74ea366c71f1a5ef71ea","db1491ba2d1e84f0b563f629e08e1afad2e030a752fea1e1ef03d7a8e492fce1a6ad50f47124515e658edfedb815f2dfe651eb5a6f3a94f6795a97fd74f709eb51804f9c61fc23c76199538ecb493e89a3a403378a3096f6002db1f95a98d7492dfe267b","1c18e18bc621465ec6be5a141e98016a8bb710b350826b443ef5c6395491ab9e9defac64376c49e43281cb328a3d56eb8848b1a63fa0799c962a4c1d0fff0bb67bb6377e84ce3afaf9cfe18a32e3f35b8de947b2f9ee3bbecb2cdcc66a303bd0bc7033b0","68ce7519466494b3d07cb159f6d1c64481fccaba29921f2f7458df5572872fcbf17edc01106235b2faf740d4c6b0a53becf6c605d9bf36e72dbfb144909668b16148ca777620c2932b3dda3e0af5ae2c4aab8371d56e5a24bfd71c8bd61b86d02651d67f","5e45816805f42c93fb49eb5afe6573639d81290f277b54dbcc3055cf879759541b2448aa379bcebf4226f39c0648c96b616015de2821c82930a0101c032135f887579298f5e742285e683526087d53a0dd7913e21748ae32cae20c80b8b6676a92090945","c36fd1136f54b6eac32647a17ff6c9ac7c9aeb0777c1ff6c76a0b429e18efa144c74c791e4dc7fd85272cb18c3ce1a6e6ecf3882a06579b6bc2048825c47a384385244688a870d737a8eefd6c214a0db375d0493fc4243e68a5b08b3389e2b5637bfb33b","93436764698af13402df5327fa0a98df2486f7678017e7e38551f9c261e7a922531876ad65517384d05cb2edc7dd09c9e049841606a17590fbc52752461753fb569ef61edbbed222c3e26164e63853ef17d2d0b1183238ef69035cd725c263dcc4c7fdbd","4b6285809b9d5fa9a06e8fa22fdf10b1a8feb65fd3b89f4441c77669478ed50651456545b4c45058e1bb8a9c92aa1a388334a392314303b2541eb86e752b1471ea6f389bd892c937f8a8f96e2f4c7f4a4aeed64b32e76c2f3bb15c6b96ab6ca8c405db8f","075a839e3f09a38f9ae52df2e8814c594eb7ed289598020cfd7e246b3b105f4c570ed9e0bfe689cb3514823a6a2a61fc66ef82743b3e33919a2e7afab26d123ee6cbd5ac92cbc85343e6492b1a352f3fb6bad4018a524cc23498dae709ed82a81a8227ad","eca6bbf4620e79ccc950849c18c75222b0b43985a8e1d3c456e2c92c8f82eeec15fccbd72abf1a5f458816896032f55c3c9e52f7c2d0cfe8a52e5caf79fc8d995ef9a3ae52ae18c6a724cc2cf9f4833b4c387d0729305d2b1905af03e587130270e4de5e","6b8592278f3010184ee28db396bceba84464f85e5aa0a76c983327e9b6cecade7b1c492f0f9757aaa58027782483bbb1552af1d5c1673b02c3293aeee3a8618103d3b889bc1e1d57d82733de5391e6e35b9b456165bddca787c99ef31ce641783c032367","1facce687f44ba4fa050d1bbd859491fbc218979dd5a43e1cc807aa9b8a09816b149ced1f5a442ecc6e525cba5f5ba92f555fcec1d8d7204202d0f7f7fe7b8045bd07a65b68b4b1833371603aa497e419d48e10bc8ec9ea55343ce5c07e76d84c4429cc9","e607c733dc632c814c5fe12b5fb207f92e67c6ff10529cad3557868a8cdf1c695ecb18c912ff81e574f6384bca5a3b3fdebbfa5813f124ef26b2746a08b7795b73ecad2fbbb4d2b7f131b599d7ab969dfc3882e17d5e6cdcd212bea0e4e13ec24ceac156","576f0e2cfa46ca521a33d90598c0d9a2c089d4e88a9868d396d0abd00567cb82e9c9228e4673048d36383eb6ac1f02aae9f5793f1551a86dd9e9249cfbfcc7c49ba218d63cdb9d28123ca68b3fd7d887c86c37640806d07b1aef42c9d11ad696a30ab3b8","6b7ef74bafa75f747f1cc1b36f4c8a8a6cfbc6eae0253dbf5359b14242f54521ef817e0cf180242f7272e457ab3fa94234dff7dd72ea9996a51c10dc78e6dbfac0af1e9973853347112bc1f00282b062e415f9d4e4905224979be18c83585e484db824e5","4ba7303b900534222a5d20cb1f032cafdf918f49f4e39695547371d14aaa9d2fbfabaa005605a4e9f5f42e97e7194d4a4f575c4c4d4e427c597a779476cbdae85c8d5692d4a180a2768c102308f3648548e79dfc4f4fadbab6eeed41382efed30c274d7f","5972b22c3d22f141faa0949c114647cb3105678b40295ad673251682861b09f3908aa893317558400e40b73a9fff062969a0a4423bcaf6b60254eb9fd5db926fc50710bf2032f84357220fb39958102392feb4cc82a40538f2c578efbfc7707283be5936","69c4c7ad358b4a9eaefb8e915c1a79fb9eb6ca2cc387cd2929efd12164c6d22cf4ec2d14713fbaa14bea2c10d26a2fb6d9dd1ec6a1650ff86f225f8118827db68508b92bc5e08a57ca82ea1529bb10e9f8405eff344c2d0e0a8eaea9a59fc9b3a0c0bbe9","d62fb5e78571f4930313caaccd03690e5e777ee2b2c41f1040dbb5f9bde6117a4a1c2917f1c1b285a51641e67f25d6a79c3fbf37e32824ca7aefa05d19ddac4ff74a6e242b5c4373a78f358149824a0aa996f34934ece149a21ec70771069eaf5a26ca88","5070e6182a7f2e918a8ab7063a9c220ff8bdbe5f6c4514d0f020aabaad93b8f4c9eda4ca237306185c51a5315a7cb5b5b3b60572e1bb0a1e0b724994bc18810648ebaf85f14fec3cebf5d7ed8f1ede7779d66110b2cafa88a87bb494692ad82da9c65e90","b3e86d1a74b8553f5ce1fb9cb2d2a1acd4c002bbed6117f115e08eba1d05b42b0f922c95ad6f74d231d0714d8d08f02924768a30467c3b553fab6734bf8e582d6c17bcbf55189206b14c2b5f49d9aa955e097f82298307f67b19fb2eda210748c4a87123","0e0b3757eea250fad52031ba696388c487b61aae0181b2ec29e73addd578e4cc4264b42413af44612000992f752446cbc6a8cd7192bff9d408444e5cc993abd778a7998853fca1dc1c89bdcd183a7b985e270c224c00ec050851b2eeedd7dc1d6abf2121","05b61c469becb59e16d4ebeea3a7cb2452845d59aa7cd9fb9e14f35b1f9834e8e4812626b82c2e1bc83e098f2b62810dfcbb3020a30a177315193b940f908078f7e4e9c832b20514eb4b5476fb470c2bc8c6c610496f7051aa1fa5e6df3814c052fd0b55","63695bd722d7b5fe077300cce16661b724ab1f3897bbf8a71b547d2c51e63ce7efcb925183900a80c8ecf74b47edf91cb7713721ba3d95ed42e9f83c0a3f4ab5c1fb6ecacb2d348eae80ba7dd1cf446851ba367eafc424284cc5054f2884ae0e6786e5d1","df04e88f34a44161b9564f914eebc4fe851417ea0c2b4ec53a3e70756c801c875a95794b7cddb76592c00961cb0aeee63bcc3f015920ee2b4146c7670ffc17d3aa4f40c7582567fb4465cbe1e5dc4e1d7612f149b4247e037a8b2e73f9788b005c552d5c","f46dd3ff96dfc335132dc7df37fc9909d8a595f8756844cd3fa15649bfbadadc8357bcc1c664d07a73d2fe0a184c6f82581812465c6163b80391572173e2a3ddfcb2c5693be75b343451ebb81e4b8f29445f30b990f428a7505c60c73ceeabbcb8f7c760","fcafa78c42afc4b0cc6997e947b6e47ef06d2085e16e3c63a4d021f11f5842daac9ba7e49de9a32b143ac99c07f7241071b0c60b4a0d9e21a159f9b093e7cbcde6395502ff77b0a294c7dd95b7b235caba2c77bb8f9fa2eef678a919e994d4aac8a44f69","10948670ce077ebcf3b38fd6e1ea51c6b921fd02aea0b6d486af08bfc763cc289d884fdba64c1e8ef155e6384952db83498bd767ddf9436709b532fcf2fae00534bd1d550d2add5346d225cb60e43f1afbd2be504b66f8d344bcdbcb9e4848f49fa9b401","13dbf939cea1d56f1464817fdeb4772b4aba8fc234e34b5132873c0e595359bbc01247d8c85033927d65fca2070535df573c043e14761d931e1554aa7408dece4a3b4da253a3d7f8b5f21a041cb75f296d43a2bd271c9f9ade1000c9697d0922114af90b","6af8b409cdf303c852e93179ea002772136ee07b4d8eb9553582bc37e5e5d7f3821d9d516ed2cba9c53a1e97d7ae4b61274474de02f1c92bf24f876276765003d7a7313839cf50bff0cccf645aeee00ea11ec7da0c2cdff36e58d97ed6557580e46f8bb3","5000e3eabd43601b525533620b043ab54ec89aab7dab9e11f45af2959903aa734765927e6e22f305677e0de212213203ad29b95f1af1c145ed3084a354c302b6df860be675aa6c2fd8d28f51e9ac93915b26acf3a17d9d3d5d8311a635669aee40463faf","b18a5603b0a9dd664ffba890a0e786d47b2e10254fe7f29d5eccb3b76dcd1488e564f88696fe5446f9a54f2d43fd4a5aa5e717ecdf82d41cf889b768471680ddc2a703b7e21fb4a15309af911778ff13a8a775dbbe291991dad2001e81e4eb1276106e71"}
-local oa9aymgwUNHVa4={53,17,2,48,56,28,23,6,7,59,34,37,46,44,36,30,12,18,55,35,1,45,21,14,58,22,3,11,43,26,41,20,52,10,16,15,31,57,54,50,51,5,42,19,29,40,24,9,32,27,4,47,39,33,49,13,25,38,8}
-local lmCyYtcxUmpASv={}
-for ly45YSLWo=1,#puylMFEhApG do lmCyYtcxUmpASv[puylMFEhApG[ly45YSLWo]]=oOubv23Qa[ly45YSLWo] end
-lmCyYtcxUmpASv=table.concat(lmCyYtcxUmpASv)
-local x6b6W5izWFGOu8u={}
-for ly45YSLWo=1,#oa9aymgwUNHVa4 do x6b6W5izWFGOu8u[oa9aymgwUNHVa4[ly45YSLWo]]=ePEEae5opgG3Q3[ly45YSLWo] end
-x6b6W5izWFGOu8u=table.concat(x6b6W5izWFGOu8u)
-local xOwqRP6ItTl={}
-for ly45YSLWo=1,#lmCyYtcxUmpASv,2 do
-  xOwqRP6ItTl[#xOwqRP6ItTl+1]=tonumber(string.sub(lmCyYtcxUmpASv,ly45YSLWo,ly45YSLWo+1),16)
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sametexe001/sametlibs/refs/heads/main/Thugsense/Library.lua"))()
+
+-- Inject the purple theme colors BEFORE creating the window
+if Library.Theme then
+    Library.Theme.Accent = Color3.fromRGB(143, 0, 255)
+    Library.Theme.Background = Color3.fromRGB(15, 15, 15)
+    Library.Theme.Secondary = Color3.fromRGB(22, 22, 22)
+    Library.Theme.Stroke = Color3.fromRGB(30, 30, 30)
+    Library.Theme.Text = Color3.fromRGB(240, 240, 240)
 end
-local hMVCnfWcpbBU={118,132,21,167,65,82,243,104,230,201,53,120,132,228,150,131,205,71,209,31,162,11,208,25,112,228}
-for ly45YSLWo=1,#xOwqRP6ItTl do
-  xOwqRP6ItTl[ly45YSLWo]=bit32.bxor(xOwqRP6ItTl[ly45YSLWo],hMVCnfWcpbBU[(ly45YSLWo-1)%#hMVCnfWcpbBU+1])
+
+local Window = Library:Window({
+    Name = 'miani football  |  [v2.6]  |  License: <font color="#FFAA00">Lifetime</font>  |  <font color="#55FF00">Premium User</font>',
+    Size = UDim2.new(0, 500, 0, 600),
+    FadeSpeed = 0.0
+})
+
+local Watermark = Library:Watermark("miani football")
+local KeybindList = Library:KeybindList()
+Watermark:SetVisibility(false)
+KeybindList:SetVisibility(false)
+
+local MainTab = Window:Page({Name = "Main", Columns = 2, Subtabs = false})
+local FarmingTab = Window:Page({Name = "Farming", Columns = 2, Subtabs = false})
+local PlayerTab = Window:Page({Name = "Player", Columns = 2, Subtabs = false})
+local VisualsTab = Window:Page({Name = "Visuals", Columns = 2, Subtabs = false})
+local SettingsTab = Library:CreateSettingsPage(Window, Watermark, KeybindList)
+
+for _, page in ipairs(Window.Pages) do
+    page.Turn = function(self, Bool)
+        if self.Active == Bool then return end
+        self.Active = Bool
+        if Bool then 
+            self.Elements["Page"].Instance.Visible = true
+            self.Elements["Text"].Instance.TextColor3 = Library.Theme.Accent
+            self.Elements["Text"].Instance.TextTransparency = 0
+            self.Elements["Hide"].Instance.Visible = true
+        else
+            self.Elements["Page"].Instance.Visible = false
+            self.Elements["Text"].Instance.TextColor3 = Library.Theme.Text
+            self.Elements["Text"].Instance.TextTransparency = 0.5
+            self.Elements["Hide"].Instance.Visible = false
+        end
+    end
 end
-local aCjGiqYFSLQOdWgP={}
-for ly45YSLWo=1,#x6b6W5izWFGOu8u,2 do
-  aCjGiqYFSLQOdWgP[#aCjGiqYFSLQOdWgP+1]=tonumber(string.sub(x6b6W5izWFGOu8u,ly45YSLWo,ly45YSLWo+1),16)
+
+local CoreGui = game:GetService("CoreGui")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+local flags = {}
+
+local dumpsterIsRunning = false
+local dumpsterTask = nil
+local constructionRunning = false
+local constructionThread = nil
+local StudioMoneyNotifyEnabled = false
+local StudioMoneyNotifyConnections = {}
+local AutoStealLootbags = false
+local AutoPickupBags = false
+local AutoCleanMoney = false
+local AutoGrabMoney = false
+local promptConnections = {}
+local promptAddedConnection = nil
+
+local function sendNotification(title, text)
+    pcall(function() game:GetService("StarterGui"):SetCore("SendNotification", { Title = title, Text = text, Duration = 5 }) end)
 end
-local xtM3VSPND={39,70,119,204,215,35,50,208,145,218,138,33,136,133,129,91,91,176,15,33,193,195,84,113,62,229}
-for ly45YSLWo=1,#aCjGiqYFSLQOdWgP do
-  aCjGiqYFSLQOdWgP[ly45YSLWo]=bit32.bxor(aCjGiqYFSLQOdWgP[ly45YSLWo],xtM3VSPND[(ly45YSLWo-1)%#xtM3VSPND+1])
+local function notifyToggle(name, enabled) sendNotification(name, name .. (enabled and " enabled" or " disabled")) end
+
+
+
+
+
+-- ============================================================================
+-- ALABAMA FARMING SUPPORT / UTILITIES (added without changing other tabs)
+-- ============================================================================
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local ProximityPromptService = game:GetService("ProximityPromptService")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local StarterGui = game:GetService("StarterGui")
+
+local PawnRemote = ReplicatedStorage:FindFirstChild("PawnRemote")
+local Backpack = LocalPlayer:WaitForChild("Backpack")
+
+local DisableBloodEffects = false
+local NoKnockback = false
+local BypassLockedCars = false
+local FasterRespawn = false
+local RespawnWhereYouDied = false
+local KeepToolsOnDeath = false
+local AutoFOnLowHealth = false
+local NoCameraBob = false
+local SpeedBoostEnabled = false
+local JumpBoostEnabled = false
+local InfJumpEnabled = false
+local NoclipEnabled = false
+local DeathFrame = nil
+local MarketProtectedTools = {}
+local MarketHealthThreshold = 35
+local FarmingSelectedPlayer = nil
+
+getgenv().SwimMethod = getgenv().SwimMethod or false
+local Config = Config or {}
+if type(Config.Teleport) ~= "function" then
+    function Config:Teleport(targetCFrame)
+        local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+        local humanoid = character:FindFirstChild("Humanoid")
+        local root = character:FindFirstChild("HumanoidRootPart")
+        if not humanoid or not root then
+            warn("Could not find Humanoid or HumanoidRootPart")
+            return false
+        end
+        getgenv().SwimMethod = true
+        pcall(function() humanoid:ChangeState(0) end)
+        local num = 1
+        repeat
+            task.wait()
+            num += 1
+        until num >= 40 and not LocalPlayer:GetAttribute("LastACPos")
+        root.CFrame = targetCFrame
+        task.wait()
+        pcall(function() humanoid:ChangeState(2) end)
+        getgenv().SwimMethod = false
+        return true
+    end
 end
-local zDiIl76r2oDgtv26={}
-for ly45YSLWo=1,math.max(#xOwqRP6ItTl,#aCjGiqYFSLQOdWgP) do
-  if xOwqRP6ItTl[ly45YSLWo] then zDiIl76r2oDgtv26[#zDiIl76r2oDgtv26+1]=xOwqRP6ItTl[ly45YSLWo] end
-  if aCjGiqYFSLQOdWgP[ly45YSLWo] then zDiIl76r2oDgtv26[#zDiIl76r2oDgtv26+1]=aCjGiqYFSLQOdWgP[ly45YSLWo] end
+
+local function formatMoney(amount)
+    local formatted = tostring(math.floor(tonumber(amount) or 0))
+    while true do
+        local newFormatted, count = formatted:gsub("^(-?%d+)(%d%d%d)", "%1,%2")
+        formatted = newFormatted
+        if count == 0 then break end
+    end
+    return "$" .. formatted
 end
-local iZkKK8eUJb_kiwHy={}
-local m5TyhWgamam9k=708377233
-for ly45YSLWo=#zDiIl76r2oDgtv26-1,1,-1 do
-  m5TyhWgamam9k=(m5TyhWgamam9k*1664525+1013904223)%4294967296
-  local dW9ocHfGyhuUyVyYsV=m5TyhWgamam9k%(ly45YSLWo+1)+1
-  iZkKK8eUJb_kiwHy[#iZkKK8eUJb_kiwHy+1]={ly45YSLWo+1,dW9ocHfGyhuUyVyYsV}
+
+local function normalizeDropdownValue(value)
+    if type(value) == "table" then
+        if value[1] then return value[1] end
+        for key, enabled in pairs(value) do
+            if enabled then return key end
+        end
+        return nil
+    end
+    return value
 end
-for ly45YSLWo=#iZkKK8eUJb_kiwHy,1,-1 do
-  local b8aRcIAyeP8Y5KJ4=iZkKK8eUJb_kiwHy[ly45YSLWo]
-  local uusmFPO6bb5v=zDiIl76r2oDgtv26[b8aRcIAyeP8Y5KJ4[1]]
-  zDiIl76r2oDgtv26[b8aRcIAyeP8Y5KJ4[1]]=zDiIl76r2oDgtv26[b8aRcIAyeP8Y5KJ4[2]]
-  zDiIl76r2oDgtv26[b8aRcIAyeP8Y5KJ4[2]]=uusmFPO6bb5v
+
+local function setLibraryLabel(label, text)
+    if not label then return end
+    pcall(function()
+        if type(label.Set) == "function" then label:Set(text); return end
+        if type(label.SetText) == "function" then label:SetText(text); return end
+        if label.Instance and label.Instance.Text ~= nil then label.Instance.Text = text; return end
+        if label.Elements and label.Elements["Text"] and label.Elements["Text"].Instance then
+            label.Elements["Text"].Instance.Text = text; return
+        end
+        if label.Text ~= nil then label.Text = text end
+    end)
 end
-local evWh1R4Ob4kznQ7E={27,166,71,42,108,39,26,30,49,107,29,159,38,173,13,4,230,193,80,2,58,230,42,171,157,108}
-local qLqxEbMkLtsLQfiBmE={}
-for ly45YSLWo=1,#zDiIl76r2oDgtv26 do
-  qLqxEbMkLtsLQfiBmE[ly45YSLWo]=string.char(bit32.bxor(zDiIl76r2oDgtv26[ly45YSLWo],evWh1R4Ob4kznQ7E[(ly45YSLWo-1)%#evWh1R4Ob4kznQ7E+1]))
+
+local function valueToNumber(obj)
+    if not obj then return nil end
+    local ok, val = pcall(function() return obj.Value end)
+    if ok and tonumber(val) then return tonumber(val) end
+    return nil
 end
-local bPrDgr9McqZ=table.concat(qLqxEbMkLtsLQfiBmE)
-local ev0ufTMftyWP=#"cjLfNON"
-local qUJGigmHWJNEAC=type(nil)
-do local _=nil end
-local tr2Xd_rpvwbZFGo0,sOx3nLk9Xm=loadstring(bPrDgr9McqZ)
-if tr2Xd_rpvwbZFGo0 then
-  tr2Xd_rpvwbZFGo0()
+
+local function findMoneyValue(container, names, recursive)
+    if not container then return nil end
+    local lookup = {}
+    for _, name in ipairs(names) do lookup[string.lower(name)] = true end
+
+    for _, child in ipairs(container:GetChildren()) do
+        if lookup[string.lower(child.Name)] then
+            local val = valueToNumber(child)
+            if val ~= nil then return val end
+        end
+    end
+
+    if recursive then
+        for _, child in ipairs(container:GetDescendants()) do
+            if lookup[string.lower(child.Name)] then
+                local val = valueToNumber(child)
+                if val ~= nil then return val end
+            end
+        end
+    end
+    return nil
+end
+
+local function getMyMoneyValues()
+    local cleanNames = {"Money", "Cash", "Wallet", "Bank", "Coins"}
+    local dirtyNames = {"FilthyStack", "FilthyMoney", "DirtyMoney", "DirtyCash", "IllegalMoney", "Dirty", "Filthy"}
+
+    local stored = LocalPlayer:FindFirstChild("stored") or LocalPlayer:FindFirstChild("Stored")
+    local leaderstats = LocalPlayer:FindFirstChild("leaderstats") or LocalPlayer:FindFirstChild("Leaderstats") or LocalPlayer:FindFirstChild("stats")
+
+    local clean = findMoneyValue(stored, {"Money"}, false)
+        or findMoneyValue(leaderstats, cleanNames, false)
+        or findMoneyValue(LocalPlayer, cleanNames, false)
+        or findMoneyValue(LocalPlayer, cleanNames, true)
+
+    local dirty = findMoneyValue(stored, {"FilthyStack"}, false)
+        or findMoneyValue(stored, dirtyNames, false)
+        or findMoneyValue(LocalPlayer, dirtyNames, false)
+        or findMoneyValue(LocalPlayer, dirtyNames, true)
+
+    return clean, dirty
+end
+
+local function forceMoneyText(prefix, text)
+    pcall(function()
+        local containers = {CoreGui, LocalPlayer:FindFirstChild("PlayerGui")}
+        for _, container in ipairs(containers) do
+            if container then
+                for _, obj in ipairs(container:GetDescendants()) do
+                    if obj:IsA("TextLabel") and type(obj.Text) == "string" and obj.Text:sub(1, #prefix) == prefix then
+                        obj.Text = text
+                    end
+                end
+            end
+        end
+    end)
+end
+
+local function getFarmingPlayerList()
+    local cache = {}
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer then table.insert(cache, player.Name) end
+    end
+    table.sort(cache)
+    return cache
+end
+
+local function getSelectedFarmingPlayer()
+    local selected = normalizeDropdownValue(FarmingSelectedPlayer or flags["FarmingSelectedPlayer"])
+    if typeof(selected) == "Instance" and selected:IsA("Player") then return selected end
+    if type(selected) == "string" and selected ~= "" then
+        return Players:FindFirstChild(selected)
+    end
+    return nil
+end
+
+local function setupPrompt(prompt, enableInstant)
+    if not prompt or not prompt:IsA("ProximityPrompt") then return end
+    if enableInstant then
+        prompt.HoldDuration = 0
+        prompt.RequiresLineOfSight = false
+        prompt.MaxActivationDistance = math.huge
+    else
+        prompt.HoldDuration = 1
+        prompt.RequiresLineOfSight = true
+    end
+    promptConnections[prompt] = prompt
+end
+
+local function fireRemoteForAllBackpackItems()
+    for _, item in pairs(Backpack:GetChildren()) do
+        pcall(function()
+            if PawnRemote then PawnRemote:FireServer(item.Name) end
+        end)
+    end
+end
+
+Backpack.ChildAdded:Connect(function(child)
+    if dumpsterIsRunning then
+        pcall(function()
+            if PawnRemote then PawnRemote:FireServer(child.Name) end
+        end)
+    end
+end)
+
+local function FindMarketToolId(ToolName)
+    if not ReplicatedStorage:FindFirstChild("MarketItems") then return nil end
+    for _, Item in ipairs(ReplicatedStorage.MarketItems:GetChildren()) do
+        if Item.Name == ToolName and Item:FindFirstChild("owner") and Item.owner.Value == LocalPlayer.Name then
+            return Item:GetAttribute("SpecialId") or Item:GetAttribute("ToolId")
+        end
+    end
+end
+
+local function GetUniqueToolNames()
+    local ToolNames = {}
+    if LocalPlayer.Character then
+        local CurrentTool = LocalPlayer.Character:FindFirstChildOfClass("Tool")
+        if CurrentTool then ToolNames[CurrentTool.Name] = true end
+    end
+    local Results = {}
+    for Name in pairs(ToolNames) do table.insert(Results, Name) end
+    return Results
+end
+
+local function MarketProtectTool(ToolName)
+    if MarketProtectedTools[ToolName] then return end
+    local ToolId
+    local Connection
+    if ReplicatedStorage:FindFirstChild("MarketItems") then
+        Connection = ReplicatedStorage.MarketItems.ChildAdded:Connect(function(Item)
+            if Item.Name == ToolName and Item:FindFirstChild("owner") and Item.owner.Value == LocalPlayer.Name then
+                ToolId = Item:GetAttribute("SpecialId") or Item:GetAttribute("ToolId")
+            end
+        end)
+    end
+    pcall(function()
+        if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+            LocalPlayer.Character.Humanoid:UnequipTools()
+        end
+    end)
+    task.wait(0.15)
+    pcall(function()
+        if ReplicatedStorage:FindFirstChild("ListWeaponRemote") then
+            ReplicatedStorage.ListWeaponRemote:FireServer(ToolName, 676767)
+        end
+    end)
+    task.wait(0.3)
+    pcall(function()
+        if ReplicatedStorage:FindFirstChild("BackpackRemote") then
+            ReplicatedStorage.BackpackRemote:InvokeServer("Store", ToolName)
+        end
+    end)
+    task.wait(3)
+    if not ToolId then ToolId = FindMarketToolId(ToolName) end
+    if Connection then Connection:Disconnect() end
+    if ToolId then MarketProtectedTools[ToolName] = ToolId end
+end
+
+local function MarketReleaseTool(ToolName, ToolId)
+    if not ToolName or not ToolId then return end
+    if not ReplicatedStorage:FindFirstChild("BuyItemRemote") or not ReplicatedStorage:FindFirstChild("BackpackRemote") then return end
+    pcall(function() ReplicatedStorage.BuyItemRemote:FireServer(ToolName, "Remove", ToolId) end)
+    task.wait(0.5)
+    pcall(function() ReplicatedStorage.BackpackRemote:InvokeServer("Grab", ToolName) end)
+    MarketProtectedTools[ToolName] = nil
+end
+
+local function ProtectInventoryTools()
+    for _, ToolName in ipairs(GetUniqueToolNames()) do MarketProtectTool(ToolName) end
+end
+
+local function ReleaseMarketTools()
+    for ToolName, ToolId in pairs(MarketProtectedTools) do MarketReleaseTool(ToolName, ToolId) end
+end
+
+local function UpdateMarketProtection(Value)
+    if not KeepToolsOnDeath then return end
+    if Value > 0 and Value <= MarketHealthThreshold then
+        task.spawn(ProtectInventoryTools)
+    elseif Value > MarketHealthThreshold then
+        task.spawn(ReleaseMarketTools)
+    end
+end
+
+local function SetupCharacterFarmingUtilities(character)
+    if not character then return end
+    local humanoid = character:FindFirstChildOfClass("Humanoid") or character:WaitForChild("Humanoid", 5)
+    if not humanoid then return end
+    humanoid.Died:Connect(function()
+        DeathFrame = character:FindFirstChild("HumanoidRootPart") and character.HumanoidRootPart.CFrame or DeathFrame
+        if KeepToolsOnDeath then task.spawn(ProtectInventoryTools) end
+    end)
+    humanoid.HealthChanged:Connect(UpdateMarketProtection)
+    character.DescendantAdded:Connect(function(descendant)
+        if NoKnockback and (descendant:IsA("BodyVelocity") or descendant:IsA("LinearVelocity") or descendant:IsA("VectorForce")) then
+            task.wait()
+            if descendant and descendant.Parent then descendant:Destroy() end
+        end
+    end)
+end
+
+if LocalPlayer.Character then SetupCharacterFarmingUtilities(LocalPlayer.Character) end
+LocalPlayer.CharacterAdded:Connect(function(character)
+    SetupCharacterFarmingUtilities(character)
+    task.wait(0.5)
+    if RespawnWhereYouDied and typeof(DeathFrame) == "CFrame" then
+        local rootPart = character:FindFirstChild("HumanoidRootPart")
+        if rootPart then rootPart.CFrame = DeathFrame end
+    end
+    if KeepToolsOnDeath and next(MarketProtectedTools) then task.spawn(ReleaseMarketTools) end
+end)
+
+task.spawn(function()
+    while task.wait(0.5) do
+        if AutoPickupBags and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+            local storage = workspace:FindFirstChild("Storage")
+            if storage then
+                for _, value in next, storage:GetChildren() do
+                    if value:IsA("MeshPart") then
+                        if value:FindFirstChild("PlayerName") and value.PlayerName.Value == LocalPlayer.Name then continue end
+                        if (value.Position - LocalPlayer.Character.HumanoidRootPart.Position).Magnitude < 5 then
+                            local prompt = value:FindFirstChild("stealprompt")
+                            if prompt and prompt:IsA("ProximityPrompt") then pcall(function() fireproximityprompt(prompt) end) end
+                        end
+                    end
+                end
+            end
+        end
+        if DisableBloodEffects and LocalPlayer:FindFirstChild("PlayerGui") and LocalPlayer.PlayerGui:FindFirstChild("BloodGui") then
+            LocalPlayer.PlayerGui.BloodGui.Enabled = false
+        end
+    end
+end)
+
+ProximityPromptService.PromptButtonHoldBegan:Connect(function(prompt, selfPlayer)
+    if not (prompt and selfPlayer == LocalPlayer and BypassLockedCars) then return end
+    local check = prompt.Parent
+    while check and check.Parent do
+        local seat = check:FindFirstChild("DriveSeat")
+        if seat and seat:IsA("VehicleSeat") and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+            pcall(function() seat:Sit(LocalPlayer.Character.Humanoid) end)
+            break
+        end
+        check = check.Parent
+    end
+end)
+
+task.spawn(function()
+    while task.wait(0.1) do
+        if FasterRespawn and LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid") and LocalPlayer.Character.Humanoid:GetState() == Enum.HumanoidStateType.Dead then
+            local loadChar = ReplicatedStorage:FindFirstChild("LoadCharacter")
+            if loadChar and loadChar:IsA("RemoteEvent") then pcall(function() loadChar:FireServer() end) end
+        end
+    end
+end)
+
+RunService.RenderStepped:Connect(function()
+    if NoCameraBob then
+        local character = LocalPlayer.Character
+        local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+        if humanoid and humanoid.CameraOffset.Magnitude > 0 then humanoid.CameraOffset = Vector3.zero end
+    end
+end)
+
+task.spawn(function()
+    while task.wait(0.1) do
+        if not AutoFOnLowHealth then continue end
+        local character = LocalPlayer.Character
+        local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+        if humanoid and humanoid.Health > 0 and humanoid.Health < 10 then
+            pcall(function()
+                VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.F, false, nil)
+                task.wait(0.05)
+                VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.F, false, nil)
+            end)
+        end
+    end
+end)
+
+local speedConnection
+local currentSpeedHumanoid
+local function forceSpeed()
+    if currentSpeedHumanoid and currentSpeedHumanoid.Parent then currentSpeedHumanoid.WalkSpeed = 25 end
+end
+
+local function updateSpeedBoostState(state)
+    SpeedBoostEnabled = state
+    if state then
+        currentSpeedHumanoid = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+        if not currentSpeedHumanoid then
+            local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+            currentSpeedHumanoid = character:WaitForChild("Humanoid")
+        end
+        if speedConnection then speedConnection:Disconnect() end
+        speedConnection = RunService.Heartbeat:Connect(forceSpeed)
+    else
+        if speedConnection then speedConnection:Disconnect(); speedConnection = nil end
+        if currentSpeedHumanoid then currentSpeedHumanoid.WalkSpeed = 16 end
+    end
+end
+
+local function updateJumpBoostState(state)
+    JumpBoostEnabled = state
+    local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    if not humanoid then return end
+    if state then humanoid.JumpPower = (humanoid.JumpPower or 50) + 50 else humanoid.JumpPower = 50 end
+end
+
+UserInputService.JumpRequest:Connect(function()
+    if InfJumpEnabled then
+        local character = LocalPlayer.Character
+        local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+        if humanoid then humanoid:ChangeState(Enum.HumanoidStateType.Jumping) end
+    end
+end)
+
+local noclipConnection
+local function enableNoclip()
+    if noclipConnection then return end
+    noclipConnection = RunService.Stepped:Connect(function()
+        if not NoclipEnabled then return end
+        local char = LocalPlayer.Character
+        if char then
+            for _, part in pairs(char:GetDescendants()) do
+                if part:IsA("BasePart") then part.CanCollide = false end
+            end
+        end
+    end)
+end
+
+local function disableNoclip()
+    if noclipConnection then noclipConnection:Disconnect(); noclipConnection = nil end
+    local char = LocalPlayer.Character
+    if char then
+        for _, part in pairs(char:GetDescendants()) do
+            if part:IsA("BasePart") then part.CanCollide = true end
+        end
+    end
+end
+
+local function playEmote(emoteName)
+    local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+    local animate = character:FindFirstChild("Animate")
+    if not animate or not animate:FindFirstChild("PlayEmote") then
+        sendNotification("Emote", "Animate.PlayEmote not available")
+        return
+    end
+    local directMap = { ["pink venom"] = "14548619594", ["blackpink pink venom"] = "14548619594" }
+    local animationId = directMap[string.lower(emoteName or "")]
+    if not animationId then sendNotification("Emote", "Emote not found: " .. tostring(emoteName)); return end
+    local anim = Instance.new("Animation")
+    anim.Name = "AFEMInvokedEmote"
+    anim.AnimationId = "http://www.roblox.com/asset/?id=" .. animationId
+    pcall(function() animate.PlayEmote:Invoke(anim) end)
+end
+-- ============================================================================
+-- END ALABAMA FARMING SUPPORT
+-- ============================================================================
+
+local function SafeTeleportTo(targetCFrame)
+    Config:Teleport(targetCFrame)
+end
+
+local function startDumpsterAutofarm()
+    if dumpsterTask then return end
+    dumpsterIsRunning = true
+    dumpsterTask = task.spawn(function()
+        while dumpsterIsRunning do
+            local dumpsters = {}
+            for _, v in pairs(workspace:GetDescendants()) do
+                if v:IsA("Part") and v.Name == "DumpsterPromt" then
+                    local prompt = v:FindFirstChildWhichIsA("ProximityPrompt")
+                    if prompt then table.insert(dumpsters, { part = v, prompt = prompt }) end
+                end
+            end
+            for _, entry in ipairs(dumpsters) do
+                if not dumpsterIsRunning then continue end
+                if entry.part and entry.prompt and entry.part:IsDescendantOf(workspace) then
+                    SafeTeleportTo(CFrame.new(entry.part.Position + Vector3.new(0, 3, 0)))
+                    task.wait(0.6)
+                    pcall(function() fireproximityprompt(entry.prompt) end)
+                    task.wait(1)
+                end
+            end
+            task.wait(2)
+        end
+        dumpsterTask = nil
+    end)
+    fireRemoteForAllBackpackItems()
+end
+
+local function stopDumpsterAutofarm()
+    dumpsterIsRunning = false
+end
+
+local function interactPrompt(prompt)
+    if fireproximityprompt then fireproximityprompt(prompt)
+    else prompt:InputHoldBegin(); prompt:InputHoldEnd() end
+end
+
+local function startConstructionAutofarm()
+    if constructionThread then return end
+    constructionRunning = true
+    constructionThread = task.spawn(function()
+        while constructionRunning do
+            task.wait(1)
+            pcall(function()
+                if not LocalPlayer.Character or not LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then return end
+                if not LocalPlayer.Character:FindFirstChild("Humanoid") or LocalPlayer.Character:FindFirstChild("Humanoid").Health == 0 then return end
+
+                if not LocalPlayer:GetAttribute("WorkingJob") then
+                    Config:Teleport(CFrame.new(-1729, 371, -1171))
+                    task.wait(0.4)
+                    fireproximityprompt(workspace.ConstructionStuff["Start Job"].Prompt)
+                    repeat task.wait() until LocalPlayer:GetAttribute("WorkingJob") or not constructionRunning
+                end
+
+                if not LocalPlayer.Backpack:FindFirstChild("PlyWood") and not LocalPlayer.Character:FindFirstChild("PlyWood") then
+                    Config:Teleport(CFrame.new(-1728, 371, -1178))
+                    repeat task.wait() fireproximityprompt(workspace.ConstructionStuff["Grab Wood"].Prompt) until LocalPlayer.Backpack:FindFirstChild("PlyWood") or LocalPlayer.Character:FindFirstChild("PlyWood") or not constructionRunning
+                end
+
+                repeat task.wait() until LocalPlayer.Backpack:FindFirstChild("PlyWood") or LocalPlayer.Character:FindFirstChild("PlyWood") or not constructionRunning
+
+                if LocalPlayer.Backpack:FindFirstChild("PlyWood") then
+                    LocalPlayer.Character.Humanoid:EquipTool(LocalPlayer.Backpack:FindFirstChild("PlyWood"))
+                end
+
+                local targetWood = nil
+                for _, v in pairs(workspace.ConstructionStuff:GetDescendants()) do
+                    if v:IsA("ProximityPrompt") and v.ActionText == "Wall" then
+                        targetWood = v
+                        break
+                    end
+                end
+
+                if targetWood and targetWood.Parent then
+                    Config:Teleport(targetWood.Parent.CFrame + Vector3.new(0, 3, 0))
+                    task.wait(0.4)
+                    fireproximityprompt(targetWood)
+                    task.wait(1)
+                end
+            end)
+        end
+        constructionThread = nil
+    end)
+end
+
+local function stopConstructionAutofarm()
+    constructionRunning = false
+    if constructionThread then task.cancel(constructionThread); constructionThread = nil end
+end
+
+local function refreshPrompts(enableInstant)
+    for _, prompt in ipairs(workspace:GetDescendants()) do
+        if prompt:IsA("ProximityPrompt") then setupPrompt(prompt, enableInstant) end
+    end
+    if promptAddedConnection then promptAddedConnection:Disconnect(); promptAddedConnection = nil end
+    if enableInstant then
+        promptAddedConnection = workspace.DescendantAdded:Connect(function(descendant)
+            if descendant:IsA("ProximityPrompt") then setupPrompt(descendant, true) end
+        end)
+    end
+end
+
+local function watchStudioPayPrompt(studioPayName)
+    local studioPay = workspace:FindFirstChild("StudioPay")
+    if not studioPay then return end
+    local moneyFolder = studioPay:FindFirstChild("Money")
+    if not moneyFolder then return end
+    local part = moneyFolder:FindFirstChild(studioPayName)
+    if not part then return end
+    local prompt = part:FindFirstChild("Prompt")
+    if not prompt or not prompt:IsA("ProximityPrompt") then return end
+    local conn = prompt:GetPropertyChangedSignal("Enabled"):Connect(function()
+        if not StudioMoneyNotifyEnabled then return end
+        if prompt.Enabled then sendNotification("Studio Money Restocked", "Money in studio restocked.")
+        else sendNotification("Studio Money Stolen", "1 money in studio just got stolen!") end
+    end)
+    table.insert(StudioMoneyNotifyConnections, conn)
+end
+
+local function cleanupStudioMoneyNotify()
+    for _, conn in ipairs(StudioMoneyNotifyConnections) do if conn and conn.Disconnect then conn:Disconnect() end end
+    StudioMoneyNotifyConnections = {}
+end
+
+local function findHouseModels()
+    local found = {}
+    for _, v in pairs(workspace:GetDescendants()) do
+        if v:IsA("Model") or v:IsA("Folder") then
+            local n = v.Name:lower()
+            if n:find("house") and not n:find("pent") and not n:find("ware") then
+                if v:FindFirstChildWhichIsA("ProximityPrompt", true) then table.insert(found, v) end
+            end
+        end
+    end
+    table.sort(found, function(a, b) return a.Name:lower() < b.Name:lower() end)
+    return found
+end
+
+local function lootHouse(houseFolder)
+    if not houseFolder then return end
+    for _, item in pairs(houseFolder:GetDescendants()) do
+        if item:IsA("ProximityPrompt") and item.Enabled then
+            local part = item.Parent
+            if part and part:IsA("BasePart") then
+                Config:Teleport(part.CFrame + Vector3.new(0, 3, 0)); task.wait(0.2)
+                pcall(function() fireproximityprompt(item) end); task.wait(0.25)
+            end
+        end
+    end
+end
+
+local function GetPlayerMoneyAmount()
+    local pl = Players.LocalPlayer
+    if not pl then return nil end
+    local leader = pl:FindFirstChild("leaderstats") or pl:FindFirstChild("Leaderstats") or pl:FindFirstChild("stats")
+    if leader then
+        for _, name in ipairs({"Money","Cash","Bank","Coins","Wallet"}) do
+            local val = leader:FindFirstChild(name)
+            if val and type(val.Value) == "number" then return val.Value end
+        end
+    end
+    if pl.GetAttribute then
+        local a = pl:GetAttribute("Money") or pl:GetAttribute("Cash") or pl:GetAttribute("Coins")
+        if a and tonumber(a) then return tonumber(a) end
+    end
+    return nil
+end
+
+local function autoDepositAmount(amount)
+    pcall(function()
+        local BankAction = game:GetService("ReplicatedStorage"):FindFirstChild("BankAction")
+        if not BankAction then return end
+        if amount and tonumber(amount) and tonumber(amount) > 0 then
+            BankAction:FireServer("depo", tostring(math.floor(amount)))
+        else
+            BankAction:FireServer("depo", tostring(999999999))
+        end
+    end)
+end
+
+task.spawn(function()
+    while true do
+        if getgenv().StudioPayFarm then
+            local StudioPayFolder = workspace:FindFirstChild("StudioPay") and workspace.StudioPay:FindFirstChild("Money")
+            if StudioPayFolder then
+                local enabledPrompts = {}
+                for _, studioPayModel in pairs(StudioPayFolder:GetChildren()) do
+                    for _, part in pairs(studioPayModel:GetChildren()) do
+                        if part:IsA("BasePart") then
+                            local prompt = part:FindFirstChild("Prompt")
+                            if prompt and prompt:IsA("ProximityPrompt") and prompt.Enabled then
+                                table.insert(enabledPrompts, {part = part, prompt = prompt})
+                            end
+                        end
+                    end
+                end
+                if #enabledPrompts > 0 then
+                    local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+                    local root = character:FindFirstChild("HumanoidRootPart")
+                    if root then
+                        local originalPos = root.Position
+                        for _, entry in ipairs(enabledPrompts) do
+                            SafeTeleportTo(CFrame.new(entry.part.Position + Vector3.new(0, 3, 0)))
+                            task.wait(0.2)
+                            interactPrompt(entry.prompt)
+                            task.wait(0.1)
+                        end
+                        SafeTeleportTo(CFrame.new(originalPos))
+                    else
+                        task.wait(3)
+                    end
+                else
+                    task.wait(1)
+                end
+            else
+                task.wait(1)
+            end
+        else
+            task.wait(1)
+        end
+    end
+end)
+
+
+local AutoStealLootbagsLoop = task.spawn(function()
+    while task.wait(1) do
+        if AutoStealLootbags then
+            local storage = workspace:FindFirstChild("Storage")
+            if not storage then continue end
+            for _, item in ipairs(storage:GetChildren()) do
+                if not AutoStealLootbags then continue end
+                local prompt = item:FindFirstChild("stealprompt", true)
+                if prompt and prompt:IsA("ProximityPrompt") and prompt.Enabled then
+                    local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+                    local root = character:FindFirstChild("HumanoidRootPart")
+                    if not root then continue end
+                    local oldCFrame = root.CFrame
+                    getgenv().SwimMethod = true; task.wait(0.3)
+                    local targetPart = prompt.Parent:IsA("BasePart") and prompt.Parent or item:FindFirstChildWhichIsA("BasePart", true)
+                    if not targetPart then continue end
+                    root.CFrame = targetPart.CFrame + Vector3.new(0, 2, 0); task.wait(0.3)
+                    fireproximityprompt(prompt); task.wait(0.3)
+                    root.CFrame = oldCFrame; task.wait(0.5)
+                    getgenv().SwimMethod = false
+                end
+            end
+        end
+    end
+end)
+
+
+-- ========== LOOT / HEIST LOOPS ==========
+getgenv().AutoLootStudio = false
+task.spawn(function()
+    while task.wait(0.5) do
+        if getgenv().AutoLootStudio then
+            local StudioPayFolder = workspace:FindFirstChild("StudioPay") and workspace.StudioPay:FindFirstChild("Money")
+            if StudioPayFolder then
+                for _, model in pairs(StudioPayFolder:GetChildren()) do
+                    for _, part in pairs(model:GetChildren()) do
+                        if part:IsA("BasePart") then
+                            local prompt = part:FindFirstChild("Prompt")
+                            if prompt and prompt:IsA("ProximityPrompt") and prompt.Enabled then
+                                Config:Teleport(part.CFrame + Vector3.new(0, 3, 0)); task.wait(0.2)
+                                pcall(function() fireproximityprompt(prompt) end); task.wait(0.1)
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end)
+
+getgenv().AutoLootHouse1 = false
+getgenv().AutoLootHouse2 = false
+local function findHouseModels()
+    local found = {}
+    for _, v in pairs(workspace:GetDescendants()) do
+        if v:IsA("Model") or v:IsA("Folder") then
+            local n = v.Name:lower()
+            if n:find("house") and not n:find("pent") and not n:find("ware") then
+                if v:FindFirstChildWhichIsA("ProximityPrompt", true) then table.insert(found, v) end
+            end
+        end
+    end
+    table.sort(found, function(a, b) return a.Name:lower() < b.Name:lower() end)
+    return found
+end
+local function lootHouse(houseFolder)
+    if not houseFolder then return end
+    for _, item in pairs(houseFolder:GetDescendants()) do
+        if item:IsA("ProximityPrompt") and item.Enabled then
+            local part = item.Parent
+            if part and part:IsA("BasePart") then
+                Config:Teleport(part.CFrame + Vector3.new(0, 3, 0)); task.wait(0.2)
+                pcall(function() fireproximityprompt(item) end); task.wait(0.25)
+            end
+        end
+    end
+end
+task.spawn(function()
+    while task.wait(1) do
+        if getgenv().AutoLootHouse1 or getgenv().AutoLootHouse2 then
+            local houses = findHouseModels()
+            if getgenv().AutoLootHouse1 and houses[1] then pcall(function() lootHouse(houses[1]) end) end
+            if getgenv().AutoLootHouse2 and houses[2] then pcall(function() lootHouse(houses[2]) end) end
+        end
+    end
+end)
+
+getgenv().AutoLootTrash = false
+task.spawn(function()
+    while task.wait(0.5) do
+        if getgenv().AutoLootTrash then
+            for _, v in pairs(workspace:GetDescendants()) do
+                if v:IsA("Part") and (v.Name:lower():find("trash") or v.Name:lower():find("dumpster")) then
+                    local prompt = v:FindFirstChildWhichIsA("ProximityPrompt", true)
+                    if prompt and prompt.Enabled then
+                        Config:Teleport(v.CFrame + Vector3.new(0, 3, 0)); task.wait(0.3)
+                        pcall(function() fireproximityprompt(prompt) end); task.wait(0.5)
+                    end
+                end
+            end
+        end
+    end
+end)
+
+getgenv().AutoSellLoot = false
+task.spawn(function()
+    while task.wait(1) do
+        if getgenv().AutoSellLoot then
+            pcall(function()
+                local pawnRemote = ReplicatedStorage:FindFirstChild("PawnRemote")
+                if pawnRemote then for _, item in pairs(LocalPlayer.Backpack:GetChildren()) do pawnRemote:FireServer(item.Name) end end
+            end)
+        end
+    end
+end)
+
+getgenv().AutoRobBank = false
+task.spawn(function()
+    while task.wait(0.5) do
+        if getgenv().AutoRobBank then
+            pcall(function()
+                for _, v in pairs(workspace:GetDescendants()) do
+                    if v:IsA("ProximityPrompt") and v.Enabled and (v.ActionText:lower():find("rob") or v.ActionText:lower():find("crack") or v.ActionText:lower():find("drill")) then
+                        Config:Teleport(v.Parent.CFrame + Vector3.new(0, 3, 0)); task.wait(0.2)
+                        fireproximityprompt(v); task.wait(0.3)
+                    end
+                end
+            end)
+        end
+    end
+end)
+
+getgenv().AutoRobStore = false
+task.spawn(function()
+    while task.wait(0.5) do
+        if getgenv().AutoRobStore then
+            pcall(function()
+                local selectedStore = flags["TargetStoreSelect"] or "Store1"
+                local storeModel = workspace:FindFirstChild(selectedStore) or (workspace:FindFirstChild("Stores") and workspace.Stores:FindFirstChild(selectedStore))
+                if storeModel then
+                    for _, v in pairs(storeModel:GetDescendants()) do
+                        if v:IsA("ProximityPrompt") and v.Enabled and (v.ActionText:lower():find("rob") or v.ActionText:lower():find("steal") or v.ActionText:lower():find("register")) then
+                            Config:Teleport(v.Parent.CFrame + Vector3.new(0, 3, 0)); task.wait(0.2)
+                            fireproximityprompt(v); task.wait(0.3)
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+
+-- ========== AUTO GRAB DROPPED CASH ==========
+task.spawn(function()
+    while task.wait(1) do
+        if AutoGrabMoney then
+            local dollas = workspace:FindFirstChild("Dollas")
+            if not dollas then continue end
+            for _, item in ipairs(dollas:GetChildren()) do
+                if not AutoGrabMoney then continue end
+                if (item.Name == "DeadMoney" or item.Name == "Money") and item:IsA("BasePart") then
+                    local prompt = item:FindFirstChildWhichIsA("ProximityPrompt", true)
+                    if prompt and prompt:IsA("ProximityPrompt") and prompt.Enabled then
+                        local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+                        local root = character:FindFirstChild("HumanoidRootPart")
+                        if not root then continue end
+                        local oldCFrame = root.CFrame
+                        getgenv().SwimMethod = true; task.wait(0.3)
+                        root.CFrame = item.CFrame + Vector3.new(0, 2, 0); task.wait(0.3)
+                        fireproximityprompt(prompt); task.wait(0.3)
+                        if AutoCleanMoney then local amt = GetPlayerMoneyAmount(); autoDepositAmount(amt) end
+                        root.CFrame = oldCFrame; task.wait(0.5)
+                        getgenv().SwimMethod = false
+                    end
+                end
+            end
+        end
+    end
+end)
+
+
+
+
+
+
+local WeaponMods = { HitboxSize = 1, InfiniteAmmo = false, InfiniteClips = false, Bullets80k = false, ModifyRecoilValue = false, ModifySpreadValue = false, DisableJamming = false, InstantReload = false, InstantEquip = false, ModifyFireRate = false, Automatic = false, DamageAmplified = false, SpoofAccuracy = false, HitboxExpander = false, HitboxVisible = false, Hitmarkers = false, ReloadSpeed = 0.2, EquipSpeed = 0.2 }
+local GunOriginalColors = {}
+local GunChams = false
+local RainbowGun = false
+
+local function getEquippedGunSetting()
+    local character = LocalPlayer.Character
+    if not character then return nil, nil end
+    local tool = character:FindFirstChildOfClass("Tool")
+    if not tool or not tool:FindFirstChild("Setting") then return nil, nil end
+    local ok, settings = pcall(require, tool.Setting)
+    if ok and type(settings) == "table" then return tool, settings end
+    return nil, nil
+end
+
+local function applyAllWeaponMods()
+    local tool, settings = getEquippedGunSetting()
+    if not settings then return end
+    pcall(function()
+        if WeaponMods.InfiniteAmmo then settings.Ammo = 99999; settings.AmmoPerMag = 99999; settings.LimitedAmmoEnabled = false end
+        if WeaponMods.InfiniteClips then settings.Ammo = 80000; settings.AmmoPerMag = 80000; settings.LimitedAmmoEnabled = false end
+        if WeaponMods.Bullets80k then
+            settings.Ammo = 80000; settings.AmmoPerMag = 80000; settings.LimitedAmmoEnabled = false
+            local gunLocal = tool:FindFirstChild("GunScript_Local")
+            if gunLocal and type(getsenv) == "function" then
+                pcall(function()
+                    local env = getsenv(gunLocal)
+                    if env and type(env.Reload) == "function" and type(debug.setupvalue) == "function" then
+                        debug.setupvalue(env.Reload, 1, 80000); debug.setupvalue(env.Reload, 3, 80000)
+                    end
+                end)
+            end
+        end
+        if WeaponMods.ModifyRecoilValue then settings.Recoil = 0; settings.CameraRecoilingEnabled = false end
+        if WeaponMods.ModifySpreadValue then settings.Spread = 0; settings.SpreadX = 0; settings.SpreadY = 0; settings.Accuracy = 1 end
+        if WeaponMods.DisableJamming then settings.JamChance = 0 end
+        if WeaponMods.InstantReload then settings.ReloadTime = WeaponMods.ReloadSpeed or 0.1 end
+        if WeaponMods.InstantEquip then settings.EquipTime = WeaponMods.EquipSpeed or 0.1; settings.EquippingTime = WeaponMods.EquipSpeed or 0.1 end
+        if WeaponMods.ModifyFireRate then settings.FireRate = 0 end
+        if WeaponMods.Automatic then settings.Auto = true end
+        if WeaponMods.DamageAmplified then settings.BaseDamage = 10000 end
+        if WeaponMods.SpoofAccuracy then settings.Accuracy = 1 end
+    end)
+end
+
+LocalPlayer.CharacterAdded:Connect(function(character)
+    character.ChildAdded:Connect(function(child)
+        if child:IsA("Tool") then task.defer(applyAllWeaponMods) end
+    end)
+end)
+if LocalPlayer.Character then
+    LocalPlayer.Character.ChildAdded:Connect(function(child)
+        if child:IsA("Tool") then task.defer(applyAllWeaponMods) end
+    end)
+end
+
+-- ============================================================================
+-- PLAYER TAB UI - BLUE GUN MODS
+-- ============================================================================
+MianiWeaponOriginals = MianiWeaponOriginals or {}
+WeaponMods.FireRateSpeed = WeaponMods.FireRateSpeed or 50
+WeaponMods.SpreadPercentage = WeaponMods.SpreadPercentage or 50
+WeaponMods.RecoilPercentage = WeaponMods.RecoilPercentage or 50
+WeaponMods.InfiniteDamage = WeaponMods.InfiniteDamage or false
+WeaponMods.KillAura = WeaponMods.KillAura or false
+WeaponMods.KillAuraRange = WeaponMods.KillAuraRange or 500
+
+function MianiGetWeaponOriginals(tool, settings)
+    if not tool or not settings then return nil end
+    MianiWeaponOriginals[tool.Name] = MianiWeaponOriginals[tool.Name] or {}
+    for key, value in pairs(settings) do
+        if MianiWeaponOriginals[tool.Name][key] == nil then
+            MianiWeaponOriginals[tool.Name][key] = value
+        end
+    end
+    return MianiWeaponOriginals[tool.Name]
+end
+
+function MianiPercent(defaultValue, percent)
+    if type(defaultValue) ~= "number" then return defaultValue end
+    return defaultValue * (math.clamp(tonumber(percent) or 100, 0, 100) / 100)
+end
+
+function applyBlueWeaponMods()
+    local tool, settings = getEquippedGunSetting()
+    if not tool or not settings then return end
+    local old = MianiGetWeaponOriginals(tool, settings)
+    if not old then return end
+
+    pcall(function()
+        if WeaponMods.InfiniteAmmo then
+            settings.Ammo = 99999
+            settings.AmmoPerMag = 99999
+            settings.LimitedAmmoEnabled = false
+        end
+        if WeaponMods.InfiniteClips then
+            settings.Ammo = 80000
+            settings.AmmoPerMag = 80000
+            settings.LimitedAmmoEnabled = false
+        end
+        if WeaponMods.Bullets80k then
+            settings.Ammo = 80000
+            settings.AmmoPerMag = 80000
+            settings.LimitedAmmoEnabled = false
+            local gunLocal = tool:FindFirstChild("GunScript_Local")
+            if gunLocal and type(getsenv) == "function" then
+                pcall(function()
+                    local env = getsenv(gunLocal)
+                    if env and type(env.Reload) == "function" and type(debug.setupvalue) == "function" then
+                        debug.setupvalue(env.Reload, 1, 80000)
+                        debug.setupvalue(env.Reload, 3, 80000)
+                    end
+                end)
+            end
+        end
+        if WeaponMods.ModifyFireRate then
+            settings.FireRate = MianiPercent(old.FireRate or settings.FireRate or 0, WeaponMods.FireRateSpeed)
+        end
+        if WeaponMods.InstantReload then
+            settings.ReloadTime = 0.01
+        elseif WeaponMods.ReloadSpeed then
+            settings.ReloadTime = WeaponMods.ReloadSpeed
+        end
+        if WeaponMods.InstantEquip then
+            settings.EquipTime = 0.01
+            settings.EquippingTime = 0.01
+        elseif WeaponMods.EquipSpeed then
+            settings.EquipTime = WeaponMods.EquipSpeed
+            settings.EquippingTime = WeaponMods.EquipSpeed
+        end
+        if WeaponMods.ModifySpreadValue then
+            if settings.SpreadXY ~= nil then settings.SpreadXY = MianiPercent(old.SpreadXY or settings.SpreadXY, WeaponMods.SpreadPercentage) end
+            if settings.SpreadYX ~= nil then settings.SpreadYX = MianiPercent(old.SpreadYX or settings.SpreadYX, WeaponMods.SpreadPercentage) end
+            if settings.Spread ~= nil then settings.Spread = MianiPercent(old.Spread or settings.Spread, WeaponMods.SpreadPercentage) end
+            if settings.SpreadX ~= nil then settings.SpreadX = MianiPercent(old.SpreadX or settings.SpreadX, WeaponMods.SpreadPercentage) end
+            if settings.SpreadY ~= nil then settings.SpreadY = MianiPercent(old.SpreadY or settings.SpreadY, WeaponMods.SpreadPercentage) end
+            settings.Accuracy = 1
+        end
+        if WeaponMods.ModifyRecoilValue then
+            if settings.Recoil ~= nil then settings.Recoil = MianiPercent(old.Recoil or settings.Recoil, WeaponMods.RecoilPercentage) end
+            settings.CameraRecoilingEnabled = false
+        end
+        if WeaponMods.Automatic then settings.Auto = true end
+        if WeaponMods.DisableJamming then settings.JamChance = 0 end
+        if WeaponMods.InfiniteDamage or WeaponMods.DamageAmplified then settings.BaseDamage = math.huge end
+        if WeaponMods.SpoofAccuracy then settings.Accuracy = 1 end
+    end)
+end
+
+function MianiForce80kBullets()
+    local tool = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Tool")
+    if not tool then sendNotification("Gun Mods", "Hold a gun first!") return end
+    pcall(function()
+        if tool:FindFirstChild("Setting") then
+            local config = require(tool.Setting)
+            if type(config) == "table" then
+                config.Ammo = 80000
+                config.AmmoPerMag = 80000
+                config.LimitedAmmoEnabled = false
+            end
+        end
+        local gunLocal = tool:FindFirstChild("GunScript_Local")
+        if gunLocal and type(getsenv) == "function" then
+            local env = getsenv(gunLocal)
+            if env and type(env.Reload) == "function" and type(debug.setupvalue) == "function" then
+                debug.setupvalue(env.Reload, 1, 80000)
+                debug.setupvalue(env.Reload, 3, 80000)
+            end
+        end
+    end)
+    sendNotification("Gun Mods", "Forced 80k bullets on current gun.")
+end
+
+function MianiApplyHitboxExpander()
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer and player.Character then
+            local part = player.Character:FindFirstChild("HumanoidRootPart") or player.Character:FindFirstChild("Head")
+            if part and part:IsA("BasePart") then
+                if WeaponMods.HitboxExpander then
+                    local size = tonumber(WeaponMods.HitboxSize) or 5
+                    part.Size = Vector3.new(size, size, size)
+                    part.Transparency = WeaponMods.HitboxVisible and 0.5 or 1
+                    part.Material = Enum.Material.ForceField
+                    part.CanCollide = false
+                    part.Massless = true
+                else
+                    part.Transparency = 1
+                end
+            end
+        end
+    end
+end
+
+function MianiUpdateGunColor()
+    if not GunChams then return end
+    local char = LocalPlayer.Character
+    local tool = char and char:FindFirstChildOfClass("Tool")
+    if not tool then return end
+    for _, v in pairs(tool:GetDescendants()) do
+        if v:IsA("BasePart") then
+            if not GunOriginalColors[v] then GunOriginalColors[v] = v.Color end
+            if RainbowGun then
+                v.Color = Color3.fromHSV((tick() % 5) / 5, 1, 1)
+            else
+                v.Color = GunChamsColor or Color3.fromRGB(0, 200, 0)
+            end
+            v.Material = Enum.Material.Neon
+        end
+    end
+end
+
+function MianiRestoreGunColor()
+    for part, color in pairs(GunOriginalColors) do
+        if part and part.Parent then
+            part.Color = color
+            part.Material = Enum.Material.Plastic
+        end
+    end
+    GunOriginalColors = {}
+end
+
+task.spawn(function()
+    while task.wait(0.25) do
+        pcall(applyBlueWeaponMods)
+        if WeaponMods.HitboxExpander then pcall(MianiApplyHitboxExpander) end
+    end
+end)
+RunService.RenderStepped:Connect(function()
+    pcall(MianiUpdateGunColor)
+end)
+
+BlueGunModsSection = PlayerTab:Section({Name = "Weapon Modifications", Side = 1})
+function BlueBindWeaponToggle(displayName, key, flag)
+    BlueGunModsSection:Toggle({Name = displayName, Flag = flag, Default = false, Callback = function(state)
+        WeaponMods[key] = state
+        if key == "InfiniteDamage" then WeaponMods.DamageAmplified = state end
+        pcall(applyAllWeaponMods)
+        pcall(applyBlueWeaponMods)
+    end})
+end
+BlueBindWeaponToggle("Infinite Ammo", "InfiniteAmmo", "BlueWM_InfiniteAmmo")
+BlueBindWeaponToggle("Infinite Clips", "InfiniteClips", "BlueWM_InfiniteClips")
+BlueBindWeaponToggle("Infinite Damage", "InfiniteDamage", "BlueWM_InfiniteDamage")
+BlueBindWeaponToggle("Instant Reload", "InstantReload", "BlueWM_InstantReload")
+BlueBindWeaponToggle("Instant Equip", "InstantEquip", "BlueWM_InstantEquip")
+BlueBindWeaponToggle("80k Bullets", "Bullets80k", "BlueWM_80kBullets")
+BlueBindWeaponToggle("Fully Automatic", "Automatic", "BlueWM_Automatic")
+BlueBindWeaponToggle("Disable Jamming", "DisableJamming", "BlueWM_DisableJamming")
+BlueBindWeaponToggle("Modify Recoil Value", "ModifyRecoilValue", "BlueWM_ModifyRecoil")
+BlueBindWeaponToggle("Modify Spread Value", "ModifySpreadValue", "BlueWM_ModifySpread")
+BlueBindWeaponToggle("Modify Fire Rate", "ModifyFireRate", "BlueWM_ModifyFireRate")
+BlueGunModsSection:Button({Name = "Force 80k Bullets", Callback = MianiForce80kBullets})
+
+BlueGunSettingsSection = PlayerTab:Section({Name = "Weapon Modification Settings", Side = 2})
+BlueGunSettingsSection:Label({Name = "100% is default percentage.", Alignment = "Left"})
+BlueGunSettingsSection:Slider({Name = "Fire-Rate Percentage", Flag = "BlueWM_FireRatePercent", Min = 1, Max = 100, Default = 50, Callback = function(value)
+    WeaponMods.FireRateSpeed = value
+    pcall(applyBlueWeaponMods)
+end})
+BlueGunSettingsSection:Slider({Name = "Spread Percentage", Flag = "BlueWM_SpreadPercent", Min = 1, Max = 100, Default = 50, Callback = function(value)
+    WeaponMods.SpreadPercentage = value
+    pcall(applyBlueWeaponMods)
+end})
+BlueGunSettingsSection:Slider({Name = "Recoil Percentage", Flag = "BlueWM_RecoilPercent", Min = 1, Max = 100, Default = 50, Callback = function(value)
+    WeaponMods.RecoilPercentage = value
+    pcall(applyBlueWeaponMods)
+end})
+BlueGunSettingsSection:Slider({Name = "Reload Speed", Flag = "BlueWM_ReloadSpeed", Min = 0.01, Max = 1, Default = 0.2, Callback = function(value)
+    WeaponMods.ReloadSpeed = value
+    pcall(applyAllWeaponMods)
+    pcall(applyBlueWeaponMods)
+end})
+BlueGunSettingsSection:Slider({Name = "Equip Speed", Flag = "BlueWM_EquipSpeed", Min = 0.01, Max = 1, Default = 0.2, Callback = function(value)
+    WeaponMods.EquipSpeed = value
+    pcall(applyAllWeaponMods)
+    pcall(applyBlueWeaponMods)
+end})
+BlueGunSettingsSection:Toggle({Name = "Bullet Hitbox Expander", Flag = "BlueWM_HitboxExpander", Default = false, Callback = function(state) WeaponMods.HitboxExpander = state end})
+BlueGunSettingsSection:Toggle({Name = "Bullet Hitbox Visible", Flag = "BlueWM_HitboxVisible", Default = false, Callback = function(state) WeaponMods.HitboxVisible = state end})
+BlueGunSettingsSection:Slider({Name = "Bullet Hitbox Size", Flag = "BlueWM_HitboxSize", Min = 1, Max = 15, Default = 5, Callback = function(value) WeaponMods.HitboxSize = value end})
+
+BlueGunColorSection = PlayerTab:Section({Name = "Gun Color", Side = 2})
+GunChamsColor = GunChamsColor or Color3.fromRGB(0, 200, 0)
+BlueGunColorSection:Toggle({Name = "Enable Gun Color", Flag = "BlueWM_GunColor", Default = false, Callback = function(state)
+    GunChams = state
+    if not state then MianiRestoreGunColor() end
+end})
+BlueGunColorSection:Toggle({Name = "Rainbow Gun Color", Flag = "BlueWM_RainbowGun", Default = false, Callback = function(state)
+    RainbowGun = state
+end})
+BlueGunColorSection:Dropdown({Name = "Gun Color", Flag = "BlueWM_GunColorSelect", Items = {"Green", "Purple", "Red", "Blue", "Pink", "Cyan", "Yellow", "White"}, Default = "Green", Callback = function(value)
+    local colors = {
+        Green = Color3.fromRGB(0, 200, 0), Purple = Color3.fromRGB(143, 0, 255), Red = Color3.fromRGB(255, 0, 0),
+        Blue = Color3.fromRGB(0, 120, 255), Pink = Color3.fromRGB(255, 80, 180), Cyan = Color3.fromRGB(0, 255, 255),
+        Yellow = Color3.fromRGB(255, 255, 0), White = Color3.fromRGB(255, 255, 255)
+    }
+    GunChamsColor = colors[tostring(value)] or Color3.fromRGB(0, 200, 0)
+end})
+
+-- ============================================================================
+-- VEHICLE SETTINGS SUPPORT (MOVED TO MAIN)
+-- ============================================================================
+local CarFly = { Enabled = false, Speed = 150 }
+local carFlyConnection = nil
+
+local function StopCarFly()
+    CarFly.Enabled = false
+    if carFlyConnection then
+        carFlyConnection:Disconnect()
+        carFlyConnection = nil
+    end
+    for _, v in pairs(workspace:GetDescendants()) do
+        if v.Name == "SleepyHubCarVelocity" or v.Name == "SleepyHubCarGyro" then
+            v:Destroy()
+        end
+    end
+end
+
+local function StartCarFly()
+    local char = LocalPlayer.Character
+    if not char then return end
+    local humanoid = char:FindFirstChildWhichIsA("Humanoid")
+    if not humanoid then return end
+    local seat = humanoid.SeatPart
+    if not seat or not seat:IsA("VehicleSeat") then
+        sendNotification("Car Fly", "Sit in a vehicle first!")
+        return
+    end
+
+    local root = (seat.Parent and seat.Parent.PrimaryPart) or seat
+    StopCarFly()
+    CarFly.Enabled = true
+
+    local bv = Instance.new("BodyVelocity")
+    bv.Name = "SleepyHubCarVelocity"
+    bv.MaxForce = Vector3.new(1e9, 1e9, 1e9)
+    bv.Parent = root
+
+    local bg = Instance.new("BodyGyro")
+    bg.Name = "SleepyHubCarGyro"
+    bg.MaxTorque = Vector3.new(1e9, 1e9, 1e9)
+    bg.P = 50000
+    bg.D = 1000
+    bg.CFrame = root.CFrame
+    bg.Parent = root
+
+    carFlyConnection = RunService.RenderStepped:Connect(function()
+        if not CarFly.Enabled then StopCarFly() return end
+        if not seat.Parent then StopCarFly() return end
+
+        local cam = workspace.CurrentCamera
+        local moveDir = Vector3.zero
+        local look = cam.CFrame.LookVector
+        local right = cam.CFrame.RightVector
+
+        if UserInputService:IsKeyDown(Enum.KeyCode.W) then moveDir = moveDir + look end
+        if UserInputService:IsKeyDown(Enum.KeyCode.S) then moveDir = moveDir - look end
+        if UserInputService:IsKeyDown(Enum.KeyCode.A) then moveDir = moveDir - right end
+        if UserInputService:IsKeyDown(Enum.KeyCode.D) then moveDir = moveDir + right end
+        if UserInputService:IsKeyDown(Enum.KeyCode.Space) then moveDir = moveDir + Vector3.new(0, 1, 0) end
+        if UserInputService:IsKeyDown(Enum.KeyCode.LeftShift) then moveDir = moveDir - Vector3.new(0, 1, 0) end
+
+        if moveDir.Magnitude > 0 then
+            bv.Velocity = moveDir.Unit * CarFly.Speed
+            bg.CFrame = CFrame.new(root.Position, root.Position + moveDir)
+        else
+            bv.Velocity = Vector3.zero
+        end
+    end)
+end
+
+local function GetNearestCar(hrp)
+    local CivCars = workspace:FindFirstChild("CivCars")
+    if not CivCars then return nil end
+
+    local nearestCar = nil
+    local nearestDist = math.huge
+    for _, car in ipairs(CivCars:GetChildren()) do
+        if car:IsA("Model") then
+            local seat = car:FindFirstChild("DriveSeat") or car:FindFirstChildWhichIsA("VehicleSeat")
+            if seat and not seat.Occupant then
+                if not car.PrimaryPart then
+                    pcall(function()
+                        car.PrimaryPart = car:FindFirstChildWhichIsA("BasePart")
+                    end)
+                end
+                if car.PrimaryPart then
+                    local dist = (car.PrimaryPart.Position - hrp.Position).Magnitude
+                    if dist < nearestDist then
+                        nearestDist = dist
+                        nearestCar = car
+                    end
+                end
+            end
+        end
+    end
+    return nearestCar
+end
+
+local VehicleModifications = {
+    SpeedEnabled = false,
+    SpeedValue = 10 / 1000,
+    BreakEnabled = false,
+    BreakValue = 50 / 1000,
+    InstantStop = false
+}
+
+task.spawn(function()
+    while task.wait() do
+        local character = LocalPlayer.Character
+        local humanoid = character and character:FindFirstChildWhichIsA("Humanoid")
+        local seatPart = humanoid and humanoid.SeatPart
+        if seatPart and seatPart:IsA("VehicleSeat") then
+            if VehicleModifications.SpeedEnabled and UserInputService:IsKeyDown(Enum.KeyCode.W) then
+                seatPart.AssemblyLinearVelocity = seatPart.AssemblyLinearVelocity * Vector3.new(1 + VehicleModifications.SpeedValue, 1, 1 + VehicleModifications.SpeedValue)
+            end
+            if VehicleModifications.BreakEnabled and UserInputService:IsKeyDown(Enum.KeyCode.S) then
+                seatPart.AssemblyLinearVelocity = seatPart.AssemblyLinearVelocity * Vector3.new(1 - VehicleModifications.BreakValue, 1, 1 - VehicleModifications.BreakValue)
+            end
+            if VehicleModifications.InstantStop and UserInputService:IsKeyDown(Enum.KeyCode.V) then
+                seatPart.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+                seatPart.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+            end
+        end
+    end
+end)
+
+
+-- ============================================================================
+-- ALABAMA MAIN SUPPORT / UTILITIES
+-- ============================================================================
+getgenv().AutoDupeCurrentItem = getgenv().AutoDupeCurrentItem or false
+local DupeToolName = nil
+local DupeCooldown = false
+getgenv().MoneyDropEnabled = getgenv().MoneyDropEnabled or false
+
+local function getPing()
+    local ok, result = pcall(function()
+        return tonumber(string.match(tostring(LocalPlayer:GetNetworkPing()), '%d+'))
+    end)
+    if ok and result then return result end
+    return 100
+end
+
+local function duplicateCurrentItem()
+    if DupeCooldown then
+        sendNotification("Dupe", "Cooldown! Please wait.")
+        return
+    end
+    DupeCooldown = true
+
+    local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+    local Backpack = LocalPlayer:WaitForChild('Backpack')
+    local Tool = Character:FindFirstChildOfClass('Tool')
+    if not Tool then
+        sendNotification("Dupe", "Hold a tool first!")
+        DupeCooldown = false
+        return
+    end
+
+    Tool.Parent = Backpack
+    task.wait(0.5)
+
+    local ToolName = Tool.Name
+    local ToolId = nil
+    local ping = getPing()
+    local delay = 0.25 + ((math.clamp(ping, 0, 300) / 300) * 0.03)
+
+    local Connection
+    if ReplicatedStorage:FindFirstChild("MarketItems") then
+        Connection = ReplicatedStorage.MarketItems.ChildAdded:Connect(function(item)
+            if item.Name == ToolName then
+                local owner = item:WaitForChild('owner', 2)
+                if owner and owner.Value == LocalPlayer.Name then
+                    ToolId = item:GetAttribute('SpecialId') or item:GetAttribute('ToolId')
+                end
+            end
+        end)
+    end
+
+    pcall(function() ReplicatedStorage.ListWeaponRemote:FireServer(ToolName, 676767) end)
+    task.wait(delay)
+    pcall(function() ReplicatedStorage.BackpackRemote:InvokeServer('Store', ToolName) end)
+    task.wait(3)
+    if ToolId then pcall(function() ReplicatedStorage.BuyItemRemote:FireServer(ToolName, 'Remove', ToolId) end) end
+    pcall(function() ReplicatedStorage.BackpackRemote:InvokeServer('Grab', ToolName) end)
+    task.wait(1)
+
+    local dupedTool = Backpack:FindFirstChild(ToolName)
+    if dupedTool and LocalPlayer.Character then dupedTool.Parent = LocalPlayer.Character end
+    if Connection then Connection:Disconnect() end
+    task.wait(2)
+    DupeCooldown = false
+end
+
+task.spawn(function()
+    while task.wait(0.1) do
+        if getgenv().AutoDupeCurrentItem and DupeToolName and DupeToolName ~= "nil" and not DupeCooldown then
+            duplicateCurrentItem()
+        end
+    end
+end)
+
+local function teleportTo(location)
+    if not location then return end
+    local targetCFrame = typeof(location) == "CFrame" and location or CFrame.new(location + Vector3.new(0, 3, 0))
+    Config:Teleport(targetCFrame)
+end
+
+local function GetGoodCleaner()
+    if not workspace:FindFirstChild("1# Map") then return nil end
+    local CounterInstance
+    for _, Value in pairs(workspace["1# Map"]:GetChildren()) do
+        if Value:FindFirstChild("CounterM") then CounterInstance = Value; break end
+    end
+    if not CounterInstance then return nil end
+    for _, value in pairs(CounterInstance:GetChildren()) do
+        local cashPrompt = value:FindFirstChild("CashPrompt", true)
+        local grabPrompt = value:FindFirstChild("GrabPrompt", true)
+        if cashPrompt and cashPrompt.Enabled and cashPrompt.ObjectText == "Count Bread" and grabPrompt and not grabPrompt.Enabled then
+            return value
+        end
+    end
+    return nil
+end
+
+local function CleanAllFilthyMoney()
+    local Player = LocalPlayer
+    if not Player:FindFirstChild("stored") or not Player.stored:FindFirstChild("FilthyStack") or Player.stored.FilthyStack.Value == 0 then
+        sendNotification("Money", "You don't have any filthy cash!")
+        return
+    end
+    if not Player.Character or not Player.Character:FindFirstChild("HumanoidRootPart") then return end
+    local Cleaner = GetGoodCleaner()
+    if not Cleaner then sendNotification("Money", "Couldn't find a good cleaner!"); return end
+    pcall(function() Config:Teleport(Cleaner.WorldPivot or (Cleaner.CFrame or Cleaner:GetPivot())) end)
+    task.wait(0.4)
+    pcall(function() fireproximityprompt(Cleaner:FindFirstChild("CashPrompt", true)) end)
+    local onObj = Cleaner:FindFirstChild("On", true)
+    if onObj then repeat task.wait() until onObj.Color == Color3.fromRGB(74, 156, 69) else task.wait(0.5) end
+    task.wait(0.5)
+    pcall(function() fireproximityprompt(Cleaner:FindFirstChild("CashPrompt", true)) end)
+    task.wait(0.25)
+    pcall(function() Config:Teleport(Cleaner.WorldPivot or (Cleaner.CFrame or Cleaner:GetPivot())) end)
+    task.wait(0.4)
+    repeat task.wait() until Player.Backpack:FindFirstChild("MoneyReady")
+    Player.Character.Humanoid:EquipTool(Player.Backpack["MoneyReady"])
+    repeat task.wait(1) pcall(function() fireproximityprompt(Cleaner:FindFirstChild("GrabPrompt", true)) end) until not Player.Character:FindFirstChild("MoneyReady")
+    repeat task.wait() until Player.Backpack:FindFirstChild("BagOfMoney")
+    pcall(function() Config:Teleport(CFrame.new(-222, 284, -1201)) end)
+    task.wait(0.4)
+    if Player.Backpack:FindFirstChild("BagOfMoney") then Player.Character.Humanoid:EquipTool(Player.Backpack["BagOfMoney"]) end
+    task.wait(1)
+    pcall(function()
+        local atm = workspace:FindFirstChild("ATMMoney")
+        local prompt = atm and atm:FindFirstChild("Prompt", true)
+        if prompt then fireproximityprompt(prompt) end
+    end)
+end
+
+local function GenerateMaxIllegalMoney()
+    local Player = LocalPlayer
+    local function GetFruitCup()
+        for _, container in ipairs({Player.Backpack, Player.Character}) do
+            if container then
+                for _, tool in pairs(container:GetChildren()) do
+                    if tool:IsA("Tool") and tool.Name == "Ice-Fruit Cupz" then
+                        local cupPart = tool:FindFirstChild("IceFruit Cup")
+                        if cupPart and cupPart:FindFirstChild("IceFruit PunchMedium") and cupPart["IceFruit PunchMedium"].Transparency ~= 1 then
+                            return true, tool
+                        end
+                    end
+                end
+            end
+        end
+        return false, nil
+    end
+
+    local Found, Cup = GetFruitCup()
+    local oldCFrame = Player.Character and Player.Character:FindFirstChild("HumanoidRootPart") and Player.Character.HumanoidRootPart.CFrame
+    if Cup and Found and oldCFrame and workspace:FindFirstChild("IceFruit Sell") then
+        if Cup.Parent == Player.Backpack then Player.Character.Humanoid:EquipTool(Cup); task.wait(1) end
+        Config:Teleport(workspace["IceFruit Sell"].CFrame)
+        task.wait(0.5)
+        for _ = 1, 4000 do task.spawn(function() pcall(function() fireproximityprompt(workspace["IceFruit Sell"].ProximityPrompt) end) end) end
+        Config:Teleport(oldCFrame)
+        task.wait(8)
+        return
+    end
+
+    local items = {"FijiWater", "FreshWater", "Ice-Fruit Bag", "Ice-Fruit Cupz"}
+    local stove
+    if workspace:FindFirstChild("CookingPots") then
+        for _, value in pairs(workspace.CookingPots:GetChildren()) do
+            if value:IsA("Model") then
+                local prompt = value:FindFirstChildWhichIsA("ProximityPrompt", true)
+                if prompt and prompt.ActionText == "Turn On" and prompt.Enabled then stove = value; break end
+            end
+        end
+    end
+
+    for _, item in ipairs(items) do
+        if not Player.Backpack:FindFirstChild(item) then
+            pcall(function() ReplicatedStorage:WaitForChild("ExoticShopRemote"):InvokeServer(item) end)
+            task.wait(1)
+        end
+    end
+    for _, item in ipairs(items) do
+        if not Player.Backpack:FindFirstChild(item) then sendNotification("Money", "Need more cash / missing items."); return end
+    end
+    if not stove then sendNotification("Money", "Could not find a cooking stove."); return end
+
+    Config:Teleport(stove.CookPart.CFrame)
+    task.wait(1)
+    pcall(function() StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, false) end)
+    Player.Character.HumanoidRootPart.Anchored = true
+    task.wait(1.5)
+    pcall(function() fireproximityprompt(stove:FindFirstChildWhichIsA("ProximityPrompt", true)) end)
+    task.wait(2)
+    for _, item in ipairs({"FijiWater", "FreshWater", "Ice-Fruit Bag"}) do
+        if Player.Backpack:FindFirstChild(item) then
+            Player.Character.Humanoid:EquipTool(Player.Backpack[item])
+            task.wait(1)
+            pcall(function() fireproximityprompt(stove:FindFirstChildWhichIsA("ProximityPrompt", true)) end)
+            task.wait(3)
+        end
+    end
+    pcall(function() repeat task.wait() until stove.CookPart.Steam.LoadUI.Enabled == false end)
+    if not Player.Character:FindFirstChild("Ice-Fruit Cupz") and Player.Backpack:FindFirstChild("Ice-Fruit Cupz") then Player.Character.Humanoid:EquipTool(Player.Backpack["Ice-Fruit Cupz"]); task.wait(1) end
+    task.wait(1)
+    pcall(function() fireproximityprompt(stove:FindFirstChildWhichIsA("ProximityPrompt", true)) end)
+    task.wait(3)
+    Player.Character.HumanoidRootPart.Anchored = false
+    if workspace:FindFirstChild("IceFruit Sell") then
+        Config:Teleport(workspace["IceFruit Sell"].CFrame)
+        task.wait(1)
+        Player.Character.HumanoidRootPart.Anchored = true
+        task.wait(1.5)
+        if not Player.Character:FindFirstChild("Ice-Fruit Cupz") and Player.Backpack:FindFirstChild("Ice-Fruit Cupz") then Player.Character.Humanoid:EquipTool(Player.Backpack["Ice-Fruit Cupz"]); task.wait(1) end
+        workspace["IceFruit Sell"].ProximityPrompt.HoldDuration = 0
+        for _ = 1, 4000 do task.spawn(function() pcall(function() fireproximityprompt(workspace["IceFruit Sell"].ProximityPrompt) end) end) end
+    end
+    Player.Character.HumanoidRootPart.Anchored = false
+    pcall(function() StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, true) end)
+end
+
+local function InfMoneyHoldCupz()
+    local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+    local rootPart = character:WaitForChild("HumanoidRootPart")
+    local originalCFrame = rootPart.CFrame
+    local iceFruitPart = workspace:FindFirstChild("IceFruit Sell")
+    if not iceFruitPart then sendNotification("Inf Money", "IceFruit Sell not found."); return end
+    local prompt = iceFruitPart:FindFirstChild("ProximityPrompt")
+    if not prompt then return end
+    prompt.HoldDuration = 0
+    prompt.MaxActivationDistance = math.huge
+    Config:Teleport(iceFruitPart.CFrame)
+    task.wait(1)
+    for _ = 1, 250 do task.spawn(function() pcall(function() fireproximityprompt(prompt, 1) end) end) end
+    task.wait(5)
+    Config:Teleport(originalCFrame)
+    task.wait(0.25)
+    getgenv().SwimMethod = false
+end
+
+local function DropMoneyAmount(amount)
+    local BankRemote = ReplicatedStorage:FindFirstChild('BankProcessRemote', true)
+    if not BankRemote then return false, "BankProcessRemote not found" end
+    local function send(...)
+        if BankRemote.InvokeServer then return BankRemote:InvokeServer(...) end
+        if BankRemote.FireServer then return BankRemote:FireServer(...) end
+    end
+    local attempts = {{"Drop", tostring(amount)}, {"Drop", tonumber(amount) or amount}, {{"Drop", tostring(amount)}}, {{"Drop", tonumber(amount) or amount}}}
+    for _, args in ipairs(attempts) do
+        local ok, result = pcall(send, table.unpack(args))
+        if ok and result ~= false then return true, result end
+    end
+    return false, "all attempts failed"
+end
+
+task.spawn(function()
+    while task.wait(0.3) do
+        if getgenv().MoneyDropEnabled then pcall(function() DropMoneyAmount(10000) end) end
+    end
+end)
+
+local function SetupInfiniteMoney()
+    for _, itemName in ipairs({"Ice-Fruit Bag", "Ice-Fruit Cupz", "FijiWater", "FreshWater"}) do
+        task.spawn(function() pcall(function() ReplicatedStorage:WaitForChild("ExoticShopRemote"):InvokeServer(itemName) end) end)
+    end
+end
+
+local function collectShopItems()
+    local items = {}
+    local promptPurchases = workspace:FindFirstChild("PromptPurchases")
+    if promptPurchases then
+        for _, value in pairs(promptPurchases:GetChildren()) do
+            local price = value:FindFirstChild("Price")
+            local proxprompt = value:FindFirstChild("proxprompt")
+            local prompt = proxprompt and proxprompt:FindFirstChildOfClass("ProximityPrompt")
+            if price and proxprompt and prompt then table.insert(items, string.format("%s - $%s", tostring(value), tostring(price.Value))) end
+        end
+    end
+    local gunsFolder = workspace:FindFirstChild("GUNS")
+    if gunsFolder then
+        for _, value in pairs(gunsFolder:GetChildren()) do
+            local price = value:FindFirstChild("Price", true)
+            local prompt = value:FindFirstChildWhichIsA("ProximityPrompt", true)
+            if price and prompt then
+                local gunWithPrice = string.format("%s - $%s", tostring(value), tostring(price.Value))
+                if not table.find(items, gunWithPrice) then table.insert(items, gunWithPrice) end
+            end
+        end
+    end
+    if #items == 0 then
+        items = {"Shiesty", "WhiteShiesty", "Water", "RawSteak", "RawChicken", "Bagelite", ".45 Infinity", "BluGloves", "WhiteGloves", "BlackGloves", "RedGloves", "PinkCamoGloves", "BluCamoGloves", "YelloCamoGloves", "RedCamoGloves", "BluShiestyCam", "YelloShiesty"}
+    end
+    table.sort(items)
+    return items
+end
+
+local function buyShopItem(selectedShopItem)
+    if not selectedShopItem then sendNotification("Shop", "Select an item first!"); return end
+    local itemName = selectedShopItem
+    local cleanName = string.match(itemName, "^(.*) %-")
+    if cleanName then itemName = cleanName:match("^%s*(.-)%s*$") end
+
+    local promptPurchases = workspace:FindFirstChild("PromptPurchases")
+    if promptPurchases and promptPurchases:FindFirstChild(itemName) then
+        local entry = promptPurchases[itemName]
+        local proxprompt = entry:FindFirstChild("proxprompt")
+        local prompt = proxprompt and proxprompt:FindFirstChildOfClass("ProximityPrompt")
+        if prompt then
+            local part = proxprompt:IsA("Part") and proxprompt.CFrame or (entry:IsA("BasePart") and entry.CFrame)
+            if part then
+                Config:Teleport(part)
+                task.wait(0.4)
+                repeat pcall(function() fireproximityprompt(prompt) end); task.wait(0.1) until LocalPlayer.Backpack:FindFirstChild(itemName) or not LocalPlayer.Character
+                sendNotification("Shop", "Purchased " .. itemName)
+                return
+            end
+        end
+    end
+
+    local gunsFolder = workspace:FindFirstChild("GUNS")
+    if gunsFolder and gunsFolder:FindFirstChild(itemName) then
+        local entry = gunsFolder[itemName]
+        local prompt = entry:FindFirstChildWhichIsA("ProximityPrompt", true)
+        if prompt then
+            local part = prompt.Parent:IsA("BasePart") and prompt.Parent.CFrame or entry:GetPivot()
+            Config:Teleport(part)
+            task.wait(0.4)
+            repeat pcall(function() fireproximityprompt(prompt) end); task.wait(0.1) until LocalPlayer.Backpack:FindFirstChild(itemName) or not LocalPlayer.Character
+            sendNotification("Shop", "Purchased " .. itemName)
+            return
+        end
+    end
+
+    local shopRemote = ReplicatedStorage:FindFirstChild("ShopRemote")
+    if shopRemote then
+        local success = pcall(function() shopRemote:InvokeServer(itemName) end)
+        sendNotification("Shop", success and ("Purchased " .. itemName) or ("Failed: " .. itemName))
+        return
+    end
+    sendNotification("Shop", "Could not find purchase point for " .. itemName)
+end
+
+local function applyOutfit(name, actions)
+    local clothRemote = ReplicatedStorage:FindFirstChild("ClothShopRemote")
+    if not clothRemote then sendNotification("Outfit", "ClothShopRemote not found."); return end
+    for _, args in ipairs(actions) do pcall(function() clothRemote:FireServer(unpack(args)) end); task.wait(0.1) end
+    sendNotification("Outfit", "Equipped " .. name)
+end
+
+local Lighting = game:GetService("Lighting")
+local currentSkyChoice = "None"
+local originalSkySettings = {}
+pcall(function()
+    originalSkySettings.ClockTime = Lighting.ClockTime
+    originalSkySettings.Brightness = Lighting.Brightness
+    originalSkySettings.FogEnd = Lighting.FogEnd
+    originalSkySettings.FogColor = Lighting.FogColor
+    originalSkySettings.GlobalShadows = Lighting.GlobalShadows
+    originalSkySettings.OutdoorAmbient = Lighting.OutdoorAmbient
+    originalSkySettings.Ambient = Lighting.Ambient
+    originalSkySettings.ExposureCompensation = Lighting.ExposureCompensation
+end)
+local skyPresets = {
+    ["None"] = nil,
+    ["Pink Sky"] = {ClockTime = 12, Brightness = 3, FogEnd = 8000, FogColor = Color3.fromRGB(255,130,190), OutdoorAmbient = Color3.fromRGB(255,150,200), Ambient = Color3.fromRGB(200,100,160), ExposureCompensation = 0.2, AtmColor = Color3.fromRGB(255,140,200), AtmDecay = Color3.fromRGB(230,100,180), AtmGlare = 1, AtmHaze = 3},
+    ["Green Sky"] = {ClockTime = 12, Brightness = 3, FogEnd = 8000, FogColor = Color3.fromRGB(60,230,100), OutdoorAmbient = Color3.fromRGB(80,240,120), Ambient = Color3.fromRGB(50,200,90), ExposureCompensation = 0.2, AtmColor = Color3.fromRGB(0,220,80), AtmDecay = Color3.fromRGB(0,180,50), AtmGlare = 1, AtmHaze = 3},
+    ["Red Sky"] = {ClockTime = 18.5, Brightness = 2.5, FogEnd = 6000, FogColor = Color3.fromRGB(200,30,20), OutdoorAmbient = Color3.fromRGB(220,60,40), Ambient = Color3.fromRGB(160,30,20), ExposureCompensation = 0.1, AtmColor = Color3.fromRGB(220,50,30), AtmDecay = Color3.fromRGB(180,30,10), AtmGlare = 1, AtmHaze = 3},
+    ["Night Sky"] = {ClockTime = 0, Brightness = 2, FogEnd = 10000, FogColor = Color3.fromRGB(0,0,0), OutdoorAmbient = Color3.fromRGB(10,10,20), Ambient = Color3.fromRGB(5,5,10), ExposureCompensation = 0, AtmColor = Color3.fromRGB(0,0,0), AtmDecay = Color3.fromRGB(0,0,0), AtmGlare = 0, AtmHaze = 0},    ["Purple Sky"] = {ClockTime = 14, Brightness = 3, FogEnd = 8000, FogColor = Color3.fromRGB(150,0,255), OutdoorAmbient = Color3.fromRGB(180,50,255), Ambient = Color3.fromRGB(100,0,150), ExposureCompensation = 0.1, AtmColor = Color3.fromRGB(130,0,200), AtmDecay = Color3.fromRGB(100,0,150), AtmGlare = 1, AtmHaze = 2},
+    ["Blue Sky"] = {ClockTime = 12, Brightness = 3, FogEnd = 9000, FogColor = Color3.fromRGB(0,150,255), OutdoorAmbient = Color3.fromRGB(50,180,255), Ambient = Color3.fromRGB(0,100,200), ExposureCompensation = 0.1, AtmColor = Color3.fromRGB(0,130,200), AtmDecay = Color3.fromRGB(0,100,150), AtmGlare = 1, AtmHaze = 2},
+    ["Yellow Sky"] = {ClockTime = 12, Brightness = 4, FogEnd = 7000, FogColor = Color3.fromRGB(255,255,0), OutdoorAmbient = Color3.fromRGB(255,255,100), Ambient = Color3.fromRGB(200,200,0), ExposureCompensation = 0.3, AtmColor = Color3.fromRGB(255,230,0), AtmDecay = Color3.fromRGB(200,180,0), AtmGlare = 2, AtmHaze = 4},
+    ["Cyan Sky"] = {ClockTime = 12, Brightness = 3, FogEnd = 8500, FogColor = Color3.fromRGB(0,255,255), OutdoorAmbient = Color3.fromRGB(100,255,255), Ambient = Color3.fromRGB(0,200,200), ExposureCompensation = 0.1, AtmColor = Color3.fromRGB(0,230,230), AtmDecay = Color3.fromRGB(0,180,180), AtmGlare = 1, AtmHaze = 3},
+    ["Orange Sky"] = {ClockTime = 16.5, Brightness = 3, FogEnd = 6500, FogColor = Color3.fromRGB(255,120,25), OutdoorAmbient = Color3.fromRGB(255,150,70), Ambient = Color3.fromRGB(190,80,20), ExposureCompensation = 0.15, AtmColor = Color3.fromRGB(255,110,20), AtmDecay = Color3.fromRGB(190,70,10), AtmGlare = 1.5, AtmHaze = 3.5},
+    ["Sunset"] = {ClockTime = 17.5, Brightness = 2.5, FogEnd = 5000, FogColor = Color3.fromRGB(255,100,0), OutdoorAmbient = Color3.fromRGB(255,120,50), Ambient = Color3.fromRGB(200,80,0), ExposureCompensation = 0.2, AtmColor = Color3.fromRGB(255,90,0), AtmDecay = Color3.fromRGB(200,50,0), AtmGlare = 2, AtmHaze = 5},
+    ["Galaxy"] = {ClockTime = 0, Brightness = 4, FogEnd = 9000, FogColor = Color3.fromRGB(50,0,100), OutdoorAmbient = Color3.fromRGB(80,0,150), Ambient = Color3.fromRGB(30,0,80), ExposureCompensation = 0.1, AtmColor = Color3.fromRGB(60,0,120), AtmDecay = Color3.fromRGB(40,0,90), AtmGlare = 2, AtmHaze = 3},
+    ["Blood Moon"] = {ClockTime = 0, Brightness = 1.5, FogEnd = 4000, FogColor = Color3.fromRGB(150,0,0), OutdoorAmbient = Color3.fromRGB(180,0,0), Ambient = Color3.fromRGB(100,0,0), ExposureCompensation = 0.5, AtmColor = Color3.fromRGB(200,0,0), AtmDecay = Color3.fromRGB(150,0,0), AtmGlare = 1, AtmHaze = 6},
+    ["Void"] = {ClockTime = 0, Brightness = 0, FogEnd = 500, FogColor = Color3.fromRGB(0,0,0), OutdoorAmbient = Color3.fromRGB(0,0,0), Ambient = Color3.fromRGB(0,0,0), ExposureCompensation = -2, AtmColor = Color3.fromRGB(0,0,0), AtmDecay = Color3.fromRGB(0,0,0), AtmGlare = 0, AtmHaze = 10},
+    ["Matrix"] = {ClockTime = 12, Brightness = 3, FogEnd = 7000, FogColor = Color3.fromRGB(0,255,50), OutdoorAmbient = Color3.fromRGB(0,200,40), Ambient = Color3.fromRGB(0,150,30), ExposureCompensation = 0.1, AtmColor = Color3.fromRGB(0,255,60), AtmDecay = Color3.fromRGB(0,200,50), AtmGlare = 2, AtmHaze = 3},
+    ["Cotton Candy"] = {ClockTime = 13, Brightness = 3.5, FogEnd = 8500, FogColor = Color3.fromRGB(255,170,230), OutdoorAmbient = Color3.fromRGB(170,220,255), Ambient = Color3.fromRGB(230,140,255), ExposureCompensation = 0.25, AtmColor = Color3.fromRGB(255,180,235), AtmDecay = Color3.fromRGB(120,190,255), AtmGlare = 1.2, AtmHaze = 3},
+    ["Toxic Green"] = {ClockTime = 15, Brightness = 3.5, FogEnd = 5500, FogColor = Color3.fromRGB(90,255,0), OutdoorAmbient = Color3.fromRGB(120,255,40), Ambient = Color3.fromRGB(40,180,0), ExposureCompensation = 0.1, AtmColor = Color3.fromRGB(100,255,0), AtmDecay = Color3.fromRGB(50,150,0), AtmGlare = 2.5, AtmHaze = 5},
+    ["Ocean Blue"] = {ClockTime = 12, Brightness = 2.8, FogEnd = 7500, FogColor = Color3.fromRGB(0,90,180), OutdoorAmbient = Color3.fromRGB(40,120,210), Ambient = Color3.fromRGB(0,70,140), ExposureCompensation = 0, AtmColor = Color3.fromRGB(0,100,200), AtmDecay = Color3.fromRGB(0,60,130), AtmGlare = 0.8, AtmHaze = 4},
+    ["Ice World"] = {ClockTime = 10, Brightness = 4, FogEnd = 9000, FogColor = Color3.fromRGB(200,240,255), OutdoorAmbient = Color3.fromRGB(210,245,255), Ambient = Color3.fromRGB(170,220,255), ExposureCompensation = 0.3, AtmColor = Color3.fromRGB(210,245,255), AtmDecay = Color3.fromRGB(170,220,255), AtmGlare = 0.5, AtmHaze = 2},
+    ["Golden Hour"] = {ClockTime = 16, Brightness = 3.2, FogEnd = 7000, FogColor = Color3.fromRGB(255,200,90), OutdoorAmbient = Color3.fromRGB(255,210,120), Ambient = Color3.fromRGB(210,145,60), ExposureCompensation = 0.2, AtmColor = Color3.fromRGB(255,190,80), AtmDecay = Color3.fromRGB(210,130,40), AtmGlare = 2, AtmHaze = 3},
+    ["Lavender Dream"] = {ClockTime = 13, Brightness = 3, FogEnd = 8000, FogColor = Color3.fromRGB(190,145,255), OutdoorAmbient = Color3.fromRGB(205,170,255), Ambient = Color3.fromRGB(140,100,210), ExposureCompensation = 0.15, AtmColor = Color3.fromRGB(190,145,255), AtmDecay = Color3.fromRGB(140,90,200), AtmGlare = 1, AtmHaze = 3},
+    ["Crimson Night"] = {ClockTime = 1, Brightness = 1.2, FogEnd = 5000, FogColor = Color3.fromRGB(80,0,20), OutdoorAmbient = Color3.fromRGB(110,0,30), Ambient = Color3.fromRGB(45,0,15), ExposureCompensation = -0.1, AtmColor = Color3.fromRGB(100,0,25), AtmDecay = Color3.fromRGB(50,0,15), AtmGlare = 0.8, AtmHaze = 5},
+    ["Emerald Night"] = {ClockTime = 0, Brightness = 1.8, FogEnd = 6000, FogColor = Color3.fromRGB(0,85,55), OutdoorAmbient = Color3.fromRGB(0,120,75), Ambient = Color3.fromRGB(0,55,35), ExposureCompensation = 0, AtmColor = Color3.fromRGB(0,120,70), AtmDecay = Color3.fromRGB(0,70,45), AtmGlare = 1, AtmHaze = 4},
+    ["Cyberpunk"] = {ClockTime = 21, Brightness = 3, FogEnd = 6500, FogColor = Color3.fromRGB(255,0,170), OutdoorAmbient = Color3.fromRGB(0,220,255), Ambient = Color3.fromRGB(120,0,180), ExposureCompensation = 0.25, AtmColor = Color3.fromRGB(255,0,200), AtmDecay = Color3.fromRGB(0,180,255), AtmGlare = 2, AtmHaze = 3},
+    ["Vaporwave"] = {ClockTime = 18, Brightness = 3, FogEnd = 7500, FogColor = Color3.fromRGB(255,90,200), OutdoorAmbient = Color3.fromRGB(100,220,255), Ambient = Color3.fromRGB(180,80,220), ExposureCompensation = 0.2, AtmColor = Color3.fromRGB(255,100,210), AtmDecay = Color3.fromRGB(90,190,255), AtmGlare = 1.7, AtmHaze = 3.5},
+    ["Storm Gray"] = {ClockTime = 14, Brightness = 1.3, FogEnd = 3500, FogColor = Color3.fromRGB(85,90,100), OutdoorAmbient = Color3.fromRGB(90,95,110), Ambient = Color3.fromRGB(55,60,70), ExposureCompensation = -0.2, AtmColor = Color3.fromRGB(80,85,95), AtmDecay = Color3.fromRGB(55,60,70), AtmGlare = 0.2, AtmHaze = 7},
+    ["Snow White"] = {ClockTime = 11, Brightness = 4.2, FogEnd = 6000, FogColor = Color3.fromRGB(255,255,255), OutdoorAmbient = Color3.fromRGB(245,250,255), Ambient = Color3.fromRGB(220,235,255), ExposureCompensation = 0.45, AtmColor = Color3.fromRGB(255,255,255), AtmDecay = Color3.fromRGB(220,235,255), AtmGlare = 0.7, AtmHaze = 5},
+    ["Desert Heat"] = {ClockTime = 14, Brightness = 4, FogEnd = 6500, FogColor = Color3.fromRGB(255,190,100), OutdoorAmbient = Color3.fromRGB(255,210,130), Ambient = Color3.fromRGB(210,140,70), ExposureCompensation = 0.3, AtmColor = Color3.fromRGB(255,185,90), AtmDecay = Color3.fromRGB(210,130,55), AtmGlare = 2.5, AtmHaze = 6},
+    ["Neon Pink"] = {ClockTime = 12, Brightness = 3.5, FogEnd = 7500, FogColor = Color3.fromRGB(255,0,150), OutdoorAmbient = Color3.fromRGB(255,70,190), Ambient = Color3.fromRGB(180,0,120), ExposureCompensation = 0.2, AtmColor = Color3.fromRGB(255,0,170), AtmDecay = Color3.fromRGB(180,0,100), AtmGlare = 2, AtmHaze = 3},
+    ["Deep Space"] = {ClockTime = 0, Brightness = 0.8, FogEnd = 12000, FogColor = Color3.fromRGB(5,5,25), OutdoorAmbient = Color3.fromRGB(10,10,45), Ambient = Color3.fromRGB(0,0,20), ExposureCompensation = -0.3, AtmColor = Color3.fromRGB(10,10,35), AtmDecay = Color3.fromRGB(0,0,15), AtmGlare = 0, AtmHaze = 1},
+    ["Lime Glow"] = {ClockTime = 12, Brightness = 3.4, FogEnd = 8000, FogColor = Color3.fromRGB(170,255,0), OutdoorAmbient = Color3.fromRGB(190,255,70), Ambient = Color3.fromRGB(100,190,0), ExposureCompensation = 0.15, AtmColor = Color3.fromRGB(170,255,0), AtmDecay = Color3.fromRGB(100,170,0), AtmGlare = 1.8, AtmHaze = 3},
+    ["Teal Dream"] = {ClockTime = 12, Brightness = 3, FogEnd = 8500, FogColor = Color3.fromRGB(0,190,170), OutdoorAmbient = Color3.fromRGB(70,230,210), Ambient = Color3.fromRGB(0,130,120), ExposureCompensation = 0.1, AtmColor = Color3.fromRGB(0,200,180), AtmDecay = Color3.fromRGB(0,120,110), AtmGlare = 1, AtmHaze = 3},
+    ["Magenta Fog"] = {ClockTime = 13, Brightness = 2.7, FogEnd = 3000, FogColor = Color3.fromRGB(220,0,255), OutdoorAmbient = Color3.fromRGB(230,80,255), Ambient = Color3.fromRGB(140,0,170), ExposureCompensation = 0.05, AtmColor = Color3.fromRGB(220,0,255), AtmDecay = Color3.fromRGB(130,0,170), AtmGlare = 1.5, AtmHaze = 8},
+}
+local function applySky(choice)
+    choice = normalizeDropdownValue(choice) or tostring(choice)
+    if choice == "None" then
+        pcall(function()
+            if originalSkySettings.ClockTime then Lighting.ClockTime = originalSkySettings.ClockTime end
+            if originalSkySettings.Brightness then Lighting.Brightness = originalSkySettings.Brightness end
+            if originalSkySettings.FogEnd then Lighting.FogEnd = originalSkySettings.FogEnd end
+            if originalSkySettings.FogColor then Lighting.FogColor = originalSkySettings.FogColor end
+            if originalSkySettings.GlobalShadows ~= nil then Lighting.GlobalShadows = originalSkySettings.GlobalShadows end
+            if originalSkySettings.OutdoorAmbient then Lighting.OutdoorAmbient = originalSkySettings.OutdoorAmbient end
+            if originalSkySettings.Ambient then Lighting.Ambient = originalSkySettings.Ambient end
+            if originalSkySettings.ExposureCompensation then Lighting.ExposureCompensation = originalSkySettings.ExposureCompensation end
+        end)
+        return
+    end
+    local preset = skyPresets[choice]
+    if not preset then return end
+    pcall(function()
+        Lighting.ClockTime = preset.ClockTime; Lighting.Brightness = preset.Brightness; Lighting.FogEnd = preset.FogEnd; Lighting.FogColor = preset.FogColor
+        Lighting.GlobalShadows = true; Lighting.OutdoorAmbient = preset.OutdoorAmbient; Lighting.Ambient = preset.Ambient; Lighting.ExposureCompensation = preset.ExposureCompensation
+        local atm = Lighting:FindFirstChildOfClass("Atmosphere") or Instance.new("Atmosphere", Lighting)
+        atm.Color = preset.AtmColor; atm.Decay = preset.AtmDecay; atm.Glare = preset.AtmGlare; atm.Haze = preset.AtmHaze
+    end)
+end
+
+task.spawn(function()
+    while task.wait(0.5) do if currentSkyChoice ~= "None" then pcall(applySky, currentSkyChoice) end end
+end)
+
+
+-- ============================================================================
+-- MAIN TARGET SUPPORT (BLUE MERGE)
+-- ============================================================================
+local TargetUtilities = {
+    SelectedPlayer = nil,
+    AutoRefreshList = false,
+    SpectatePlayer = false,
+    BringingPlayer = false,
+    BringingNearestPlayer = false,
+    BugPlayer = false,
+    AutoKill = false,
+    AutoRagdoll = false,
+}
+local TargetDropdownObject = nil
+local TargetPlayerNames = {}
+
+local function getTargetPlayerList()
+    local list = {}
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer then
+            table.insert(list, player.Name)
+        end
+    end
+    table.sort(list)
+    return list
+end
+
+local function resolveTargetDropdownValue(value)
+    if type(value) == "table" then
+        if value[1] then return value[1] end
+        for key, enabled in pairs(value) do
+            if enabled then return key end
+        end
+        return nil
+    end
+    return value
+end
+
+local function getSelectedTargetPlayer()
+    local selected = resolveTargetDropdownValue(TargetUtilities.SelectedPlayer or flags["MainTargetPlayer"])
+    if typeof(selected) == "Instance" and selected:IsA("Player") then return selected end
+    if type(selected) == "string" and selected ~= "" then
+        return Players:FindFirstChild(selected)
+    end
+    return nil
+end
+
+local function refreshTargetPlayerDropdown(silent)
+    TargetPlayerNames = getTargetPlayerList()
+    if (not TargetUtilities.SelectedPlayer) or (not table.find(TargetPlayerNames, TargetUtilities.SelectedPlayer)) then
+        TargetUtilities.SelectedPlayer = TargetPlayerNames[1]
+        flags["MainTargetPlayer"] = TargetUtilities.SelectedPlayer
+    end
+
+    if TargetDropdownObject then
+        pcall(function()
+            if TargetDropdownObject.Refresh then TargetDropdownObject:Refresh(TargetPlayerNames) end
+        end)
+        pcall(function()
+            if TargetDropdownObject.refresh_options then TargetDropdownObject:refresh_options(TargetPlayerNames) end
+        end)
+        pcall(function()
+            if TargetDropdownObject.Set and TargetUtilities.SelectedPlayer then TargetDropdownObject:Set(TargetUtilities.SelectedPlayer) end
+        end)
+        pcall(function()
+            if TargetDropdownObject.set and TargetUtilities.SelectedPlayer then TargetDropdownObject:set(TargetUtilities.SelectedPlayer) end
+        end)
+    end
+
+    if not silent then
+        sendNotification("Target", "Player list refreshed: " .. tostring(#TargetPlayerNames) .. " players")
+    end
+end
+
+
+local function isValidTargetPlayer(player)
+    if not player or player == LocalPlayer then return false end
+    local character = player.Character
+    if not character then return false end
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    local root = character:FindFirstChild("HumanoidRootPart")
+    return humanoid and humanoid.Health > 0 and root ~= nil
+end
+
+local function getNearestTargetPlayer(maxDistance)
+    local localRoot = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+    if not localRoot then return nil end
+    local nearest, nearestDistance = nil, maxDistance or math.huge
+    for _, player in ipairs(Players:GetPlayers()) do
+        if isValidTargetPlayer(player) then
+            local distance = (player.Character.HumanoidRootPart.Position - localRoot.Position).Magnitude
+            if distance < nearestDistance then
+                nearest = player
+                nearestDistance = distance
+            end
+        end
+    end
+    return nearest, nearestDistance
+end
+
+local function mainTargetDistanceCheck(player, distance)
+    if not player or not player.Character then return false end
+    local root = player.Character:FindFirstChild("HumanoidRootPart")
+    local localRoot = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+    if not root or not localRoot then return false end
+    return distance > (localRoot.Position - root.Position).Magnitude
+end
+
+local function targetGunRemote(targetName, hitPart, damage)
+    hitPart = hitPart or "Head"
+    damage = damage or math.huge
+    local target = Players:FindFirstChild(tostring(targetName))
+    if not target or not target.Character or not target.Character:FindFirstChild(hitPart) then return end
+    if not target.Character:FindFirstChildOfClass("Humanoid") then return end
+
+    local tool = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Tool")
+    if not tool then
+        sendNotification("Target", "Hold a gun/tool first.")
+        return
+    end
+
+    pcall(function()
+        if tool:FindFirstChild("Setting") then require(tool.Setting).Range = 10000 end
+    end)
+
+    local hitpos = target.Character[hitPart].Position
+
+    pcall(function()
+        if ReplicatedStorage:FindFirstChild("VisualizeMuzzle") and tool:FindFirstChild("Handle") and tool:FindFirstChild("GunScript_Local") then
+            ReplicatedStorage.VisualizeMuzzle:FireServer(
+                tool.Handle,
+                true,
+                {false, 7, Color3.new(1, 1.1098039150238, 0), 15, true, 0.02},
+                tool.GunScript_Local:FindFirstChild("MuzzleEffect") or tool.GunScript_Local.MuzzleEffect
+            )
+        end
+    end)
+
+    pcall(function()
+        if ReplicatedStorage:FindFirstChild("VisualizeBullet") and tool:FindFirstChild("Handle") and tool:FindFirstChild("GunScript_Local") then
+            ReplicatedStorage.VisualizeBullet:FireServer(
+                tool,
+                tool.Handle,
+                Vector3.new(-0.17746905982494, 0.088731124997139, 0.98011803627014),
+                tool.Handle:FindFirstChild("GunFirePoint") or tool.Handle,
+                {true, {112139677907600, 92977228204408, 112139677907600, 92977228204408}, 1, 1, 10, tool.GunScript_Local:FindFirstChild("HitEffect"), true},
+                {true, {0, 0, 0, 0, 0, 0}, 1, 1, 1, tool.GunScript_Local:FindFirstChild("BloodEffect")},
+                {true, 0.2, {3696144972}, true, 7, 1},
+                {false, 8, true, {163064102}, 1, 1.5, 1, false, tool.GunScript_Local:FindFirstChild("ExplosionEffect")},
+                {false, Vector3.new(0.1, 0, 0), Vector3.new(-0.1, 0, 0), tool.GunScript_Local:FindFirstChild("TracerEffect"), nil, tool.GunScript_Local:FindFirstChild("ParticleEffect"), 300, 526, 0, Vector3.zero, Vector3.new(0.4, 0.4, 0.4), Color3.new(0.63921570777893, 0.63529413938522, 0.61176472902298), 1, Enum.Material.Neon, Enum.PartType.Cylinder, false, 6696543809, 0, Vector3.new(0.007, 0.007, 0.007)},
+                {true, {269514869, 269514887, 269514807, 269514817}, 0.5, 1, 1.5, 100},
+                {false, 3, Color3.new(1, 0.64705884456635, 0.60000002384186), 6, true}
+            )
+        end
+    end)
+
+    pcall(function()
+        if ReplicatedStorage:FindFirstChild("InflictTarget") then
+            ReplicatedStorage.InflictTarget:FireServer(
+                tool,
+                LocalPlayer,
+                target.Character.Humanoid,
+                target.Character[hitPart],
+                damage,
+                {0, 0, false, false, tool:FindFirstChild("GunScript_Server") and tool.GunScript_Server:FindFirstChild("IgniteScript"), tool:FindFirstChild("GunScript_Server") and tool.GunScript_Server:FindFirstChild("IcifyScript"), 100, 100},
+                {false, 5, 3},
+                target.Character[hitPart],
+                {false, {1930359546}, 1, 1.5, 1},
+                hitpos,
+                Vector3.new(0.074456036090851, -0.099775791168213, -0.99222022294998),
+                true
+            )
+        end
+    end)
+end
+
+local function getAvailableTargetVehicle()
+    local civCars = workspace:FindFirstChild("CivCars")
+    if not civCars then return nil end
+    for _, vehicle in ipairs(civCars:GetChildren()) do
+        local driveSeat = vehicle:FindFirstChild("DriveSeat") or vehicle:FindFirstChildWhichIsA("VehicleSeat")
+        if driveSeat and not driveSeat.Occupant then return vehicle end
+    end
+    return nil
+end
+
+local targetSpectateReset = true
+RunService:BindToRenderStep("MianiTargetSpectate", Enum.RenderPriority.Camera.Value, function()
+    local camera = workspace.CurrentCamera
+    if not camera then return end
+    if TargetUtilities.SpectatePlayer then
+        targetSpectateReset = false
+        local target = getSelectedTargetPlayer()
+        local subject = target and target.Character and target.Character:FindFirstChildOfClass("Humanoid")
+        if not subject and LocalPlayer.Character then subject = LocalPlayer.Character:FindFirstChildOfClass("Humanoid") end
+        if subject then camera.CameraSubject = subject end
+    elseif not targetSpectateReset and LocalPlayer.Character then
+        targetSpectateReset = true
+        local hum = LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+        if hum then camera.CameraSubject = hum end
+    end
+end)
+
+task.spawn(function()
+    while task.wait() do
+        if TargetUtilities.BringingPlayer then
+            local target = getSelectedTargetPlayer()
+            if target and target.Character and target.Character:FindFirstChild("HumanoidRootPart") and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                target.Character.HumanoidRootPart.CFrame = LocalPlayer.Character.HumanoidRootPart.CFrame + Vector3.new(2, 0, 0)
+            end
+        end
+        if TargetUtilities.BringingNearestPlayer then
+            local target = getNearestTargetPlayer()
+            if target and target.Character and target.Character:FindFirstChild("HumanoidRootPart") and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                target.Character.HumanoidRootPart.CFrame = LocalPlayer.Character.HumanoidRootPart.CFrame + Vector3.new(2, 0, 0)
+            end
+        end
+    end
+end)
+
+task.spawn(function()
+    while task.wait(1) do
+        if TargetUtilities.AutoKill then
+            local target = getSelectedTargetPlayer()
+            if target and isValidTargetPlayer(target) and not target.Character:FindFirstChildOfClass("ForceField") then
+                targetGunRemote(target.Name, "Head", math.huge)
+            end
+        end
+    end
+end)
+
+task.spawn(function()
+    while task.wait(2) do
+        if TargetUtilities.AutoRagdoll then
+            local target = getSelectedTargetPlayer()
+            if target and isValidTargetPlayer(target) and target.Character.Humanoid:GetState() ~= Enum.HumanoidStateType.Physics then
+                targetGunRemote(target.Name, "RightUpperLeg", 0.01)
+            end
+        end
+    end
+end)
+
+task.spawn(function()
+    while task.wait() do
+        if not TargetUtilities.BugPlayer then continue end
+        local target = getSelectedTargetPlayer()
+        if not (LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") and LocalPlayer.Character:FindFirstChildOfClass("Humanoid")) then continue end
+        if not (target and target.Character and target.Character:FindFirstChild("HumanoidRootPart")) then continue end
+        local car = getAvailableTargetVehicle()
+        if not car then continue end
+        local seat = car:FindFirstChild("DriveSeat") or car:FindFirstChildWhichIsA("VehicleSeat")
+        if not seat or seat.Occupant then continue end
+        if not car:GetAttribute("Usable") or car:GetAttribute("Usable") == false then
+            pcall(function() seat:Sit(LocalPlayer.Character.Humanoid) end)
+            car:SetAttribute("Usable", true)
+            task.wait(1)
+            pcall(function()
+                LocalPlayer.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+                LocalPlayer.Character.Humanoid.Jump = true
+                LocalPlayer.Character.Humanoid.Sit = false
+            end)
+        end
+        if not car.PrimaryPart then
+            pcall(function() car.PrimaryPart = car:FindFirstChild("Body") and (car.Body:FindFirstChild("#Weight", true) or car.Body:FindFirstChildWhichIsA("BasePart", true)) or car:FindFirstChildWhichIsA("BasePart", true) end)
+        end
+        if car.PrimaryPart then
+            car:SetPrimaryPartCFrame(target.Character.HumanoidRootPart.CFrame)
+        end
+    end
+end)
+
+-- ============================================================================
+-- END ALABAMA MAIN SUPPORT
+-- ============================================================================
+
+-- ============================================================================
+-- MAIN TAB UI (ALABAMA MERGED)
+-- ============================================================================
+local teleportLocations = {
+    ["Deli Market 🧪"] = CFrame.new(-769, 255, -686),
+    ["Capital One Bank 🏦"] = CFrame.new(-225, 284, -1223),
+    ["Ice Box 🧊"] = CFrame.new(-198.8927001953125, 283.8486633300781, -1170.4500732421875),
+    ["Hotel 🏨"] = CFrame.new(-973, 254, -939),
+    ["Gun Shop 🔫"] = CFrame.new(92974, 122099, 17233),
+    ["Car Dealer 🚗"] = CFrame.new(-378.6668701171875, 253.2564697265625, -1245.4259033203125),
+    ["Laundromat 🧺"] = CFrame.new(-979.4635620117188, 253.65318298339844, -689.3339233398438),
+    ["Studio 🎙"] = CFrame.new(93408.453125, 14484.7158203125, 570.139404296875),
+    ["Basketball Court 🏀"] = CFrame.new(-942, 254, -409),
+    ["Safe 🔐"] = CFrame.new(-137, 303, -915),
+    ["Roof Top / Bank Tools 🛠"] = CFrame.new(-409, 334, -556),
+    ["Penthouse 🏙"] = CFrame.new(-111.67, 397.14, -564.46),
+    ["Hospital 🏥"] = CFrame.new(-1588.06, 254.27, 18.77),
+    ["Mansion 🏰"] = CFrame.new(-789.10, 253.57, 1380.76),
+    ["Trailer Homes 🛻"] = CFrame.new(-1486.06, 253.28, 2227.72),
+    ["McDonald's 🍔"] = CFrame.new(-444.84, 253.97, -945.71),
+    ["Dollar General 🛒"] = CFrame.new(-413.66, 253.82, -1055.57),
+    ["Backpack Shop 🎒"] = CFrame.new(-694, 254, -684),
+    ["RPT 🏬"] = CFrame.new(-1522.69, 253.30, -590.58),
+    ["Exotic Dealer 🍃"] = CFrame.new(-1521.94, 272.55, -984.30),
+    ["Money Wash 🏚️"] = CFrame.new(-977.1771, 253.6838, -692.5855),
+    ["Pawn Shop 💎"] = CFrame.new(-1049.6431, 253.5367, -814.2697),
+    ["Bank Vault 🔒"] = CFrame.new(-217.568359375, 373.7984924316406, -1216.20947265625),
+    ["Second Gun Shop 🔫"] = CFrame.new(66195.4453125, 123615.7109375, 5750.28271484375),
+    ["Drip Shop 💦"] = CFrame.new(67462.6953, 10489.0352, 549.5895)
+}
+local teleportNames = {}
+for name in pairs(teleportLocations) do table.insert(teleportNames, name) end
+table.sort(teleportNames)
+
+
+local TargetSection = MainTab:Section({Name = "Target", Side = 1})
+TargetPlayerNames = getTargetPlayerList()
+TargetUtilities.SelectedPlayer = TargetPlayerNames[1]
+flags["MainTargetPlayer"] = TargetUtilities.SelectedPlayer
+TargetDropdownObject = TargetSection:Dropdown({Name = "Select Player", Flag = "MainTargetPlayer", Default = TargetPlayerNames[1] or "", Items = TargetPlayerNames, Callback = function(v)
+    TargetUtilities.SelectedPlayer = resolveTargetDropdownValue(v)
+    flags["MainTargetPlayer"] = TargetUtilities.SelectedPlayer
+end})
+TargetSection:Button({Name = "Refresh Player List", Callback = function()
+    refreshTargetPlayerDropdown(false)
+end})
+TargetSection:Toggle({Name = "Spectate Player", Flag = "TargetSpectatePlayer", Default = false, Callback = function(state)
+    TargetUtilities.SpectatePlayer = state
+    notifyToggle("Spectate Player", state)
+end})
+TargetSection:Toggle({Name = "Bring Nearest Player", Flag = "TargetBringNearest", Default = false, Callback = function(state)
+    TargetUtilities.BringingNearestPlayer = state
+    notifyToggle("Bring Nearest Player", state)
+end})
+TargetSection:Toggle({Name = "Bring Player", Flag = "TargetBringPlayer", Default = false, Callback = function(state)
+    TargetUtilities.BringingPlayer = state
+    notifyToggle("Bring Player", state)
+end})
+TargetSection:Toggle({Name = "Bug / Kill Player - Car", Flag = "TargetBugPlayerCar", Default = false, Callback = function(state)
+    TargetUtilities.BugPlayer = state
+    notifyToggle("Bug / Kill Player - Car", state)
+end})
+TargetSection:Toggle({Name = "Auto Kill Player - Gun", Flag = "TargetAutoKillGun", Default = false, Callback = function(state)
+    TargetUtilities.AutoKill = state
+    notifyToggle("Auto Kill Player - Gun", state)
+end})
+TargetSection:Toggle({Name = "Auto Ragdoll Player - Gun", Flag = "TargetAutoRagdollGun", Default = false, Callback = function(state)
+    TargetUtilities.AutoRagdoll = state
+    notifyToggle("Auto Ragdoll Player - Gun", state)
+end})
+TargetSection:Button({Name = "Teleport To Player", Callback = function()
+    local target = getSelectedTargetPlayer()
+    if target and target.Character and target.Character:FindFirstChild("HumanoidRootPart") then
+        Config:Teleport(target.Character.HumanoidRootPart.CFrame * CFrame.new(3, 0, 0))
+    else
+        sendNotification("Target", "No valid target selected.")
+    end
+end})
+TargetSection:Button({Name = "Down Player - Hold Gun", Callback = function()
+    local target = getSelectedTargetPlayer()
+    if target and target.Character and target.Character:FindFirstChildOfClass("Humanoid") then
+        targetGunRemote(target.Name, "HumanoidRootPart", math.max(target.Character.Humanoid.Health - 5, 1))
+    else
+        sendNotification("Target", "No valid target selected.")
+    end
+end})
+TargetSection:Button({Name = "Kill Player - Hold Gun", Callback = function()
+    local target = getSelectedTargetPlayer()
+    if target then targetGunRemote(target.Name, "HumanoidRootPart", math.huge) else sendNotification("Target", "No valid target selected.") end
+end})
+TargetSection:Button({Name = "God Player - Hold Gun", Callback = function()
+    local target = getSelectedTargetPlayer()
+    if target then targetGunRemote(target.Name, "HumanoidRootPart", math.sqrt(-1)) else sendNotification("Target", "No valid target selected.") end
+end})
+TargetSection:Button({Name = "Fling Player - Hold Gun", Callback = function()
+    local target = getSelectedTargetPlayer()
+    if target then
+        for _ = 1, 50 do pcall(function() targetGunRemote(target.Name, "RightUpperLeg", 0.01) end) end
+    else
+        sendNotification("Target", "No valid target selected.")
+    end
+end})
+TargetSection:Button({Name = "Kill All Players - Hold Gun", Callback = function()
+    task.spawn(function()
+        for _, player in ipairs(Players:GetPlayers()) do
+            if isValidTargetPlayer(player) and not player.Character:FindFirstChildOfClass("ForceField") then
+                pcall(function() targetGunRemote(player.Name, "HumanoidRootPart", math.huge) end)
+                task.wait(0.1)
+            end
+        end
+    end)
+end})
+
+local QuickBuySection = MainTab:Section({Name = "Quick Buy", Side = 2})
+local shopItems = collectShopItems()
+local selectedShopItem = shopItems[1]
+QuickBuySection:Dropdown({Name = "Select Item", Flag = "QuickShopItem", Items = shopItems, Default = shopItems[1], Callback = function(option) selectedShopItem = normalizeDropdownValue(option) end})
+QuickBuySection:Button({Name = "Buy Selected Item", Callback = function() buyShopItem(selectedShopItem) end})
+QuickBuySection:Button({Name = "Refresh Items", Callback = function() shopItems = collectShopItems(); selectedShopItem = shopItems[1]; sendNotification("Shop", "Found " .. #shopItems .. " items. Reopen dropdown if needed.") end})
+
+local QuickOutfitSection = MainTab:Section({Name = "Quick Outfits", Side = 2})
+QuickOutfitSection:Button({Name = "Spiderman", Callback = function()
+    applyOutfit("Spiderman", {{"Buy", "Shirts", "Spiderman"}, {"Wear", "Shirts", "Spiderman"}, {"Buy", "Pants", "Spiderman"}, {"Wear", "Pants", "Spiderman"}, {"Buy", "Shiestys", "RedShiesty"}, {"Wear", "Shiestys", "RedShiesty"}})
+end})
+QuickOutfitSection:Button({Name = "All Black", Callback = function()
+    applyOutfit("All Black", {{"Buy", "Shirts", "Black Amiri Star"}, {"Wear", "Shirts", "Black Amiri Star"}, {"Buy", "Pants", "Sweats Wit Black AF1"}, {"Wear", "Pants", "Sweats Wit Black AF1"}, {"Buy", "Shiestys", "Shiesty"}, {"Wear", "Shiestys", "Shiesty"}})
+end})
+
+local TeleportSection = MainTab:Section({Name = "Teleports", Side = 1})
+local selectedTeleport = teleportNames[1]
+TeleportSection:Dropdown({Name = "Select Location", Flag = "TeleportLocation", Default = teleportNames[1], Items = teleportNames, Callback = function(option) selectedTeleport = normalizeDropdownValue(option) end})
+TeleportSection:Button({Name = "Teleport To", Callback = function() if selectedTeleport and teleportLocations[selectedTeleport] then teleportTo(teleportLocations[selectedTeleport]) end end})
+
+local DupeSection = MainTab:Section({Name = "Dupe", Side = 1})
+DupeSection:Button({Name = "How To Dupe (Instructions)", Callback = function()
+    sendNotification("How To Dupe", "MARKET DUPE:\n1. Hold the gun/tool\n2. Click Dupe (Single)\n3. Wait for it to auto-equip\n\nAUTO DUPE:\n1. Hold the item\n2. Toggle Start Auto Dupe ON\n3. Do not switch items")
+end})
+DupeSection:Button({Name = "Dupe (Single)", Callback = function()
+    local tool = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Tool")
+    if tool then DupeToolName = tool.Name; sendNotification("Dupe", "Duping: " .. tool.Name .. "..."); duplicateCurrentItem() else sendNotification("Dupe", "Hold a tool first!") end
+end})
+DupeSection:Toggle({Name = "Start Auto Dupe", Flag = "AutoDupeCurrentItem", Default = false, Callback = function(state)
+    getgenv().AutoDupeCurrentItem = state
+    if state then
+        local tool = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Tool")
+        if tool then DupeToolName = tool.Name; sendNotification("Auto Dupe", "Running: " .. DupeToolName) else getgenv().AutoDupeCurrentItem = false; sendNotification("Auto Dupe", "Hold a tool first!") end
+    else
+        sendNotification("Auto Dupe", "Auto dupe stopped.")
+    end
+end})
+
+local MainAutofarmsSection = MainTab:Section({Name = "Autofarms", Side = 1})
+MainAutofarmsSection:Button({Name = "Dumpster Autofarm", Callback = function()
+    if not dumpsterIsRunning then startDumpsterAutofarm(); sendNotification("Autofarm", "Dumpster autofarm started.") else stopDumpsterAutofarm(); sendNotification("Autofarm", "Dumpster autofarm stopped.") end
+end})
+MainAutofarmsSection:Button({Name = "Studio Autofarm", Callback = function()
+    getgenv().StudioPayFarm = not getgenv().StudioPayFarm
+    sendNotification("Autofarm", "Studio autofarm " .. (getgenv().StudioPayFarm and "started." or "stopped."))
+end})
+MainAutofarmsSection:Button({Name = "Toggle Construction Autofarm", Callback = function()
+    if not constructionRunning then startConstructionAutofarm(); sendNotification("Autofarm", "Construction autofarm started.") else stopConstructionAutofarm(); sendNotification("Autofarm", "Construction autofarm stopped.") end
+end})
+
+
+local VehicleSection = MainTab:Section({Name = "Vehicle Settings", Side = 2})
+VehicleSection:Toggle({Name = "Car Fly", Flag = "CarFlyEnabled", Default = false, Callback = function(state)
+    if state then StartCarFly() else StopCarFly() end
+end})
+VehicleSection:Slider({Name = "Car Fly Speed", Flag = "CarFlySpeed", Min = 50, Max = 300, Default = 150, Callback = function(val)
+    CarFly.Speed = val
+end})
+VehicleSection:Toggle({Name = "Vehicle Speed Boost", Flag = "VehSpeedEnabled", Default = false, Callback = function(state)
+    VehicleModifications.SpeedEnabled = state
+end})
+VehicleSection:Slider({Name = "Speed Multiplier", Flag = "VehSpeedValue", Min = 1, Max = 25, Default = 5, Callback = function(val)
+    VehicleModifications.SpeedValue = val / 1000
+end})
+VehicleSection:Toggle({Name = "Vehicle Brakes", Flag = "VehBreakEnabled", Default = false, Callback = function(state)
+    VehicleModifications.BreakEnabled = state
+end})
+VehicleSection:Slider({Name = "Brake Multiplier", Flag = "VehBreakValue", Min = 10, Max = 300, Default = 50, Callback = function(val)
+    VehicleModifications.BreakValue = val / 1000
+end})
+VehicleSection:Toggle({Name = "Instant Stop (V)", Flag = "VehInstantStop", Default = false, Callback = function(state)
+    VehicleModifications.InstantStop = state
+end})
+VehicleSection:Button({Name = "Bring Nearest Car", Callback = function()
+    local char = LocalPlayer.Character
+    if not char then return end
+    local hrp = char:FindFirstChild("HumanoidRootPart")
+    local hum = char:FindFirstChildWhichIsA("Humanoid")
+    if not hrp or not hum then return end
+    local car = GetNearestCar(hrp)
+    if not car then sendNotification("Bring Car", "No empty cars found nearby!") return end
+    local seat = car:FindFirstChild("DriveSeat") or car:FindFirstChildWhichIsA("VehicleSeat")
+    if not seat then return end
+    if not car.PrimaryPart then pcall(function() car.PrimaryPart = car:FindFirstChildWhichIsA("BasePart") end) end
+    if car.PrimaryPart then
+        car:SetPrimaryPartCFrame(hrp.CFrame * CFrame.new(0, 0, -6) * CFrame.Angles(0, math.rad(180), 0))
+    else
+        seat.CFrame = hrp.CFrame * CFrame.new(0, 0, -6) * CFrame.Angles(0, math.rad(180), 0)
+    end
+    task.wait(0.2)
+    seat:Sit(hum)
+    sendNotification("Bring Car", "Car brought successfully!")
+end})
+
+local SkySection = MainTab:Section({Name = "Custom Sky", Side = 2})
+local skyNames = {}
+for name in pairs(skyPresets) do table.insert(skyNames, name) end
+table.sort(skyNames)
+SkySection:Dropdown({Name = "Select Sky", Flag = "CustomSky", Items = skyNames, Default = "None", Callback = function(choice) currentSkyChoice = normalizeDropdownValue(choice) or tostring(choice); pcall(applySky, currentSkyChoice); sendNotification("Sky", "Selected: " .. tostring(currentSkyChoice)) end})
+
+local MoneySection = MainTab:Section({Name = "Money", Side = 2})
+MoneySection:Button({Name = "Manual [Inf Money]", Callback = function() sendNotification("Inf Money", "Manual inf money triggered!"); InfMoneyHoldCupz() end})
+MoneySection:Button({Name = "Teleport [COOK POT]", Callback = function() Config:Teleport(CFrame.new(-198.89, 283.85, -1170.45)); sendNotification("Teleport", "Teleported to Cook Pot!") end})
+MoneySection:Button({Name = "Buy Ice-Fruit [ITEMS]", Callback = function() sendNotification("Buy Items", "Buying Ice-Fruit items..."); SetupInfiniteMoney() end})
+MoneySection:Button({Name = "Instructions: Inf Money", Callback = function() sendNotification("WARNING - Read First!", "Need at least $3,000 cash before using. Cook Ice-Fruit items, hold cup, then press Manual Inf Money.") end})
+MoneySection:Button({Name = "Clean All Filthy Money", Callback = function() CleanAllFilthyMoney() end})
+MoneySection:Button({Name = "Generate Max Illegal Money", Callback = function() GenerateMaxIllegalMoney() end})
+MoneySection:Toggle({Name = "Auto Drop 10k", Flag = "AutoDrop10k", Default = false, Callback = function(state) getgenv().MoneyDropEnabled = state end})
+
+-- ============================================================================
+-- FARMING TAB UI (ALABAMA MERGED)
+-- ============================================================================
+local MyMoneySection = FarmingTab:Section({Name = "My Money", Side = 1})
+local myCleanLabel = MyMoneySection:Label({Name = "Clean Money: None", Alignment = "Left"})
+local myDirtyLabel = MyMoneySection:Label({Name = "Dirty Money: None", Alignment = "Left"})
+task.spawn(function()
+    while task.wait(0.3) do
+        local clean, dirty = getMyMoneyValues()
+        local cleanText = "Clean Money: " .. (clean ~= nil and formatMoney(clean) or "None")
+        local dirtyText = "Dirty Money: " .. (dirty ~= nil and formatMoney(dirty) or "None")
+        setLibraryLabel(myCleanLabel, cleanText)
+        setLibraryLabel(myDirtyLabel, dirtyText)
+        forceMoneyText("Clean Money:", cleanText)
+        forceMoneyText("Dirty Money:", dirtyText)
+    end
+end)
+
+local AutofarmsSection = FarmingTab:Section({Name = "Autofarms", Side = 1})
+local dumpsterRunningFlag = false
+AutofarmsSection:Button({Name = "Dumpster Autofarm", Callback = function()
+    if not dumpsterRunningFlag then
+        dumpsterRunningFlag = true; startDumpsterAutofarm(); sendNotification("Autofarm", "Dumpster autofarm started.")
+    else
+        dumpsterRunningFlag = false; stopDumpsterAutofarm(); sendNotification("Autofarm", "Dumpster autofarm stopped.")
+    end
+end})
+AutofarmsSection:Button({Name = "Studio Autofarm", Callback = function()
+    getgenv().StudioPayFarm = not getgenv().StudioPayFarm
+    sendNotification("Autofarm", "Studio autofarm " .. (getgenv().StudioPayFarm and "started." or "stopped."))
+end})
+local constructionRunningFlag = false
+AutofarmsSection:Button({Name = "Construction Autofarm", Callback = function()
+    if not constructionRunningFlag then
+        constructionRunningFlag = true; startConstructionAutofarm(); sendNotification("Autofarm", "Construction autofarm started.")
+    else
+        constructionRunningFlag = false; stopConstructionAutofarm(); sendNotification("Autofarm", "Construction autofarm stopped.")
+    end
+end})
+
+local PlayerLocalSection = FarmingTab:Section({Name = "Local Player", Side = 1})
+PlayerLocalSection:Toggle({Name = "Anti Fall Damage", Flag = "AF_AntiFallDamage", Default = false, Callback = function(state)
+    if state and LocalPlayer.Character then
+        local fallDamage = LocalPlayer.Character:FindFirstChild("FallDamageRagdoll")
+        if fallDamage then fallDamage:Destroy() end
+    end
+    notifyToggle("Anti Fall Damage", state)
+end})
+PlayerLocalSection:Toggle({Name = "Anti Jump Cooldown", Flag = "AF_AntiJumpCooldown", Default = false, Callback = function(state)
+    local jumpDebounce = LocalPlayer.PlayerGui and LocalPlayer.PlayerGui:FindFirstChild("JumpDebounce")
+    local localScript = jumpDebounce and jumpDebounce:FindFirstChildOfClass("LocalScript")
+    if localScript then localScript.Enabled = not state end
+    notifyToggle("Anti Jump Cooldown", state)
+end})
+PlayerLocalSection:Toggle({Name = "Infinite Sleep", Flag = "AF_InfiniteSleep", Default = false, Callback = function(state)
+    local sleepGui = LocalPlayer.PlayerGui and LocalPlayer.PlayerGui:FindFirstChild("SleepGui")
+    local sleepScript = sleepGui and sleepGui:FindFirstChild("Frame") and sleepGui.Frame:FindFirstChild("sleep") and sleepGui.Frame.sleep:FindFirstChild("SleepBar") and sleepGui.Frame.sleep.SleepBar:FindFirstChild("sleepScript")
+    if sleepScript then sleepScript.Enabled = not state end
+    notifyToggle("Infinite Sleep", state)
+end})
+PlayerLocalSection:Toggle({Name = "Infinite Hunger", Flag = "AF_InfiniteHunger", Default = false, Callback = function(state)
+    local hungerGui = LocalPlayer.PlayerGui and LocalPlayer.PlayerGui:FindFirstChild("Hunger")
+    local hungerScript = hungerGui and hungerGui:FindFirstChild("Frame") and hungerGui.Frame:FindFirstChild("Frame") and hungerGui.Frame.Frame:FindFirstChild("Frame") and hungerGui.Frame.Frame.Frame:FindFirstChild("HungerBarScript")
+    if hungerScript then hungerScript.Enabled = not state end
+    notifyToggle("Infinite Hunger", state)
+end})
+PlayerLocalSection:Toggle({Name = "Infinite Stamina", Flag = "AF_InfiniteStamina", Default = false, Callback = function(state)
+    local runGui = LocalPlayer.PlayerGui and LocalPlayer.PlayerGui:FindFirstChild("Run")
+    local staminaScript = runGui and runGui:FindFirstChild("Frame") and runGui.Frame:FindFirstChild("Frame") and runGui.Frame.Frame:FindFirstChild("Frame") and runGui.Frame.Frame.Frame:FindFirstChild("StaminaBarScript")
+    if staminaScript then staminaScript.Enabled = not state end
+    notifyToggle("Infinite Stamina", state)
+end})
+PlayerLocalSection:Toggle({Name = "No Rent Pay", Flag = "AF_NoRentPay", Default = false, Callback = function(state)
+    local rentGui = StarterGui:FindFirstChild("RentGui")
+    local rentScript = rentGui and rentGui:FindFirstChildOfClass("LocalScript")
+    if rentScript then rentScript.Enabled = not state end
+    notifyToggle("No Rent Pay", state)
+end})
+PlayerLocalSection:Toggle({Name = "Instant Interaction", Flag = "InstantInteraction", Default = false, Callback = function(state) refreshPrompts(state); notifyToggle("Instant Interaction", state) end})
+PlayerLocalSection:Toggle({Name = "Studio Money Notify", Flag = "StudioMoneyNotify", Default = false, Callback = function(state)
+    StudioMoneyNotifyEnabled = state; cleanupStudioMoneyNotify()
+    if state then
+        for _, name in ipairs({"StudioPay1", "StudioPay2", "StudioPay3"}) do watchStudioPayPrompt(name) end
+        local moneyFolder = workspace:FindFirstChild("StudioPay") and workspace.StudioPay:FindFirstChild("Money")
+        if moneyFolder then
+            local conn = moneyFolder.ChildAdded:Connect(function(child)
+                if not StudioMoneyNotifyEnabled then return end
+                if child.Name == "StudioPay1" or child.Name == "StudioPay2" or child.Name == "StudioPay3" then watchStudioPayPrompt(child.Name) end
+            end)
+            table.insert(StudioMoneyNotifyConnections, conn)
+        end
+    end
+    notifyToggle("Studio Money Notify", state)
+end})
+PlayerLocalSection:Toggle({Name = "Auto Steal Lootbags", Flag = "AutoStealLootbags", Default = false, Callback = function(state) AutoStealLootbags = state end})
+PlayerLocalSection:Toggle({Name = "Auto Pickup Bags", Flag = "AutoPickupBags", Default = false, Callback = function(state) AutoPickupBags = state end})
+PlayerLocalSection:Toggle({Name = "Disable Blood Effects", Flag = "AF_DisableBloodEffects", Default = false, Callback = function(state) DisableBloodEffects = state end})
+PlayerLocalSection:Toggle({Name = "Bypass Locked Cars", Flag = "AF_BypassLockedCars", Default = false, Callback = function(state) BypassLockedCars = state end})
+PlayerLocalSection:Toggle({Name = "No Knockback", Flag = "AF_NoKnockback", Default = false, Callback = function(state) NoKnockback = state end})
+PlayerLocalSection:Toggle({Name = "Auto Deposit Picked Cash", Flag = "AutoDepositPickedCash", Default = false, Callback = function(state) AutoCleanMoney = state end})
+PlayerLocalSection:Toggle({Name = "Auto Steal Dropped Cash", Flag = "AutoStealDroppedCash", Default = false, Callback = function(state) AutoGrabMoney = state end})
+
+local MovementSection = FarmingTab:Section({Name = "Movement", Side = 2})
+MovementSection:Toggle({Name = "Disable Camera Bobbing", Flag = "AF_NoCameraBob", Default = false, Callback = function(state) NoCameraBob = state; notifyToggle("Disable Camera Bobbing", state) end})
+MovementSection:Toggle({Name = "Speed Boost", Flag = "AF_SpeedBoost", Default = false, Callback = function(state) updateSpeedBoostState(state); notifyToggle("Speed Boost", state) end})
+MovementSection:Toggle({Name = "Jump Boost", Flag = "AF_JumpBoost", Default = false, Callback = function(state) updateJumpBoostState(state); notifyToggle("Jump Boost", state) end})
+MovementSection:Toggle({Name = "Infinite Jump", Flag = "AF_InfiniteJump", Default = false, Callback = function(state) InfJumpEnabled = state; notifyToggle("Infinite Jump", state) end})
+MovementSection:Toggle({Name = "Noclip", Flag = "AF_Noclip", Default = false, Callback = function(state) NoclipEnabled = state; if state then enableNoclip() else disableNoclip() end; notifyToggle("Noclip", state) end})
+
+local MiscSection = FarmingTab:Section({Name = "Miscellaneous", Side = 1})
+MiscSection:Toggle({Name = "Faster Respawn", Flag = "AF_FasterRespawn", Default = false, Callback = function(state) FasterRespawn = state; notifyToggle("Faster Respawn", state) end})
+MiscSection:Toggle({Name = "Respawn Where You Died", Flag = "AF_RespawnWhereDied", Default = false, Callback = function(state) RespawnWhereYouDied = state; notifyToggle("Respawn Where You Died", state) end})
+MiscSection:Toggle({Name = "Keep Tools On Death", Flag = "AF_KeepToolsOnDeath", Default = false, Callback = function(state) KeepToolsOnDeath = state; if not state then ReleaseMarketTools() end; notifyToggle("Keep Tools On Death", state) end})
+MiscSection:Toggle({Name = "Instant Revive", Flag = "AF_InstantRevive", Default = false, Callback = function(state) AutoFOnLowHealth = state; notifyToggle("Instant Revive", state) end})
+MiscSection:Button({Name = "Blackpink Pink Venom", Callback = function() playEmote("Pink Venom") end})
+
+local LootSection = FarmingTab:Section({Name = "Auto Loot", Side = 1})
+LootSection:Toggle({Name = "Auto Loot Studio", Flag = "AutoLootStudio", Default = false, Callback = function(state) getgenv().AutoLootStudio = state; notifyToggle("Auto Loot Studio", state) end})
+LootSection:Toggle({Name = "Auto Loot House [1]", Flag = "AutoLootHouse1", Default = false, Callback = function(state) getgenv().AutoLootHouse1 = state; notifyToggle("Auto Loot House 1", state) end})
+LootSection:Toggle({Name = "Auto Loot House [2]", Flag = "AutoLootHouse2", Default = false, Callback = function(state) getgenv().AutoLootHouse2 = state; notifyToggle("Auto Loot House 2", state) end})
+LootSection:Toggle({Name = "Auto Loot Trash", Flag = "AutoLootTrash", Default = false, Callback = function(state) getgenv().AutoLootTrash = state; notifyToggle("Auto Loot Trash", state) end})
+LootSection:Toggle({Name = "Auto Sell Loot", Flag = "AutoSellLoot", Default = false, Callback = function(state) getgenv().AutoSellLoot = state; notifyToggle("Auto Sell Loot", state) end})
+
+local HeistSection = FarmingTab:Section({Name = "Heist Tools", Side = 1})
+HeistSection:Dropdown({Name = "Heist Tool", Flag = "HeistToolSelect", Default = "C4", Items = {"C4", "Drill", "Thermite", "Crowbar"}, Callback = function(v) flags["HeistToolSelect"] = v end})
+HeistSection:Toggle({Name = "Auto Rob Bank", Flag = "AutoRobBank", Default = false, Callback = function(state) getgenv().AutoRobBank = state; notifyToggle("Auto Rob Bank", state) end})
+HeistSection:Dropdown({Name = "Target Store", Flag = "TargetStoreSelect", Default = "Store1", Items = {"Store1", "Store2", "Store3", "DollarGeneral", "McDonalds"}, Callback = function(v) flags["TargetStoreSelect"] = v end})
+HeistSection:Toggle({Name = "Auto Rob Store", Flag = "AutoRobStore", Default = false, Callback = function(state) getgenv().AutoRobStore = state; notifyToggle("Auto Rob Store", state) end})
+HeistSection:Button({Name = "Auto Grind Construction", Callback = function()
+    if not constructionRunningFlag then
+        constructionRunningFlag = true; startConstructionAutofarm(); sendNotification("Construction", "Auto grind construction started.")
+    else
+        constructionRunningFlag = false; stopConstructionAutofarm(); sendNotification("Construction", "Auto grind construction stopped.")
+    end
+end})
+
+
+
+-- ============================================================================
+-- VISUALS TAB - BLUE WORLD + ESP MERGE
+-- ============================================================================
+local VisualColorPresets = {
+    ["White"] = Color3.fromRGB(255,255,255),
+    ["Black"] = Color3.fromRGB(0,0,0),
+    ["Red"] = Color3.fromRGB(255,0,0),
+    ["Green"] = Color3.fromRGB(0,255,0),
+    ["Blue"] = Color3.fromRGB(0,120,255),
+    ["Purple"] = Color3.fromRGB(143,0,255),
+    ["Pink"] = Color3.fromRGB(255,80,180),
+    ["Cyan"] = Color3.fromRGB(0,255,255),
+    ["Yellow"] = Color3.fromRGB(255,255,0),
+    ["Orange"] = Color3.fromRGB(255,140,0),
+    ["Lime"] = Color3.fromRGB(130,255,0),
+    ["Gray"] = Color3.fromRGB(120,120,120),
+}
+local VisualColorNames = {}
+for name in pairs(VisualColorPresets) do table.insert(VisualColorNames, name) end
+table.sort(VisualColorNames)
+local function getVisualColor(name, fallback)
+    return VisualColorPresets[tostring(name or "")] or fallback or Color3.fromRGB(255,255,255)
+end
+
+local WorldVisuals = {
+    SaturationEnabled = false,
+    SaturationValue = 1,
+    StretchEnabled = false,
+    StretchValue = 0.7,
+    FogColorEnabled = false,
+    FogColor = Color3.fromRGB(255,255,255),
+    AmbientEnabled = false,
+    AmbientColor = Color3.fromRGB(255,255,255),
+    FieldOfViewEnabled = false,
+    FieldOfViewValue = 70,
+    Fullbright = false,
+}
+
+local VisualTracers = {
+    Enabled = false,
+    Rainbow = false,
+    Duration = 3,
+    StartColor = Color3.fromRGB(255,85,0),
+    EndColor = Color3.fromRGB(0,0,0),
+}
+
+local ESPFlags = {
+    Enabled = false,
+    RenderDistance = 500,
+    TeamColor = true,
+    Boxes = false,
+    BoxType = "Corner",
+    BoxColor = Color3.fromRGB(255,0,0),
+    BoxFill = false,
+    BoxFillColor = Color3.fromRGB(255,255,255),
+    Healthbar = false,
+    HealthbarNumber = false,
+    HealthbarThickness = 2,
+    Name = false,
+    Distance = false,
+    Weapon = false,
+    TextSize = 13,
+    TextColor = Color3.fromRGB(255,255,255),
+    Snaplines = false,
+    SnaplineColor = Color3.fromRGB(255,0,0),
+    Chams = false,
+    ChamsColor = Color3.fromRGB(255,0,0),
+    Skeleton = false,
+    SkeletonColor = Color3.fromRGB(255,255,255),
+    LookTracers = false,
+    LookTracerColor = Color3.fromRGB(0,255,255),
+}
+
+local VisualLighting = game:GetService("Lighting")
+local VisualCamera = workspace.CurrentCamera
+local VisualColorCorrection = VisualLighting:FindFirstChild("MianiBlueWorldColorCorrection")
+if not VisualColorCorrection then
+    VisualColorCorrection = Instance.new("ColorCorrectionEffect")
+    VisualColorCorrection.Name = "MianiBlueWorldColorCorrection"
+    VisualColorCorrection.Parent = VisualLighting
+end
+local OriginalWorld = {
+    Brightness = VisualLighting.Brightness,
+    ClockTime = VisualLighting.ClockTime,
+    FogEnd = VisualLighting.FogEnd,
+    FogColor = VisualLighting.FogColor,
+    GlobalShadows = VisualLighting.GlobalShadows,
+    OutdoorAmbient = VisualLighting.OutdoorAmbient,
+    Ambient = VisualLighting.Ambient,
+    FieldOfView = VisualCamera and VisualCamera.FieldOfView or 70,
+    Saturation = VisualColorCorrection.Saturation,
+    TintColor = VisualColorCorrection.TintColor,
+}
+local WorldReset = {Fog = false, Fov = false, Fullbright = false, Ambient = false, Saturation = false}
+
+RunService:BindToRenderStep("MianiBlueWorldVisuals", Enum.RenderPriority.Camera.Value, function()
+    VisualCamera = workspace.CurrentCamera
+    if not VisualCamera then return end
+
+    if WorldVisuals.StretchEnabled then
+        VisualCamera.CFrame = VisualCamera.CFrame * CFrame.new(0, 0, 0, 1, 0, 0, 0, WorldVisuals.StretchValue, 0, 0, 0, 1)
+    end
+
+    if WorldVisuals.FieldOfViewEnabled then
+        WorldReset.Fov = false
+        VisualCamera.FieldOfView = WorldVisuals.FieldOfViewValue
+    elseif not WorldReset.Fov then
+        WorldReset.Fov = true
+        VisualCamera.FieldOfView = OriginalWorld.FieldOfView or 70
+    end
+
+    if WorldVisuals.SaturationEnabled then
+        WorldReset.Saturation = false
+        VisualColorCorrection.Saturation = WorldVisuals.SaturationValue
+    elseif not WorldReset.Saturation then
+        WorldReset.Saturation = true
+        VisualColorCorrection.Saturation = OriginalWorld.Saturation or 0
+    end
+
+    if WorldVisuals.AmbientEnabled then
+        WorldReset.Ambient = false
+        VisualColorCorrection.TintColor = WorldVisuals.AmbientColor
+        VisualLighting.Ambient = WorldVisuals.AmbientColor
+        VisualLighting.OutdoorAmbient = WorldVisuals.AmbientColor
+    elseif not WorldReset.Ambient then
+        WorldReset.Ambient = true
+        VisualColorCorrection.TintColor = OriginalWorld.TintColor or Color3.new(1,1,1)
+        VisualLighting.Ambient = OriginalWorld.Ambient
+        VisualLighting.OutdoorAmbient = OriginalWorld.OutdoorAmbient
+    end
+
+    if WorldVisuals.FogColorEnabled then
+        WorldReset.Fog = false
+        VisualLighting.FogColor = WorldVisuals.FogColor
+    elseif not WorldReset.Fog then
+        WorldReset.Fog = true
+        VisualLighting.FogColor = OriginalWorld.FogColor
+    end
+
+    if WorldVisuals.Fullbright then
+        WorldReset.Fullbright = false
+        VisualLighting.Brightness = 2
+        VisualLighting.ClockTime = 14
+        VisualLighting.FogEnd = 100000
+        VisualLighting.GlobalShadows = false
+        VisualLighting.OutdoorAmbient = Color3.fromRGB(128,128,128)
+    elseif not WorldReset.Fullbright then
+        WorldReset.Fullbright = true
+        VisualLighting.Brightness = OriginalWorld.Brightness
+        VisualLighting.ClockTime = OriginalWorld.ClockTime
+        VisualLighting.FogEnd = OriginalWorld.FogEnd
+        VisualLighting.GlobalShadows = OriginalWorld.GlobalShadows
+        VisualLighting.OutdoorAmbient = OriginalWorld.OutdoorAmbient
+    end
+end)
+
+local function createDrawing(className, props)
+    if not Drawing or type(Drawing.new) ~= "function" then
+        return {Visible = false, Remove = function() end}
+    end
+    local ok, obj = pcall(Drawing.new, className)
+    if not ok or not obj then return {Visible = false, Remove = function() end} end
+    for k, v in pairs(props or {}) do pcall(function() obj[k] = v end) end
+    return obj
+end
+
+local ESPObjects = {}
+local HighlightObjects = {}
+local SkeletonPairs = {
+    {"Head", "UpperTorso"}, {"UpperTorso", "LowerTorso"},
+    {"UpperTorso", "LeftUpperArm"}, {"LeftUpperArm", "LeftLowerArm"}, {"LeftLowerArm", "LeftHand"},
+    {"UpperTorso", "RightUpperArm"}, {"RightUpperArm", "RightLowerArm"}, {"RightLowerArm", "RightHand"},
+    {"LowerTorso", "LeftUpperLeg"}, {"LeftUpperLeg", "LeftLowerLeg"}, {"LeftLowerLeg", "LeftFoot"},
+    {"LowerTorso", "RightUpperLeg"}, {"RightUpperLeg", "RightLowerLeg"}, {"RightLowerLeg", "RightFoot"},
+}
+
+local function createESPObject(player)
+    if player == LocalPlayer or ESPObjects[player] then return end
+    local box = {}
+    for _, name in ipairs({"Top", "Bottom", "Left", "Right", "TopLeft", "TopRight", "BottomLeft", "BottomRight"}) do
+        box[name] = createDrawing("Line", {Visible = false, Thickness = 1, Color = ESPFlags.BoxColor})
+    end
+    local skeleton = {}
+    for i = 1, #SkeletonPairs do
+        skeleton[i] = createDrawing("Line", {Visible = false, Thickness = 1, Color = ESPFlags.SkeletonColor})
+    end
+    ESPObjects[player] = {
+        Box = box,
+        Fill = createDrawing("Square", {Visible = false, Filled = true, Transparency = 0.85, Color = ESPFlags.BoxFillColor}),
+        HealthOutline = createDrawing("Square", {Visible = false, Filled = false, Color = Color3.fromRGB(0,0,0), Thickness = 1}),
+        HealthFill = createDrawing("Square", {Visible = false, Filled = true, Color = Color3.fromRGB(0,255,0)}),
+        HealthText = createDrawing("Text", {Visible = false, Center = true, Outline = true, Size = ESPFlags.TextSize, Color = Color3.fromRGB(255,255,255)}),
+        Name = createDrawing("Text", {Visible = false, Center = true, Outline = true, Size = ESPFlags.TextSize, Color = ESPFlags.TextColor}),
+        Distance = createDrawing("Text", {Visible = false, Center = true, Outline = true, Size = ESPFlags.TextSize, Color = ESPFlags.TextColor}),
+        Weapon = createDrawing("Text", {Visible = false, Center = true, Outline = true, Size = ESPFlags.TextSize, Color = ESPFlags.TextColor}),
+        Snapline = createDrawing("Line", {Visible = false, Thickness = 1, Color = ESPFlags.SnaplineColor}),
+        LookTracer = createDrawing("Line", {Visible = false, Thickness = 1, Color = ESPFlags.LookTracerColor}),
+        Skeleton = skeleton,
+    }
+end
+
+local function hideESPObject(obj)
+    if not obj then return end
+    if obj.Box then for _, line in pairs(obj.Box) do line.Visible = false end end
+    if obj.Skeleton then for _, line in ipairs(obj.Skeleton) do line.Visible = false end end
+    for _, key in ipairs({"Fill", "HealthOutline", "HealthFill", "HealthText", "Name", "Distance", "Weapon", "Snapline", "LookTracer"}) do
+        if obj[key] then obj[key].Visible = false end
+    end
+end
+
+local function removeESPObject(player)
+    local obj = ESPObjects[player]
+    if obj then
+        if obj.Box then for _, line in pairs(obj.Box) do pcall(function() line:Remove() end) end end
+        if obj.Skeleton then for _, line in ipairs(obj.Skeleton) do pcall(function() line:Remove() end) end end
+        for _, key in ipairs({"Fill", "HealthOutline", "HealthFill", "HealthText", "Name", "Distance", "Weapon", "Snapline", "LookTracer"}) do
+            if obj[key] then pcall(function() obj[key]:Remove() end) end
+        end
+        ESPObjects[player] = nil
+    end
+    if HighlightObjects[player] then
+        pcall(function() HighlightObjects[player]:Destroy() end)
+        HighlightObjects[player] = nil
+    end
+end
+
+local function getESPColor(player, defaultColor)
+    if ESPFlags.TeamColor and player.Team and LocalPlayer.Team and player.Team == LocalPlayer.Team then
+        return Color3.fromRGB(0,120,255)
+    end
+    return defaultColor
+end
+
+local function updateLine(line, from, to, color)
+    if not line then return end
+    line.From = from
+    line.To = to
+    line.Color = color
+    line.Visible = true
+end
+
+for _, player in ipairs(Players:GetPlayers()) do createESPObject(player) end
+Players.PlayerAdded:Connect(createESPObject)
+Players.PlayerRemoving:Connect(removeESPObject)
+
+RunService.RenderStepped:Connect(function()
+    local camera = workspace.CurrentCamera
+    if not camera then return end
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player == LocalPlayer then continue end
+        createESPObject(player)
+        local obj = ESPObjects[player]
+        local character = player.Character
+        local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+        local root = character and character:FindFirstChild("HumanoidRootPart")
+        if not (ESPFlags.Enabled and obj and character and humanoid and root and humanoid.Health > 0) then
+            hideESPObject(obj)
+            if HighlightObjects[player] then HighlightObjects[player].Enabled = false end
+            continue
+        end
+        local localRoot = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+        local distance = localRoot and (root.Position - localRoot.Position).Magnitude or (root.Position - camera.CFrame.Position).Magnitude
+        if distance > ESPFlags.RenderDistance then
+            hideESPObject(obj)
+            if HighlightObjects[player] then HighlightObjects[player].Enabled = false end
+            continue
+        end
+
+        local rootPos, onScreen = camera:WorldToViewportPoint(root.Position)
+        if not onScreen then hideESPObject(obj); continue end
+
+        local size = character:GetExtentsSize()
+        local top = camera:WorldToViewportPoint((root.CFrame * CFrame.new(0, size.Y / 2, 0)).Position)
+        local bottom = camera:WorldToViewportPoint((root.CFrame * CFrame.new(0, -size.Y / 2, 0)).Position)
+        local height = math.max(math.abs(bottom.Y - top.Y), 2)
+        local width = math.max(height * 0.58, 2)
+        local x = top.X - width / 2
+        local y = top.Y
+        local boxColor = getESPColor(player, ESPFlags.BoxColor)
+        local textColor = ESPFlags.TextColor
+
+        if ESPFlags.BoxFill then
+            obj.Fill.Position = Vector2.new(x, y)
+            obj.Fill.Size = Vector2.new(width, height)
+            obj.Fill.Color = ESPFlags.BoxFillColor
+            obj.Fill.Transparency = 0.85
+            obj.Fill.Visible = true
+        else
+            obj.Fill.Visible = false
+        end
+
+        if ESPFlags.Boxes then
+            local tl, tr = Vector2.new(x, y), Vector2.new(x + width, y)
+            local bl, br = Vector2.new(x, y + height), Vector2.new(x + width, y + height)
+            local corner = math.min(width, height) * 0.28
+            if ESPFlags.BoxType == "Full" then
+                updateLine(obj.Box.Top, tl, tr, boxColor); updateLine(obj.Box.Bottom, bl, br, boxColor)
+                updateLine(obj.Box.Left, tl, bl, boxColor); updateLine(obj.Box.Right, tr, br, boxColor)
+                obj.Box.TopLeft.Visible = false; obj.Box.TopRight.Visible = false; obj.Box.BottomLeft.Visible = false; obj.Box.BottomRight.Visible = false
+            else
+                obj.Box.Top.Visible = false; obj.Box.Bottom.Visible = false; obj.Box.Left.Visible = false; obj.Box.Right.Visible = false
+                updateLine(obj.Box.TopLeft, tl, tl + Vector2.new(corner, 0), boxColor)
+                updateLine(obj.Box.Left, tl, tl + Vector2.new(0, corner), boxColor)
+                updateLine(obj.Box.TopRight, tr, tr - Vector2.new(corner, 0), boxColor)
+                updateLine(obj.Box.Right, tr, tr + Vector2.new(0, corner), boxColor)
+                updateLine(obj.Box.BottomLeft, bl, bl + Vector2.new(corner, 0), boxColor)
+                updateLine(obj.Box.Bottom, bl, bl - Vector2.new(0, corner), boxColor)
+                updateLine(obj.Box.BottomRight, br, br - Vector2.new(corner, 0), boxColor)
+                updateLine(obj.Box.Top, br, br - Vector2.new(0, corner), boxColor)
+            end
+        else
+            for _, line in pairs(obj.Box) do line.Visible = false end
+        end
+
+        if ESPFlags.Healthbar then
+            local pct = math.clamp(humanoid.Health / math.max(humanoid.MaxHealth, 1), 0, 1)
+            local barHeight = height * pct
+            obj.HealthOutline.Position = Vector2.new(x - 7, y)
+            obj.HealthOutline.Size = Vector2.new(ESPFlags.HealthbarThickness + 2, height)
+            obj.HealthOutline.Visible = true
+            obj.HealthFill.Position = Vector2.new(x - 6, y + height - barHeight)
+            obj.HealthFill.Size = Vector2.new(ESPFlags.HealthbarThickness, barHeight)
+            obj.HealthFill.Color = Color3.fromRGB(255 - (255 * pct), 255 * pct, 0)
+            obj.HealthFill.Visible = true
+            if ESPFlags.HealthbarNumber then
+                obj.HealthText.Text = tostring(math.floor(humanoid.Health))
+                obj.HealthText.Position = Vector2.new(x - 12, y + height - barHeight)
+                obj.HealthText.Size = ESPFlags.TextSize
+                obj.HealthText.Visible = true
+            else
+                obj.HealthText.Visible = false
+            end
+        else
+            obj.HealthOutline.Visible = false; obj.HealthFill.Visible = false; obj.HealthText.Visible = false
+        end
+
+        local bottomOffset = 2
+        if ESPFlags.Name then
+            obj.Name.Text = player.DisplayName ~= player.Name and (player.DisplayName .. " (@" .. player.Name .. ")") or player.Name
+            obj.Name.Position = Vector2.new(x + width / 2, y - ESPFlags.TextSize - 2)
+            obj.Name.Size = ESPFlags.TextSize
+            obj.Name.Color = textColor
+            obj.Name.Visible = true
+        else obj.Name.Visible = false end
+
+        if ESPFlags.Distance then
+            obj.Distance.Text = tostring(math.floor(distance)) .. "m"
+            obj.Distance.Position = Vector2.new(x + width / 2, y + height + bottomOffset)
+            obj.Distance.Size = ESPFlags.TextSize
+            obj.Distance.Color = textColor
+            obj.Distance.Visible = true
+            bottomOffset += ESPFlags.TextSize + 1
+        else obj.Distance.Visible = false end
+
+        if ESPFlags.Weapon then
+            local tool = character:FindFirstChildOfClass("Tool")
+            obj.Weapon.Text = tool and ("[" .. tool.Name .. "]") or "[None]"
+            obj.Weapon.Position = Vector2.new(x + width / 2, y + height + bottomOffset)
+            obj.Weapon.Size = ESPFlags.TextSize
+            obj.Weapon.Color = textColor
+            obj.Weapon.Visible = true
+        else obj.Weapon.Visible = false end
+
+        if ESPFlags.Snaplines then
+            obj.Snapline.From = Vector2.new(camera.ViewportSize.X / 2, camera.ViewportSize.Y)
+            obj.Snapline.To = Vector2.new(rootPos.X, rootPos.Y)
+            obj.Snapline.Color = getESPColor(player, ESPFlags.SnaplineColor)
+            obj.Snapline.Visible = true
+        else obj.Snapline.Visible = false end
+
+        if ESPFlags.LookTracers and character:FindFirstChild("Head") then
+            local head = character.Head
+            local p1, o1 = camera:WorldToViewportPoint(head.Position)
+            local p2, o2 = camera:WorldToViewportPoint(head.Position + head.CFrame.LookVector * 10)
+            if o1 and o2 then
+                obj.LookTracer.From = Vector2.new(p1.X, p1.Y)
+                obj.LookTracer.To = Vector2.new(p2.X, p2.Y)
+                obj.LookTracer.Color = ESPFlags.LookTracerColor
+                obj.LookTracer.Visible = true
+            else obj.LookTracer.Visible = false end
+        else obj.LookTracer.Visible = false end
+
+        if ESPFlags.Skeleton then
+            for i, pair in ipairs(SkeletonPairs) do
+                local a, b = character:FindFirstChild(pair[1]), character:FindFirstChild(pair[2])
+                if a and b and obj.Skeleton[i] then
+                    local pa, oa = camera:WorldToViewportPoint(a.Position)
+                    local pb, ob = camera:WorldToViewportPoint(b.Position)
+                    if oa and ob then
+                        obj.Skeleton[i].From = Vector2.new(pa.X, pa.Y)
+                        obj.Skeleton[i].To = Vector2.new(pb.X, pb.Y)
+                        obj.Skeleton[i].Color = ESPFlags.SkeletonColor
+                        obj.Skeleton[i].Visible = true
+                    else obj.Skeleton[i].Visible = false end
+                elseif obj.Skeleton[i] then obj.Skeleton[i].Visible = false end
+            end
+        else
+            for _, line in ipairs(obj.Skeleton) do line.Visible = false end
+        end
+
+        if ESPFlags.Chams then
+            local highlight = HighlightObjects[player]
+            if not highlight or not highlight.Parent then
+                highlight = Instance.new("Highlight")
+                highlight.Name = "MianiBlueESPHighlight"
+                highlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+                highlight.Parent = CoreGui
+                HighlightObjects[player] = highlight
+            end
+            highlight.Adornee = character
+            highlight.FillColor = getESPColor(player, ESPFlags.ChamsColor)
+            highlight.OutlineColor = Color3.fromRGB(255,255,255)
+            highlight.FillTransparency = 0.55
+            highlight.OutlineTransparency = 0.1
+            highlight.Enabled = true
+        elseif HighlightObjects[player] then
+            HighlightObjects[player].Enabled = false
+        end
+    end
+end)
+
+local function drawBulletTracer(endPos)
+    if not VisualTracers.Enabled then return end
+    local character = LocalPlayer.Character
+    local tool = character and character:FindFirstChildOfClass("Tool")
+    local handle = tool and tool:FindFirstChild("Handle")
+    if not handle then return end
+    local muzzle = handle:FindFirstChild("GunMuzzlePoint") or handle:FindFirstChild("GunFirePoint")
+    local startPos = muzzle and muzzle:IsA("Attachment") and muzzle.WorldPosition or handle.Position
+    local startPart = Instance.new("Part")
+    startPart.Anchored = true; startPart.Transparency = 1; startPart.CanCollide = false; startPart.CanQuery = false; startPart.CanTouch = false
+    startPart.Position = startPos; startPart.Parent = workspace
+    local endPart = Instance.new("Part")
+    endPart.Anchored = true; endPart.Transparency = 1; endPart.CanCollide = false; endPart.CanQuery = false; endPart.CanTouch = false
+    endPart.Position = endPos; endPart.Parent = workspace
+    local a0 = Instance.new("Attachment", startPart)
+    local a1 = Instance.new("Attachment", endPart)
+    local beam = Instance.new("Beam", startPart)
+    beam.Attachment0 = a0; beam.Attachment1 = a1; beam.FaceCamera = true; beam.LightEmission = 1; beam.Width0 = 0.08; beam.Width1 = 0.04
+    if VisualTracers.Rainbow then
+        task.spawn(function()
+            while beam and beam.Parent do
+                local h = (tick() % 5) / 5
+                beam.Color = ColorSequence.new(Color3.fromHSV(h,1,1), Color3.fromHSV((h + 0.12) % 1,1,1))
+                task.wait(0.05)
+            end
+        end)
+    else
+        beam.Color = ColorSequence.new(VisualTracers.StartColor, VisualTracers.EndColor)
+    end
+    task.delay(VisualTracers.Duration, function()
+        pcall(function() startPart:Destroy() end)
+        pcall(function() endPart:Destroy() end)
+    end)
+end
+
+UserInputService.InputBegan:Connect(function(input, gp)
+    if gp or not VisualTracers.Enabled then return end
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.KeyCode == Enum.KeyCode.ButtonR2 then
+        local mouse = LocalPlayer:GetMouse()
+        if mouse and mouse.Hit then drawBulletTracer(mouse.Hit.Position) end
+    end
+end)
+
+local WorldSection = VisualsTab:Section({Name = "World Visuals", Side = 1})
+WorldSection:Toggle({Name = "Fullbright", Flag = "BlueWorldFullbright", Default = false, Callback = function(v) WorldVisuals.Fullbright = v end})
+WorldSection:Toggle({Name = "Enable Saturation", Flag = "BlueWorldSaturation", Default = false, Callback = function(v) WorldVisuals.SaturationEnabled = v end})
+WorldSection:Slider({Name = "Saturation Value", Flag = "BlueWorldSaturationValue", Min = 0, Max = 200, Default = 100, Callback = function(v) WorldVisuals.SaturationValue = v / 100 end})
+WorldSection:Toggle({Name = "Enable FOV", Flag = "BlueWorldFOV", Default = false, Callback = function(v) WorldVisuals.FieldOfViewEnabled = v end})
+WorldSection:Slider({Name = "FOV Value", Flag = "BlueWorldFOVValue", Min = 30, Max = 120, Default = 70, Callback = function(v) WorldVisuals.FieldOfViewValue = v end})
+WorldSection:Toggle({Name = "Enable Stretch", Flag = "BlueWorldStretch", Default = false, Callback = function(v) WorldVisuals.StretchEnabled = v end})
+WorldSection:Slider({Name = "Stretch Value", Flag = "BlueWorldStretchValue", Min = 0.1, Max = 2, Default = 0.7, Callback = function(v) WorldVisuals.StretchValue = v end})
+WorldSection:Toggle({Name = "Enable Fog Color", Flag = "BlueWorldFog", Default = false, Callback = function(v) WorldVisuals.FogColorEnabled = v end})
+WorldSection:Dropdown({Name = "Fog Color", Flag = "BlueWorldFogColor", Items = VisualColorNames, Default = "White", Callback = function(v) WorldVisuals.FogColor = getVisualColor(v, Color3.fromRGB(255,255,255)) end})
+WorldSection:Toggle({Name = "Enable Ambient Tint", Flag = "BlueWorldAmbient", Default = false, Callback = function(v) WorldVisuals.AmbientEnabled = v end})
+WorldSection:Dropdown({Name = "Ambient Color", Flag = "BlueWorldAmbientColor", Items = VisualColorNames, Default = "White", Callback = function(v) WorldVisuals.AmbientColor = getVisualColor(v, Color3.fromRGB(255,255,255)) end})
+
+local SkyVisualSection = VisualsTab:Section({Name = "Custom Sky", Side = 1})
+if skyNames and applySky then
+    SkyVisualSection:Dropdown({Name = "Select Sky", Flag = "VisualsCustomSky", Items = skyNames, Default = "None", Callback = function(choice)
+        currentSkyChoice = normalizeDropdownValue(choice) or tostring(choice)
+        pcall(applySky, currentSkyChoice)
+        sendNotification("Sky", "Selected: " .. tostring(currentSkyChoice))
+    end})
 else
-  error("Mnx | Public Enemy : "..tostring(sOx3nLk9Xm))
+    SkyVisualSection:Label({Name = "Custom sky list unavailable", Alignment = "Left"})
 end
+
+local ESPMainSection = VisualsTab:Section({Name = "Player ESP", Side = 2})
+ESPMainSection:Toggle({Name = "ESP Enabled", Flag = "BlueESPEnabled", Default = false, Callback = function(v) ESPFlags.Enabled = v end})
+ESPMainSection:Slider({Name = "Render Distance", Flag = "BlueESPRenderDistance", Min = 50, Max = 5000, Default = 500, Callback = function(v) ESPFlags.RenderDistance = v end})
+ESPMainSection:Toggle({Name = "Team Color", Flag = "BlueESPTeamColor", Default = true, Callback = function(v) ESPFlags.TeamColor = v end})
+ESPMainSection:Toggle({Name = "Boxes", Flag = "BlueESPBoxes", Default = false, Callback = function(v) ESPFlags.Boxes = v end})
+ESPMainSection:Dropdown({Name = "Box Type", Flag = "BlueESPBoxType", Items = {"Corner", "Full"}, Default = "Corner", Callback = function(v) ESPFlags.BoxType = tostring(v) end})
+ESPMainSection:Dropdown({Name = "Box Color", Flag = "BlueESPBoxColor", Items = VisualColorNames, Default = "Red", Callback = function(v) ESPFlags.BoxColor = getVisualColor(v, Color3.fromRGB(255,0,0)) end})
+ESPMainSection:Toggle({Name = "Box Fill", Flag = "BlueESPBoxFill", Default = false, Callback = function(v) ESPFlags.BoxFill = v end})
+ESPMainSection:Dropdown({Name = "Box Fill Color", Flag = "BlueESPBoxFillColor", Items = VisualColorNames, Default = "White", Callback = function(v) ESPFlags.BoxFillColor = getVisualColor(v, Color3.fromRGB(255,255,255)) end})
+ESPMainSection:Toggle({Name = "Healthbar", Flag = "BlueESPHealthbar", Default = false, Callback = function(v) ESPFlags.Healthbar = v end})
+ESPMainSection:Toggle({Name = "Healthbar Number", Flag = "BlueESPHealthbarNumber", Default = false, Callback = function(v) ESPFlags.HealthbarNumber = v end})
+ESPMainSection:Slider({Name = "Healthbar Thickness", Flag = "BlueESPHealthbarThickness", Min = 1, Max = 10, Default = 2, Callback = function(v) ESPFlags.HealthbarThickness = v end})
+
+local ESPTextSection = VisualsTab:Section({Name = "ESP Text / Lines", Side = 2})
+ESPTextSection:Toggle({Name = "Name", Flag = "BlueESPName", Default = false, Callback = function(v) ESPFlags.Name = v end})
+ESPTextSection:Toggle({Name = "Distance", Flag = "BlueESPDistance", Default = false, Callback = function(v) ESPFlags.Distance = v end})
+ESPTextSection:Toggle({Name = "Weapon", Flag = "BlueESPWeapon", Default = false, Callback = function(v) ESPFlags.Weapon = v end})
+ESPTextSection:Slider({Name = "Text Size", Flag = "BlueESPTextSize", Min = 8, Max = 20, Default = 13, Callback = function(v) ESPFlags.TextSize = v end})
+ESPTextSection:Dropdown({Name = "Text Color", Flag = "BlueESPTextColor", Items = VisualColorNames, Default = "White", Callback = function(v) ESPFlags.TextColor = getVisualColor(v, Color3.fromRGB(255,255,255)) end})
+ESPTextSection:Toggle({Name = "Snaplines", Flag = "BlueESPSnaplines", Default = false, Callback = function(v) ESPFlags.Snaplines = v end})
+ESPTextSection:Dropdown({Name = "Snapline Color", Flag = "BlueESPSnaplineColor", Items = VisualColorNames, Default = "Red", Callback = function(v) ESPFlags.SnaplineColor = getVisualColor(v, Color3.fromRGB(255,0,0)) end})
+ESPTextSection:Toggle({Name = "Skeleton", Flag = "BlueESPSkeleton", Default = false, Callback = function(v) ESPFlags.Skeleton = v end})
+ESPTextSection:Dropdown({Name = "Skeleton Color", Flag = "BlueESPSkeletonColor", Items = VisualColorNames, Default = "White", Callback = function(v) ESPFlags.SkeletonColor = getVisualColor(v, Color3.fromRGB(255,255,255)) end})
+ESPTextSection:Toggle({Name = "Look Tracers", Flag = "BlueESPLookTracers", Default = false, Callback = function(v) ESPFlags.LookTracers = v end})
+ESPTextSection:Dropdown({Name = "Look Tracer Color", Flag = "BlueESPLookTracerColor", Items = VisualColorNames, Default = "Cyan", Callback = function(v) ESPFlags.LookTracerColor = getVisualColor(v, Color3.fromRGB(0,255,255)) end})
+
+-- ============================================================================
+-- MOBILE SUPPORT / CLOSE BUTTON
+-- ============================================================================
+local mobileGui = Instance.new("ScreenGui")
+mobileGui.Name = "MianiFootballMobileToggleMenu"
+mobileGui.ResetOnSpawn = false
+mobileGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+mobileGui.DisplayOrder = 99999
+
+pcall(function()
+    local success = pcall(function() local _ = CoreGui.Name end)
+    if success then
+        mobileGui.Parent = CoreGui
+    else
+        mobileGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+    end
+end)
+
+local toggleButton = Instance.new("ImageButton")
+toggleButton.Size = UDim2.new(0, 68, 0, 68)
+toggleButton.Position = UDim2.new(0, 12, 0.5, -34)
+toggleButton.Image = "rbxassetid://109948061273706"
+toggleButton.BackgroundColor3 = Color3.fromRGB(18, 18, 22)
+toggleButton.BackgroundTransparency = 0.15
+toggleButton.ScaleType = Enum.ScaleType.Stretch
+toggleButton.Active = true
+toggleButton.Parent = mobileGui
+local corner = Instance.new("UICorner"); corner.CornerRadius = UDim.new(0, 18); corner.Parent = toggleButton
+local stroke = Instance.new("UIStroke"); stroke.Color = Color3.fromRGB(255, 0, 0); stroke.Thickness = 3; stroke.Parent = toggleButton
+local textBadge = Instance.new("TextLabel")
+textBadge.Size = UDim2.new(1, 20, 0, 20); textBadge.Position = UDim2.new(0, -10, 1, 4)
+textBadge.BackgroundColor3 = Color3.fromRGB(18, 18, 22); textBadge.Text = "CLOSE"
+textBadge.TextColor3 = Color3.fromRGB(255, 255, 255); textBadge.Font = Enum.Font.GothamBold; textBadge.TextSize = 11
+textBadge.BorderSizePixel = 0; textBadge.Parent = toggleButton
+Instance.new("UICorner", textBadge).CornerRadius = UDim.new(0, 6)
+local badgeStroke = Instance.new("UIStroke", textBadge); badgeStroke.Color = Color3.fromRGB(255, 0, 0); badgeStroke.Thickness = 1.5
+
+local uiVisible = true
+Library.MenuKeybind = "None"
+local function toggleUI()
+    uiVisible = not uiVisible
+    pcall(function()
+        if Window and Window.Elements and Window.Elements["MainFrame"] then
+            Window.Elements["MainFrame"].Instance.Visible = uiVisible
+        end
+    end)
+    textBadge.Text = uiVisible and "CLOSE" or "MENU"
+    textBadge.BackgroundColor3 = uiVisible and Color3.fromRGB(18, 18, 22) or Color3.fromRGB(150, 20, 20)
+end
+toggleButton.MouseButton1Click:Connect(toggleUI)
+
+dragging, dragStart, startPos = false, nil, nil
+toggleButton.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        dragging = true; dragStart = input.Position; startPos = toggleButton.Position
+        input.Changed:Connect(function() if input.UserInputState == Enum.UserInputState.End then dragging = false end end)
+    end
+end)
+game:GetService("UserInputService").InputChanged:Connect(function(input)
+    if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+        local delta = input.Position - dragStart
+        toggleButton.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+    end
+end)
+game:GetService("UserInputService").InputBegan:Connect(function(input, gp)
+    if gp then return end
+    if input.KeyCode == Enum.KeyCode.RightShift or input.KeyCode == Enum.KeyCode.RightControl or input.KeyCode == Enum.KeyCode.Insert then toggleUI() end
+end)
+
+
+Library:Init()
+
+task.spawn(function()
+    for i = 1, 15 do
+        task.wait(0.5)
+        pcall(function()
+            if Window and Window.Elements and Window.Elements["Title"] then
+                Window.Elements["Title"].Instance.RichText = true
+            end
+            
+            local uiScreen = nil
+            local success = pcall(function() local _ = CoreGui.Name end)
+            if success then
+                uiScreen = CoreGui:FindFirstChild("Thugsense")
+            else
+                local playerGui = LocalPlayer:FindFirstChild("PlayerGui")
+                if playerGui then uiScreen = playerGui:FindFirstChild("Thugsense") end
+            end
+            
+            if uiScreen then
+                local uiScale = uiScreen:FindFirstChildWhichIsA("UIScale", true)
+                if uiScale and uiScale.Scale < 1 then uiScale.Scale = 1 end
+                
+                for _, v in pairs(uiScreen:GetDescendants()) do
+                    if v:IsA("TextLabel") and string.find(v.Text, "miani football") then
+                        v.RichText = true
+                    end
+                end
+            end
+        end)
+    end
+end)
