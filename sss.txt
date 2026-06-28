@@ -3302,11 +3302,13 @@ end)
 ------------------------------------------------------------
 task.spawn(function()
     local UIS = game:GetService("UserInputService")
-    local isMobile = UIS.TouchEnabled and not UIS.MouseEnabled
+    local isTouchDevice = UIS.TouchEnabled
 
-    -- iPad/tablet detection (touch + larger screen than a phone)
+    -- iPad/tablet: touch screen + larger viewport (don't rely on MouseEnabled,
+    -- iPads with keyboards report MouseEnabled=true which broke detection before)
     local screen = workspace.CurrentCamera and workspace.CurrentCamera.ViewportSize or Vector2.new(1920, 1080)
-    local isTablet = isMobile and (screen.X > 1100 or screen.Y > 700)
+    local isTablet = isTouchDevice and (screen.X >= 900 or screen.Y >= 700)
+    local isMobile = isTouchDevice and not isTablet
 
     local target
     if isTablet then
