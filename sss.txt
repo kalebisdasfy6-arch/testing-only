@@ -3296,93 +3296,78 @@ end)
 
 ------------------------------------------------------------
 --  UI SCALE  (force-bigger on mobile + iPad)
---  Thugsense applies UIScale = 0.7 on mobile which shrinks it.
---  We forcibly add a UIScale to Library.Holder and lock it via
---  a property-changed listener so the library can't reset it.
+--  Thugsense's holder is a ScreenGui parented to gethui() (NOT CoreGui)
+--  with a null-char name. We grab it directly via Library.Holder.Instance,
+--  destroy any existing UIScale (which Thugsense sets to 0.7 on mobile),
+--  and add our own locked one.
 ------------------------------------------------------------
 task.spawn(function()
     local UIS = game:GetService("UserInputService")
-    local isMobile = UIS.TouchEnabled and not UIS.MouseEnabled
 
-    -- iPad/tablet detection
-    local screen = workspace.CurrentCamera and workspace.CurrentCamera.ViewportSize or Vector2.new(1920, 1080)
-    local isTablet = isMobile and (screen.X > 1100 or screen.Y > 700)
+    -- Better mobile/iPad detection (iPad reports MouseEnabled = true sometimes)
+    local isTouch  = UIS.TouchEnabled
+    local screen   = workspace.CurrentCamera and workspace.CurrentCamera.ViewportSize or Vector2.new(1920, 1080)
+    local isTablet = isTouch and (screen.X > 1100 or screen.Y > 700)
+    local isPhone  = isTouch and not isTablet
 
     local target
-    if isTablet then
-        target = 2.0
-    elseif isMobile then
-        target = 2.5
+    if isPhone then
+        target = 2.5      -- phone: 250%
+    elseif isTablet then
+        target = 2.2      -- iPad / tablet: 220%
     else
-        target = 1.15
+        target = 1.15     -- desktop: 115%
     end
 
-    -- Wait for the library's Holder to exist (this is where Thugsense puts its UIScale)
+    -- Wait for Library.Holder to exist (this is the ScreenGui inside gethui())
     local holder
-    for _ = 1, 120 do
-        if Library and Library.Holder and Library.Holder.Instance then
+    for _ = 1, 200 do
+        if Library and Library.Holder and Library.Holder.Instance and Library.Holder.Instance.Parent then
             holder = Library.Holder.Instance
             break
         end
-        task.wait(0.1)
+        task.wait(0.05)
     end
-
-    -- Fallback: walk CoreGui/PlayerGui looking for our title
     if not holder then
-        for _ = 1, 80 do
-            for _, root in ipairs({ CoreGui, LocalPlayer:FindFirstChildOfClass("PlayerGui") }) do
-                if root then
-                    for _, sg in ipairs(root:GetChildren()) do
-                        if sg:IsA("ScreenGui") then
-                            for _, d in ipairs(sg:GetDescendants()) do
-                                if d:IsA("TextLabel") and d.Text == "miami football" then
-                                    holder = sg
-                                    break
-                                end
-                            end
-                        end
-                        if holder then break end
-                    end
-                end
-                if holder then break end
+        warn("[miami] could not find Library.Holder for UI scaling")
+        return
+    end
+
+    -- Destroy every existing UIScale anywhere in the holder hierarchy
+    local function killOtherScales()
+        for _, d in ipairs(holder:GetDescendants()) do
+            if d:IsA("UIScale") and d.Name ~= "MiamiUIScale" then
+                pcall(function() d:Destroy() end)
             end
-            if holder then break end
-            task.wait(0.1)
         end
     end
-    if not holder then return end
+    killOtherScales()
 
-    -- Destroy ALL existing UIScales (Thugsense may have added one with Scale = 0.7)
-    for _, d in ipairs(holder:GetDescendants()) do
-        if d:IsA("UIScale") then
-            d:Destroy()
-        end
-    end
-
-    -- Create our own UIScale and parent it directly to the holder
+    -- Create our locked UIScale directly on the holder
     local scaler = Instance.new("UIScale")
     scaler.Name   = "MiamiUIScale"
     scaler.Scale  = target
     scaler.Parent = holder
 
-    -- Property listener: if anything tries to change our Scale, snap it back
+    -- Lock it: if anything changes Scale, snap it back
     scaler:GetPropertyChangedSignal("Scale"):Connect(function()
-        if scaler.Scale ~= target then
-            scaler.Scale = target
+        if scaler.Scale ~= target then scaler.Scale = target end
+    end)
+
+    -- Continuously kill any new UIScales the library adds later
+    holder.DescendantAdded:Connect(function(d)
+        if d:IsA("UIScale") and d ~= scaler then
+            task.wait(0.05)
+            pcall(function() d:Destroy() end)
+            if scaler.Scale ~= target then scaler.Scale = target end
         end
     end)
 
-    -- Periodically also kill any NEW UIScales the library tries to add later
-    task.spawn(function()
-        while scaler.Parent do
-            for _, d in ipairs(holder:GetDescendants()) do
-                if d:IsA("UIScale") and d ~= scaler then
-                    d:Destroy()
-                end
-            end
-            task.wait(2)
-        end
-    end)
+    -- Print confirmation so we can verify
+    print(string.format("[miami] UI scaled to %d%% (phone=%s, tablet=%s, screen=%dx%d)",
+        math.floor(target * 100),
+        tostring(isPhone), tostring(isTablet),
+        screen.X, screen.Y))
 end)
 
 Library:Init()
