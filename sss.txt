@@ -3295,38 +3295,83 @@ task.spawn(function()
 end)
 
 ------------------------------------------------------------
---  UI SCALE  (mobile / iPad)
---  The Thugsense library creates its own UIScale (usually ~0.7 on mobile).
---  We find that ONE existing UIScale and bump it up.
---  We NEVER add new ones — stacking them was causing the over-zoom.
+--  UI SCALE  (matches 64th.lol / Obsidian's auto-detection)
+--  Uses UserInputService:GetPlatform() like Obsidian does — much more
+--  reliable than TouchEnabled checks for telling phone vs iPad vs PC.
 ------------------------------------------------------------
 task.spawn(function()
     local UIS = game:GetService("UserInputService")
-    if not UIS.TouchEnabled then return end  -- desktop is fine as-is
+    local RunService = game:GetService("RunService")
 
-    local screen = workspace.CurrentCamera and workspace.CurrentCamera.ViewportSize or Vector2.new(1920, 1080)
-    local isTablet = (screen.X >= 900 or screen.Y >= 700)
-    local target = isTablet and 1.2 or 1.0
+    -- Detect platform the same way Obsidian does
+    local platform
+    pcall(function() platform = UIS:GetPlatform() end)
 
-    local found = nil
-    for _ = 1, 100 do
-        task.wait(0.1)
-        for _, root in ipairs({ CoreGui, LocalPlayer:FindFirstChildOfClass("PlayerGui") }) do
-            if not root then continue end
-            for _, sg in ipairs(root:GetChildren()) do
-                if not sg:IsA("ScreenGui") then continue end
-                if sg.Name == "MiamiFootballToggleMenu" then continue end
-                for _, d in ipairs(sg:GetDescendants()) do
-                    if d:IsA("UIScale") then found = d; break end
-                end
-                if found then break end
-            end
-            if found then break end
-        end
-        if found then break end
+    local isIOS     = platform == Enum.Platform.IOS
+    local isAndroid = platform == Enum.Platform.Android
+    local isMobile  = isIOS or isAndroid
+
+    -- Tell phone vs iPad apart by screen size (iPad is much wider)
+    local screen   = workspace.CurrentCamera and workspace.CurrentCamera.ViewportSize or Vector2.new(1920, 1080)
+    local longest  = math.max(screen.X, screen.Y)
+    local isTablet = isMobile and longest >= 1100   -- iPads / large Android tablets
+    local isPhone  = isMobile and not isTablet
+
+    -- These three numbers feel like 64th.lol on each device
+    local target
+    if isPhone then
+        target = 1.45     -- phone: 145%
+    elseif isTablet then
+        target = 1.25     -- iPad / tablet: 125%
+    else
+        target = 1.0      -- desktop: 100%
     end
 
-    if found then pcall(function() found.Scale = target end) end
+    -- Grab the library's holder (a ScreenGui parented to gethui())
+    local holder
+    for _ = 1, 200 do
+        if Library and Library.Holder and Library.Holder.Instance and Library.Holder.Instance.Parent then
+            holder = Library.Holder.Instance
+            break
+        end
+        task.wait(0.05)
+    end
+    if not holder then
+        warn("[miami] UI scale: could not find Library.Holder")
+        return
+    end
+
+    -- Destroy every existing UIScale (Thugsense adds one with Scale = 0.7 on mobile)
+    for _, d in ipairs(holder:GetDescendants()) do
+        if d:IsA("UIScale") and d.Name ~= "MiamiUIScale" then
+            pcall(function() d:Destroy() end)
+        end
+    end
+
+    -- Create our locked UIScale
+    local scaler = Instance.new("UIScale")
+    scaler.Name   = "MiamiUIScale"
+    scaler.Scale  = target
+    scaler.Parent = holder
+
+    -- Lock the Scale value
+    scaler:GetPropertyChangedSignal("Scale"):Connect(function()
+        if scaler.Scale ~= target then scaler.Scale = target end
+    end)
+
+    -- Kill any new UIScales the library adds later
+    holder.DescendantAdded:Connect(function(d)
+        if d:IsA("UIScale") and d ~= scaler then
+            task.wait(0.05)
+            pcall(function() d:Destroy() end)
+        end
+    end)
+
+    print(string.format("[miami] UI scale = %d%% (platform=%s, phone=%s, tablet=%s, screen=%dx%d)",
+        math.floor(target * 100),
+        tostring(platform),
+        tostring(isPhone), tostring(isTablet),
+        screen.X, screen.Y))
 end)
 
 Library:Init()
