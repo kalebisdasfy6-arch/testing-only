@@ -3314,7 +3314,7 @@ task.spawn(function()
     if isPhone then
         target = 1.5      -- phone: 150%
     elseif isTablet then
-        target = 1.25     -- iPad / tablet: 125%
+        target = 0.5      -- iPad / tablet: 50% (CACHE TEST - if this still looks the same, your executor is caching)
     else
         target = 1.0      -- desktop: 100%
     end
