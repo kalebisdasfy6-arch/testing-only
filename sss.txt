@@ -3295,56 +3295,38 @@ task.spawn(function()
 end)
 
 ------------------------------------------------------------
---  UI SCALE  (bigger on mobile / iPad)
---  Hits every ScreenGui + every UIScale inside it, then re-applies
---  repeatedly so the library cannot revert it.
+--  UI SCALE  (mobile / iPad)
+--  The Thugsense library creates its own UIScale (usually ~0.7 on mobile).
+--  We find that ONE existing UIScale and bump it up.
+--  We NEVER add new ones — stacking them was causing the over-zoom.
 ------------------------------------------------------------
-local function applyUIScale()
-    local UIS = game:GetService("UserInputService")
-    local isTouchDevice = UIS.TouchEnabled
-    local screen = workspace.CurrentCamera and workspace.CurrentCamera.ViewportSize or Vector2.new(1920, 1080)
-    local isTablet = isTouchDevice and (screen.X >= 900 or screen.Y >= 700)
-    local isMobile  = isTouchDevice and not isTablet
-
-    local target
-    if isTablet then
-        target = 2.6
-    elseif isMobile then
-        target = 2.9
-    else
-        target = 1.15
-    end
-
-    local roots = { CoreGui, LocalPlayer:FindFirstChildOfClass("PlayerGui") }
-    for _, root in ipairs(roots) do
-        if not root then continue end
-        for _, sg in ipairs(root:GetChildren()) do
-            if not sg:IsA("ScreenGui") then continue end
-            if sg.Name == "MiamiFootballToggleMenu" then continue end
-            for _, d in ipairs(sg:GetDescendants()) do
-                if d:IsA("UIScale") then
-                    pcall(function() d.Scale = target end)
-                end
-            end
-            local direct = sg:FindFirstChildOfClass("UIScale")
-            if not direct then
-                local s = Instance.new("UIScale")
-                s.Scale = target
-                s.Parent = sg
-            else
-                pcall(function() direct.Scale = target end)
-            end
-        end
-    end
-end
-
 task.spawn(function()
-    task.wait(2)
-    applyUIScale()
-    for _ = 1, 20 do
-        task.wait(0.5)
-        applyUIScale()
+    local UIS = game:GetService("UserInputService")
+    if not UIS.TouchEnabled then return end  -- desktop is fine as-is
+
+    local screen = workspace.CurrentCamera and workspace.CurrentCamera.ViewportSize or Vector2.new(1920, 1080)
+    local isTablet = (screen.X >= 900 or screen.Y >= 700)
+    local target = isTablet and 1.2 or 1.0
+
+    local found = nil
+    for _ = 1, 100 do
+        task.wait(0.1)
+        for _, root in ipairs({ CoreGui, LocalPlayer:FindFirstChildOfClass("PlayerGui") }) do
+            if not root then continue end
+            for _, sg in ipairs(root:GetChildren()) do
+                if not sg:IsA("ScreenGui") then continue end
+                if sg.Name == "MiamiFootballToggleMenu" then continue end
+                for _, d in ipairs(sg:GetDescendants()) do
+                    if d:IsA("UIScale") then found = d; break end
+                end
+                if found then break end
+            end
+            if found then break end
+        end
+        if found then break end
     end
+
+    if found then pcall(function() found.Scale = target end) end
 end)
 
 Library:Init()
