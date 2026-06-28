@@ -3295,65 +3295,55 @@ task.spawn(function()
 end)
 
 ------------------------------------------------------------
---  UI SCALE  (bigger on mobile, slightly bigger on desktop)
---  Thugsense applies UIScale = 0.7 on mobile by default which makes
---  it tiny; we wait until it builds, find that UIScale, and override it.
---  Also injects a UIScale on desktop for a small bump.
+--  UI SCALE  (bigger on mobile / iPad)
+--  Hits every ScreenGui + every UIScale inside it, then re-applies
+--  repeatedly so the library cannot revert it.
 ------------------------------------------------------------
-task.spawn(function()
+local function applyUIScale()
     local UIS = game:GetService("UserInputService")
     local isTouchDevice = UIS.TouchEnabled
-
-    -- iPad/tablet: touch screen + larger viewport (don't rely on MouseEnabled,
-    -- iPads with keyboards report MouseEnabled=true which broke detection before)
     local screen = workspace.CurrentCamera and workspace.CurrentCamera.ViewportSize or Vector2.new(1920, 1080)
     local isTablet = isTouchDevice and (screen.X >= 900 or screen.Y >= 700)
-    local isMobile = isTouchDevice and not isTablet
+    local isMobile  = isTouchDevice and not isTablet
 
     local target
     if isTablet then
-        target = 2.6       -- iPad / tablet: 260%
+        target = 2.6
     elseif isMobile then
-        target = 2.9       -- phone: 290%
+        target = 2.9
     else
-        target = 1.15      -- desktop: 115%
+        target = 1.15
     end
 
-    -- find the library's holder and the existing UIScale (if any)
-    local holder
-    for _ = 1, 80 do
-        for _, root in ipairs({ CoreGui, LocalPlayer:FindFirstChildOfClass("PlayerGui") }) do
-            if root then
-                for _, sg in ipairs(root:GetChildren()) do
-                    if sg:IsA("ScreenGui") then
-                        for _, d in ipairs(sg:GetDescendants()) do
-                            if d:IsA("TextLabel") and d.Text == "miami football" then
-                                holder = sg
-                                break
-                            end
-                        end
-                    end
-                    if holder then break end
+    local roots = { CoreGui, LocalPlayer:FindFirstChildOfClass("PlayerGui") }
+    for _, root in ipairs(roots) do
+        if not root then continue end
+        for _, sg in ipairs(root:GetChildren()) do
+            if not sg:IsA("ScreenGui") then continue end
+            if sg.Name == "MiamiFootballToggleMenu" then continue end
+            for _, d in ipairs(sg:GetDescendants()) do
+                if d:IsA("UIScale") then
+                    pcall(function() d.Scale = target end)
                 end
             end
-            if holder then break end
+            local direct = sg:FindFirstChildOfClass("UIScale")
+            if not direct then
+                local s = Instance.new("UIScale")
+                s.Scale = target
+                s.Parent = sg
+            else
+                pcall(function() direct.Scale = target end)
+            end
         end
-        if holder then break end
-        task.wait(0.1)
     end
-    if not holder then return end
+end
 
-    -- override any existing UIScale, otherwise create one
-    local existing
-    for _, d in ipairs(holder:GetDescendants()) do
-        if d:IsA("UIScale") then existing = d; break end
-    end
-    if existing then
-        existing.Scale = target
-    else
-        local s = Instance.new("UIScale")
-        s.Scale = target
-        s.Parent = holder
+task.spawn(function()
+    task.wait(2)
+    applyUIScale()
+    for _ = 1, 20 do
+        task.wait(0.5)
+        applyUIScale()
     end
 end)
 
